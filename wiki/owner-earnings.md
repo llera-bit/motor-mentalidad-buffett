@@ -1,7 +1,7 @@
 ---
 concepto: Owner earnings
 domain: valoracion
-years: [1986]
+years: [1986, 1989]
 estado: borrador
 actualizado: 2026-07-08
 ---
