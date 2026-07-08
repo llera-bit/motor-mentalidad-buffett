@@ -14,7 +14,7 @@ _Páginas de la wiki agrupadas por `domain`. Se actualiza con cada ingesta._
 - [Candor](wiki/candor.md) — informar con franqueza; engañar en público acaba engañándote
   a ti mismo en privado. `[1983]`
 - [Hiperactividad del mercado](wiki/hiperactividad-del-mercado.md) — la rotación es un
-  impuesto que el inversor se impone; "pickpocket of enterprise". `[1983, 1986]`
+  impuesto que el inversor se impone; "pickpocket of enterprise". `[1983, 1986, 2004]`
 - [Fallar convencionalmente](wiki/fallar-convencionalmente.md) — el incentivo del gestor a
   seguir a la manada; actuar como dueño libera de él. `[1984]`
 - [Miedo y codicia](wiki/miedo-y-codicia.md) — dos enfermedades súper-contagiosas; ser

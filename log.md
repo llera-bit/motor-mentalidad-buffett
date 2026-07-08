@@ -230,3 +230,11 @@ _Registro append-only. Prefijo por entrada: `## [YYYY-MM-DD] <op> | <detalle>`
   los genes fiduciarios), `incentivos-alineados` (+2003: captura de comités/consultores de compensación).
 - **Nota:** se omite la macro (Squanderville/Thriftville) por criterio de alcance.
 - **Estado:** borrador (todas).
+
+## [2026-07-08] ingest | carta 2004
+- **Fuente:** `raw/2004.pdf`
+- **Páginas creadas:** ninguna (carta de exceso de caja y dólar/macro).
+- **Páginas enriquecidas:** `hiperactividad-del-mercado` (+2004: la emoción y los costes son los
+  enemigos del inversor; tres causas de bajo rendimiento).
+- **Nota:** se omite la macro del dólar; float y disciplina de suscripción vienen como restatement.
+- **Estado:** borrador (todas).

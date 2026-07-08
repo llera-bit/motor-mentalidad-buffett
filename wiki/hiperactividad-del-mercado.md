@@ -1,7 +1,7 @@
 ---
 concepto: Hiperactividad del mercado
 domain: psicologia
-years: [1983, 1986]
+years: [1983, 1986, 2004]
 estado: borrador
 actualizado: 2026-07-08
 ---
@@ -47,3 +47,4 @@ Y define al gestor hiperactivo con sarcasmo.
 ## Cartas fuente
 - 1983
 - 1986
+- 2004
