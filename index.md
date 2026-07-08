@@ -56,7 +56,7 @@ _Páginas de la wiki agrupadas por `domain`. Se actualiza con cada ingesta._
 - [Arbitraje](wiki/arbitraje.md) — cuatro preguntas para evaluar una operación anunciada;
   pocas, grandes y públicas. `[1988]`
 - [Círculo de competencia](wiki/circulo-de-competencia.md) — obstáculos de un palmo, no de
-  dos metros; agnóstico fuera de lo que se entiende. `[1989, 1990, 1992, 1993, 1996]`
+  dos metros; agnóstico fuera de lo que se entiende. `[1989, 1990, 1992, 1993, 1996, 1999]`
 - [Franquicia vs. negocio](wiki/franquicia-vs-negocio.md) — la franquicia (3 condiciones)
   tolera mala gestión; el negocio puede morir por ella. `[1991]`
 

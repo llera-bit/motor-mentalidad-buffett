@@ -1,7 +1,7 @@
 ---
 concepto: Círculo de competencia
 domain: modelos-mentales
-years: [1989, 1990, 1992, 1993, 1996]
+years: [1989, 1990, 1992, 1993, 1996, 1999]
 estado: borrador
 actualizado: 2026-07-08
 ---
@@ -61,6 +61,15 @@ límites lo es todo.
 > theory, option pricing or emerging markets... investment students need only two well-taught
 > courses - How to Value a Business, and How to Think About Market Prices." — 1996
 
+En 1999, en plena burbuja tecnológica, lo pone a prueba: no compra tecnología no por pesimismo,
+sino porque no sabe qué compañías tendrán una ventaja duradera. La fuerza está en reconocer el
+perímetro del círculo, y no cambiar la razón por la esperanza.
+
+> "If we have a strength, it is in recognizing when we are operating well within our circle of
+> competence and when we are approaching the perimeter... we just stick with what we understand.
+> If we stray, we will have done so inadvertently, not because we got restless and substituted
+> hope for rationality." — 1999
+
 ## Relacionados
 - [[criterios-de-seleccion]] — el primer filtro: un negocio que podamos entender.
 - [[no-predecir-el-mercado]] — fuera del círculo, no se pronostica.
@@ -72,3 +81,4 @@ límites lo es todo.
 - 1992
 - 1993
 - 1996
+- 1999

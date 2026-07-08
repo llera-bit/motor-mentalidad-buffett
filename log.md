@@ -191,3 +191,10 @@ _Registro append-only. Prefijo por entrada: `## [YYYY-MM-DD] <op> | <detalle>`
 - **Páginas enriquecidas:** `float` (+1998: lo que cuenta es el coste; crecer float caro es
   maldición), `holding-para-siempre` (+1998: vender McDonald's fue un error; el trasiego restó).
 - **Estado:** borrador (todas).
+
+## [2026-07-08] ingest | carta 1999
+- **Fuente:** `raw/1999.pdf`
+- **Páginas creadas:** ninguna (peor año relativo; disciplina en la burbuja puntocom).
+- **Páginas enriquecidas:** `circulo-de-competencia` (+1999: reconocer el perímetro; no comprar
+  tecnología por falta de insight sobre ventajas duraderas; no cambiar razón por esperanza).
+- **Estado:** borrador (todas).
