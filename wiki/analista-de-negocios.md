@@ -1,0 +1,52 @@
+---
+concepto: Analista de negocios, no de mercado
+domain: modelos-mentales
+years: [1987]
+estado: borrador
+actualizado: 2026-07-07
+---
+
+# Analista de negocios, no de mercado
+
+Buffett define el marco mental desde el que decide: al invertir, él y Munger se ven como
+**analistas de negocios**, no de mercado, ni macroeconómicos, ni siquiera de valores.
+
+> "When investing, we view ourselves as business analysts - not as market analysts, not
+> as macroeconomic analysts, and not even as security analysts." — 1987
+
+La consecuencia es una indiferencia deliberada a la cotización diaria: una suspensión
+prolongada de la negociación no les molestaría más que la falta de cotización diaria de
+una filial no cotizada.
+
+> "a prolonged suspension of trading in the securities we hold would not bother us any
+> more than does the lack of daily quotations on World Book or Fechheimer." — 1987
+
+El criterio de selección es explícito y cuantitativo —maximizar el retorno esperado
+después de impuestos por "expectativa matemática"— pero acotado por un límite de
+competencia: solo alternativas que creen entender.
+
+> "We just continuously search among them for the highest after-tax returns as measured
+> by 'mathematical expectation,' limiting ourselves always to investment alternatives we
+> think we understand." — 1987
+
+El objetivo no es el beneficio reportable inmediato, sino el patrimonio final.
+
+> "Our criteria have nothing to do with maximizing immediately reportable earnings; our
+> goal, rather, is to maximize eventual net worth." — 1987
+
+Y el árbitro último del acierto no es el precio, sino los resultados operativos del
+negocio —recogiendo la máxima de Graham sobre el corto y el largo plazo.
+
+> "let our marketable equities tell us by their operating results - not by their daily,
+> or even yearly, price quotations - whether our investments are successful." — 1987
+
+> "In the short run, the market is a voting machine but in the long run it is a weighing
+> machine." — 1987 (Buffett citando a Ben Graham)
+
+## Relacionados
+- [[mr-market]] — a quién ignorar (el precio) para poder analizar el negocio.
+- [[volatilidad-y-venta-forzada]] — por qué anclar en el negocio protege de la presión
+  del precio.
+
+## Cartas fuente
+- 1987

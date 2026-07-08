@@ -1,0 +1,67 @@
+---
+concepto: Mr. Market
+domain: psicologia
+years: [1987]
+estado: borrador
+actualizado: 2026-07-07
+---
+
+# Mr. Market
+
+Buffett recupera de su maestro **Ben Graham** la alegoría del socio imaginario *Mr.
+Market* como la actitud mental frente a las fluctuaciones de precio que considera más
+propicia para el éxito inversor. Cada día, sin falta, Mr. Market aparece y te pone un
+precio al que te compra tu parte o te vende la suya.
+
+> "Ben Graham, my friend and teacher, long ago described the mental attitude toward
+> market fluctuations that I believe to be most conducive to investment success. He
+> said that you should imagine market quotations as coming from a remarkably
+> accommodating fellow named Mr. Market who is your partner in a private business.
+> Without fail, Mr. Market appears daily and names a price at which he will either buy
+> your interest or sell you his." — 1987
+
+El negocio subyacente puede tener características económicas estables, pero las
+cotizaciones de Mr. Market no lo serán: tiene problemas emocionales incurables, oscila
+entre la euforia (precios altísimos) y la depresión (precios bajísimos).
+
+> "the poor fellow has incurable emotional problems. At times he feels euphoric and can
+> see only the favorable factors affecting the business... At other times he is
+> depressed and can see nothing but trouble ahead for both the business and the world." — 1987
+
+Su rasgo clave: **no le importa que lo ignores**. Las transacciones son estrictamente a
+tu elección, y cuanto más maníaco-depresivo se comporte, mejor para ti.
+
+> "Mr. Market has another endearing characteristic: He doesn't mind being ignored. If
+> his quotation is uninteresting to you today, he will be back with a new one tomorrow.
+> Transactions are strictly at your option. Under these conditions, the more manic-
+> depressive his behavior, the better for you." — 1987
+
+La advertencia central: Mr. Market está ahí para **servirte, no para guiarte**. Te es
+útil su bolsillo, no su juicio. Caer bajo su influencia es desastroso.
+
+> "Mr. Market is there to serve you, not to guide you. It is his pocketbook, not his
+> wisdom, that you will find useful." — 1987
+
+Y el requisito de competencia: si no estás seguro de entender y valorar el negocio mucho
+mejor que él, no perteneces al juego.
+
+> "if you aren't certain that you understand and can value your business far better than
+> Mr. Market, you don't belong in the game. As they say in poker, 'If you've been in the
+> game 30 minutes and you don't know who the patsy is, you're the patsy.'" — 1987
+
+Buffett concluye que el éxito no viene de fórmulas ni de señales del comportamiento del
+precio, sino de aislar pensamiento y conducta de las emociones súper-contagiosas del
+mercado.
+
+> "an investor will succeed by coupling good business judgment with an ability to
+> insulate his thoughts and behavior from the super-contagious emotions that swirl about
+> the marketplace." — 1987
+
+## Relacionados
+- [[volatilidad-y-venta-forzada]] — el mecanismo por el que las emociones del mercado
+  llegan a dañarte: la venta forzada.
+- [[analista-de-negocios]] — la contrapartida disciplinada: valorar el negocio, no leer
+  al mercado.
+
+## Cartas fuente
+- 1987
