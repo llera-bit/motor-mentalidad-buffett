@@ -1,7 +1,7 @@
 ---
 concepto: Criterios de selección (cuatro filtros)
 domain: modelos-mentales
-years: [1977, 1978]
+years: [1977, 1978, 1997]
 estado: pendiente
 actualizado: 2026-07-08
 ---
@@ -56,6 +56,14 @@ Como comprador neto en la mayoría de los años, prefiere incluso que esos preci
 > believe are selling at bargain prices. In fact, we prefer just the opposite since, in
 > most years, we expect to have funds available to be a net buyer of securities." — 1978
 
+En 1997 lo vuelve icónico con la parábola de las hamburguesas: quien va a ser comprador neto
+debería preferir precios bajos, no altos.
+
+> "If you expect to be a net saver during the next five years, should you hope for a higher or
+> lower stock market during that period?... Only those who will be sellers of equities in the
+> near future should be happy at seeing stocks rise. Prospective purchasers should much prefer
+> sinking prices." — 1997
+
 ## Relacionados
 - [[disciplina-de-no-actuar]] — el filtro (4), precio, exige la disciplina de esperar.
 - [[mr-market]] — el mecanismo que ofrece esas caídas de precio como oportunidad (1987).
@@ -64,3 +72,4 @@ Como comprador neto en la mayoría de los años, prefiere incluso que esos preci
 ## Cartas fuente
 - 1977
 - 1978
+- 1997

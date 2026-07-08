@@ -1,7 +1,7 @@
 ---
 concepto: Float (flotante del seguro)
 domain: casos
-years: [1995]
+years: [1995, 1997]
 estado: borrador
 actualizado: 2026-07-08
 ---
@@ -31,6 +31,13 @@ la práctica como fondos propios que no hay que aportar.
 
 > "why float wonderfully benefits a business - if it is obtained at a low cost." — 1995
 
+En 1997 remata la ironía contable: el float figura como pasivo, pero ha valido más que unos
+fondos propios equivalentes, porque no solo no ha costado nada, sino que ha dado dinero.
+
+> "Better yet, it has cost us nothing, and in fact has made us money. Therein lies an
+> accounting irony: Though our float is shown on our balance sheet as a liability, it has had a
+> value to Berkshire greater than an equal amount of net worth would have had." — 1997
+
 ## Relacionados
 - [[disciplina-de-no-actuar]] — la disciplina de suscripción es lo que mantiene barato el float.
 - [[fortaleza-financiera-y-liquidez]] — bien gestionado potencia la fortaleza; mal gestionado la amenaza.
@@ -38,3 +45,4 @@ la práctica como fondos propios que no hay que aportar.
 
 ## Cartas fuente
 - 1995
+- 1997

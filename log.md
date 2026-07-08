@@ -176,3 +176,11 @@ _Registro append-only. Prefijo por entrada: `## [YYYY-MM-DD] <op> | <detalle>`
 - **Nota:** corregida deriva en el frontmatter `years` de `circulo-de-competencia` (faltaban
   1992/1993/1996; ya cuadra con cuerpo, Cartas fuente e índice).
 - **Estado:** borrador salvo `disciplina-de-no-actuar` (pendiente).
+
+## [2026-07-08] ingest | carta 1997
+- **Fuente:** `raw/1997.pdf`
+- **Páginas creadas:** ninguna.
+- **Páginas enriquecidas:** `float` (+1997: ironía contable, vale más que fondos propios
+  equivalentes), `criterios-de-seleccion` (+1997: parábola de las hamburguesas / comprador neto
+  prefiere precios bajos).
+- **Estado:** borrador (`float`) / pendiente (`criterios-de-seleccion`).

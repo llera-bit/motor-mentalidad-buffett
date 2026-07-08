@@ -40,7 +40,7 @@ _Páginas de la wiki agrupadas por `domain`. Se actualiza con cada ingesta._
 - [Analista de negocios, no de mercado](wiki/analista-de-negocios.md) — decidir sobre el
   valor del negocio y la expectativa matemática, no sobre la cotización. `[1977, 1984, 1987]`
 - [Criterios de selección (cuatro filtros)](wiki/criterios-de-seleccion.md) — entender,
-  perspectivas a largo plazo, gente honesta y competente, precio atractivo. `[1977, 1978]`
+  perspectivas a largo plazo, gente honesta y competente, precio atractivo. `[1977, 1978, 1997]`
 - [Concentración](wiki/concentracion.md) — concentrar en alta convicción; nada tibio;
   comprar cantidades significativas. `[1978, 1981, 1984, 1988, 1993]`
 - [Vientos a favor vs. en contra](wiki/vientos-a-favor-vs-en-contra.md) — la economía
@@ -84,4 +84,4 @@ _Páginas de la wiki agrupadas por `domain`. Se actualiza con cada ingesta._
 
 ## casos
 - [Float (flotante del seguro)](wiki/float.md) — dinero que se retiene pero no se posee;
-  crea valor si su coste es menor que el de otros fondos. `[1995]`
+  crea valor si su coste es menor que el de otros fondos. `[1995, 1997]`
