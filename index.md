@@ -22,7 +22,7 @@ _Páginas de la wiki agrupadas por `domain`. Se actualiza con cada ingesta._
 - [Holding para siempre](wiki/holding-para-siempre.md) — el periodo de tenencia favorito es
   "para siempre"; si no lo tendrías 10 años, ni 10 minutos. `[1988, 1996, 1998]`
 - [El imperativo institucional](wiki/imperativo-institucional.md) — la fuerza invisible que
-  marchita la racionalidad de los gestores; imitación, inercia, gasto por gastar. `[1989, 1990]`
+  marchita la racionalidad de los gestores; imitación, inercia, gasto por gastar. `[1989, 1990, 2003]`
 
 ## riesgo
 - [Volatilidad y venta forzada](wiki/volatilidad-y-venta-forzada.md) — la volatilidad
@@ -56,7 +56,7 @@ _Páginas de la wiki agrupadas por `domain`. Se actualiza con cada ingesta._
 - [Contra el mercado eficiente](wiki/contra-el-mercado-eficiente.md) — precio y valor
   divergen; la ventaja es la actitud, no el pronóstico (Washington Post). `[1985, 1988]`
 - [Incentivos alineados](wiki/incentivos-alineados.md) — las opciones premian retener, no
-  la habilidad; atar el premio a lo controlable; caminar en los zapatos del dueño. `[1985, 2002]`
+  la habilidad; atar el premio a lo controlable; caminar en los zapatos del dueño. `[1985, 2002, 2003]`
 - [Arbitraje](wiki/arbitraje.md) — cuatro preguntas para evaluar una operación anunciada;
   pocas, grandes y públicas. `[1988]`
 - [Círculo de competencia](wiki/circulo-de-competencia.md) — obstáculos de un palmo, no de

@@ -1,7 +1,7 @@
 ---
 concepto: El imperativo institucional
 domain: psicologia
-years: [1989, 1990]
+years: [1989, 1990, 2003]
 estado: borrador
 actualizado: 2026-07-08
 ---
@@ -37,6 +37,13 @@ celo de lemming, y ahora sufren un destino de lemming.
 > "many bankers played follow-the-leader with lemming-like zeal; now they are experiencing a
 > lemming-like fate." — 1990
 
+En 2003 lo lleva a los consejos: los directores "independientes" rara vez lo son de verdad,
+porque el "ambiente de sala de juntas" adormece sus genes fiduciarios.
+
+> "Despite the lapdog behavior of independent fund directors, we did not conclude that they are
+> bad people. They're not. But sadly, 'boardroom atmosphere' almost invariably sedates their
+> fiduciary genes." — 2003
+
 ## Relacionados
 - [[fallar-convencionalmente]] — el incentivo individual a imitar a la manada.
 - [[locura-de-las-adquisiciones]] — proyectos y compras que aparecen para gastar el dinero.
@@ -45,3 +52,4 @@ celo de lemming, y ahora sufren un destino de lemming.
 ## Cartas fuente
 - 1989
 - 1990
+- 2003

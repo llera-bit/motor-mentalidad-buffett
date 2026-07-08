@@ -1,7 +1,7 @@
 ---
 concepto: Incentivos alineados
 domain: modelos-mentales
-years: [1985, 2002]
+years: [1985, 2002, 2003]
 estado: borrador
 actualizado: 2026-07-08
 ---
@@ -41,6 +41,14 @@ beneficios impresionantes —y cobraba en opciones.
 > bonus or the CEO who wanted to report impressive 'earnings' (or both). The bonuses were paid,
 > and the CEO profited from his options." — 2002
 
+En 2003 señala el mecanismo de captura: los consultores y comités de compensación saben quién
+les unta el pan, y las prácticas más ávidas se replican de empresa en empresa.
+
+> "The couriers for this epidemic of greed were usually consultants and human relations
+> departments, which had no trouble perceiving who buttered their bread. As one compensation
+> consultant commented: 'There are two classes of clients you don't want to offend - actual and
+> potential.'" — 2003
+
 ## Relacionados
 - [[retener-o-repartir]] — las opciones premian retener, aunque el capital rinda poco.
 - [[fallar-convencionalmente]] — actuar como dueño, no como gestor a sueldo.
@@ -48,3 +56,4 @@ beneficios impresionantes —y cobraba en opciones.
 ## Cartas fuente
 - 1985
 - 2002
+- 2003

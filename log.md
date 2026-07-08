@@ -222,3 +222,11 @@ _Registro append-only. Prefijo por entrada: `## [YYYY-MM-DD] <op> | <detalle>`
   crisis), `incentivos-alineados` (+2002: mark-to-myth favorece bonus del trader y opciones del CEO).
 - **Nota:** aplicada la pauta de leer a fondo aunque el tema se repita (enriquecimientos complementarios).
 - **Estado:** borrador (todas).
+
+## [2026-07-08] ingest | carta 2003
+- **Fuente:** `raw/2003.pdf`
+- **Páginas creadas:** ninguna (ensayo de gobernanza/compensación).
+- **Páginas enriquecidas:** `imperativo-institucional` (+2003: el "boardroom atmosphere" adormece
+  los genes fiduciarios), `incentivos-alineados` (+2003: captura de comités/consultores de compensación).
+- **Nota:** se omite la macro (Squanderville/Thriftville) por criterio de alcance.
+- **Estado:** borrador (todas).
