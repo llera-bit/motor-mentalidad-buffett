@@ -1,7 +1,7 @@
 ---
 concepto: Goodwill económico
 domain: contabilidad
-years: [1983]
+years: [1983, 1985]
 estado: borrador
 actualizado: 2026-07-08
 ---
@@ -39,6 +39,15 @@ goodwill económico, un error de omisión que le costó.
 > tangible assets and to shun businesses whose value depended largely upon economic
 > Goodwill." — 1983
 
+En 1985, la subasta de la maquinaria textil lo ilustra de forma brutal: el goodwill económico
+de dos rutas de reparto de periódicos, o de una sola tienda de See's, supera lo que se sacó
+por una montaña de activos tangibles.
+
+> "the economic goodwill attributable to two paper routes in Buffalo - or a single See's candy
+> store - considerably exceeds the proceeds we received from this massive collection of
+> tangible assets that not too many years ago, under different competitive conditions, was able
+> to employ over 1,000 people." — 1985
+
 ## Relacionados
 - [[ventaja-competitiva]] — la franquicia con el consumidor es la fuente del goodwill.
 - [[valor-intrinseco]] — el goodwill económico es parte del valor intrínseco no contable.
@@ -46,3 +55,4 @@ goodwill económico, un error de omisión que le costó.
 
 ## Cartas fuente
 - 1983
+- 1985

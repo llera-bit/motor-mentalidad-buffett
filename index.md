@@ -34,11 +34,15 @@ _Páginas de la wiki agrupadas por `domain`. Se actualiza con cada ingesta._
 - [Concentración](wiki/concentracion.md) — concentrar en alta convicción; nada tibio;
   comprar cantidades significativas. `[1978, 1981, 1984]`
 - [Vientos a favor vs. en contra](wiki/vientos-a-favor-vs-en-contra.md) — la economía
-  del negocio domina sobre el esfuerzo del gestor. `[1977, 1978, 1982]`
+  del negocio domina sobre el esfuerzo del gestor. `[1977, 1978, 1982, 1985]`
 - [Buen negocio a precio justo](wiki/buen-negocio-a-precio-justo.md) — los turnarounds rara
   vez giran; mejor buen negocio a precio justo que malo a precio de ganga. `[1979, 1980]`
 - [Ventaja competitiva duradera](wiki/ventaja-competitiva.md) — una ventaja importante y
   difícil de duplicar (GEICO, bajo coste) unida a buena gestión. `[1980, 1982]`
+- [Contra el mercado eficiente](wiki/contra-el-mercado-eficiente.md) — precio y valor
+  divergen; la ventaja es la actitud, no el pronóstico (Washington Post). `[1985]`
+- [Incentivos alineados](wiki/incentivos-alineados.md) — las opciones premian retener, no
+  la habilidad; atar el premio a lo controlable; caminar en los zapatos del dueño. `[1985]`
 
 ## valoracion
 - [Beneficios retenidos de participadas](wiki/beneficios-retenidos-participadas.md) — la
@@ -56,4 +60,4 @@ _Páginas de la wiki agrupadas por `domain`. Se actualiza con cada ingesta._
 - [Retorno sobre el capital, no BPA](wiki/roe-vs-beneficio-por-accion.md) — juzgar por la
   tasa sobre el capital, no por el crecimiento del beneficio por acción. `[1979]`
 - [Goodwill económico](wiki/goodwill-economico.md) — valor capitalizado del exceso de
-  retorno sobre los activos tangibles; franquicia con el consumidor. `[1983]`
+  retorno sobre los activos tangibles; franquicia con el consumidor. `[1983, 1985]`

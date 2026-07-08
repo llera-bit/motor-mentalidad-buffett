@@ -80,3 +80,13 @@ _Registro append-only. Prefijo por entrada: `## [YYYY-MM-DD] <op> | <detalle>`
   (+1984: harén de Billy Rose), `disciplina-de-no-actuar` (+1984: no hacer nada es lo más
   difícil), `analista-de-negocios` (+1984: Graham "most businesslike").
 - **Estado:** borrador; `analista-de-negocios` pasa de estable a pendiente.
+
+## [2026-07-08] ingest | carta 1985
+- **Fuente:** `raw/1985.pdf`
+- **Páginas creadas:** `contra-el-mercado-eficiente` (modelos-mentales), `incentivos-alineados`
+  (modelos-mentales).
+- **Páginas enriquecidas:** `vientos-a-favor-vs-en-contra` (+1985: en qué barco te subes vs
+  cómo remas; barco que hace agua; parade/tiptoes), `goodwill-economico` (+1985: subasta
+  textil, goodwill de rutas de periódico > activos tangibles).
+- **Nota:** carta del cierre del negocio textil y del ensayo sobre opciones/incentivos.
+- **Estado:** borrador; `vientos-a-favor-vs-en-contra` sigue pendiente.

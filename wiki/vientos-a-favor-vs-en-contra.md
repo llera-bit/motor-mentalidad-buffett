@@ -1,7 +1,7 @@
 ---
 concepto: Vientos a favor vs. en contra
 domain: modelos-mentales
-years: [1977, 1978, 1982]
+years: [1977, 1978, 1982, 1985]
 estado: pendiente
 actualizado: 2026-07-08
 ---
@@ -46,6 +46,23 @@ sobrecapacidad persistente sin precios administrados igual a mala rentabilidad.
 > of business economics prevails: persistent over-capacity without administered prices (or
 > costs) equals poor profitability." — 1982
 
+En 1985, al cerrar el negocio textil, lo sella con su imagen más recordada: importa más en
+qué barco te subes que con cuánta fuerza remas.
+
+> "a good managerial record (measured by economic returns) is far more a function of what
+> business boat you get into than it is of how effectively you row." — 1985
+
+> "Should you find yourself in a chronically-leaking boat, energy devoted to changing vessels
+> is likely to be more productive than energy devoted to patching leaks." — 1985
+
+Y explica la trampa de invertir capital en un negocio de materia prima: cada decisión es
+racional en solitario, pero colectivamente se anulan.
+
+> "Viewed individually, each company's capital investment decision appeared cost-effective and
+> rational; viewed collectively, the decisions neutralized each other and were irrational
+> (just as happens when each person watching a parade decides he can see a little better if he
+> stands on tiptoes)." — 1985
+
 ## Relacionados
 - [[criterios-de-seleccion]] — el filtro (2), perspectivas favorables a largo plazo,
   es este viento a favor.
@@ -54,3 +71,4 @@ sobrecapacidad persistente sin precios administrados igual a mala rentabilidad.
 - 1977
 - 1978
 - 1982
+- 1985
