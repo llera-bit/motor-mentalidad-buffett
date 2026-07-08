@@ -20,7 +20,7 @@ _Páginas de la wiki agrupadas por `domain`. Se actualiza con cada ingesta._
 - [Miedo y codicia](wiki/miedo-y-codicia.md) — dos enfermedades súper-contagiosas; ser
   temeroso cuando otros son codiciosos y viceversa. `[1986, 1990, 1994]`
 - [Holding para siempre](wiki/holding-para-siempre.md) — el periodo de tenencia favorito es
-  "para siempre"; si no lo tendrías 10 años, ni 10 minutos. `[1988, 1996]`
+  "para siempre"; si no lo tendrías 10 años, ni 10 minutos. `[1988, 1996, 1998]`
 - [El imperativo institucional](wiki/imperativo-institucional.md) — la fuerza invisible que
   marchita la racionalidad de los gestores; imitación, inercia, gasto por gastar. `[1989, 1990]`
 
@@ -84,4 +84,4 @@ _Páginas de la wiki agrupadas por `domain`. Se actualiza con cada ingesta._
 
 ## casos
 - [Float (flotante del seguro)](wiki/float.md) — dinero que se retiene pero no se posee;
-  crea valor si su coste es menor que el de otros fondos. `[1995, 1997]`
+  crea valor si su coste es menor que el de otros fondos. `[1995, 1997, 1998]`

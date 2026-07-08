@@ -184,3 +184,10 @@ _Registro append-only. Prefijo por entrada: `## [YYYY-MM-DD] <op> | <detalle>`
   equivalentes), `criterios-de-seleccion` (+1997: parábola de las hamburguesas / comprador neto
   prefiere precios bajos).
 - **Estado:** borrador (`float`) / pendiente (`criterios-de-seleccion`).
+
+## [2026-07-08] ingest | carta 1998
+- **Fuente:** `raw/1998.pdf`
+- **Páginas creadas:** ninguna (carta corta; año de General Re, Dairy Queen, Executive Jet).
+- **Páginas enriquecidas:** `float` (+1998: lo que cuenta es el coste; crecer float caro es
+  maldición), `holding-para-siempre` (+1998: vender McDonald's fue un error; el trasiego restó).
+- **Estado:** borrador (todas).

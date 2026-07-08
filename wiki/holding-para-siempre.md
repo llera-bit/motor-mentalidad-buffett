@@ -1,7 +1,7 @@
 ---
 concepto: Holding para siempre
 domain: psicologia
-years: [1988, 1996]
+years: [1988, 1996, 1998]
 estado: borrador
 actualizado: 2026-07-08
 ---
@@ -34,6 +34,12 @@ beneficios crecerán con casi total certeza a 10-20 años.
 > "If you aren't willing to own a stock for ten years, don't even think about owning it for
 > ten minutes." — 1996
 
+En 1998 lo confirma por la vía del error: vender McDonald's fue una equivocación, y su trasiego
+de cartera restó rentabilidad.
+
+> "my decision to sell McDonald's was a very big mistake. Overall, you would have been better
+> off last year if I had regularly snuck off to the movies during market hours." — 1998
+
 ## Relacionados
 - [[analista-de-negocios]] — el acierto lo dan los resultados del negocio, con el tiempo.
 - [[hiperactividad-del-mercado]] — la cara opuesta: la rotación es un impuesto.
@@ -42,3 +48,4 @@ beneficios crecerán con casi total certeza a 10-20 años.
 ## Cartas fuente
 - 1988
 - 1996
+- 1998

@@ -1,7 +1,7 @@
 ---
 concepto: Float (flotante del seguro)
 domain: casos
-years: [1995, 1997]
+years: [1995, 1997, 1998]
 estado: borrador
 actualizado: 2026-07-08
 ---
@@ -38,6 +38,12 @@ fondos propios equivalentes, porque no solo no ha costado nada, sino que ha dado
 > accounting irony: Though our float is shown on our balance sheet as a liability, it has had a
 > value to Berkshire greater than an equal amount of net worth would have had." — 1997
 
+En 1998, con la enorme float de General Re incorporada, subraya la advertencia: lo que importa
+no es el tamaño del float sino su coste; si sube demasiado, crecer se vuelve una maldición.
+
+> "what really counts is the cost of this item. If that becomes too high, growth in float
+> becomes a curse rather than a blessing." — 1998
+
 ## Relacionados
 - [[disciplina-de-no-actuar]] — la disciplina de suscripción es lo que mantiene barato el float.
 - [[fortaleza-financiera-y-liquidez]] — bien gestionado potencia la fortaleza; mal gestionado la amenaza.
@@ -46,3 +52,4 @@ fondos propios equivalentes, porque no solo no ha costado nada, sino que ha dado
 ## Cartas fuente
 - 1995
 - 1997
+- 1998
