@@ -8,13 +8,15 @@ _Páginas de la wiki agrupadas por `domain`. Se actualiza con cada ingesta._
 - [Disciplina de no actuar](wiki/disciplina-de-no-actuar.md) — aceptar menos volumen
   antes que operar a precios malos; dejar que el otro se lleve el negocio. `[1977, 1979]`
 - [No predecir el mercado](wiki/no-predecir-el-mercado.md) — nadie puede predecir el
-  precio a corto plazo; orientación al largo plazo del negocio. `[1978]`
+  precio a corto plazo; orientación al largo plazo del negocio. `[1978, 1980]`
 
 ## riesgo
 - [Volatilidad y venta forzada](wiki/volatilidad-y-venta-forzada.md) — la volatilidad
   solo daña si te obliga a vender (presión financiera o psicológica). `[1987]`
 - [Inflación, enemigo del inversor](wiki/inflacion-enemigo-del-inversor.md) — la inflación
-  puede volver negativo el retorno real; índice de miseria; recelo de los bonos largos. `[1979]`
+  puede volver negativo el retorno real; índice de miseria; recelo de los bonos largos. `[1979, 1980]`
+- [Fortaleza financiera y liquidez](wiki/fortaleza-financiera-y-liquidez.md) — liquidez y
+  deuda moderada; capacidad de aguante y opciones; potencia de fuego. `[1980]`
 
 ## modelos-mentales
 - [Analista de negocios, no de mercado](wiki/analista-de-negocios.md) — decidir sobre el
@@ -26,11 +28,15 @@ _Páginas de la wiki agrupadas por `domain`. Se actualiza con cada ingesta._
 - [Vientos a favor vs. en contra](wiki/vientos-a-favor-vs-en-contra.md) — la economía
   del negocio domina sobre el esfuerzo del gestor. `[1977, 1978]`
 - [Buen negocio a precio justo](wiki/buen-negocio-a-precio-justo.md) — los turnarounds rara
-  vez giran; mejor buen negocio a precio justo que malo a precio de ganga. `[1979]`
+  vez giran; mejor buen negocio a precio justo que malo a precio de ganga. `[1979, 1980]`
+- [Ventaja competitiva duradera](wiki/ventaja-competitiva.md) — una ventaja importante y
+  difícil de duplicar (GEICO, bajo coste) unida a buena gestión. `[1980]`
 
 ## valoracion
 - [Beneficios retenidos de participadas](wiki/beneficios-retenidos-participadas.md) — la
-  parte no distribuida es valor real para el accionista si se reinvierte bien. `[1978, 1979]`
+  parte no distribuida es valor real para el accionista si se reinvierte bien. `[1978, 1979, 1980]`
+- [Recompra de acciones](wiki/recompra-de-acciones.md) — recomprar por debajo del valor
+  intrínseco es de los mejores usos del capital. `[1980]`
 
 ## contabilidad
 - [Retorno sobre el capital, no BPA](wiki/roe-vs-beneficio-por-accion.md) — juzgar por la

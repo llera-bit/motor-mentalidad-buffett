@@ -1,7 +1,7 @@
 ---
 concepto: Inflación, enemigo del inversor
 domain: riesgo
-years: [1979]
+years: [1979, 1980]
 estado: borrador
 actualizado: 2026-07-08
 ---
@@ -30,8 +30,26 @@ del dinero para décadas en un mundo donde el valor del dólar parece condenado 
 
 > "Neither a short-term borrower nor a long-term lender be." — 1979
 
+En 1980 lo lleva al plano del poder adquisitivo con la parábola de las hamburguesas: solo
+la ganancia en poder de compra es renta real.
+
+> "For only gains in purchasing power represent real earnings on investment. If you (a)
+> forego ten hamburgers to purchase an investment; (b) receive dividends which, after tax,
+> buy two hamburgers; and (c) receive, upon sale of your holdings, after-tax proceeds that
+> will buy eight hamburgers, then (d) you have had no real income from your investment, no
+> matter how much it appreciated in dollars. You may feel richer, but you won't eat
+> richer." — 1980
+
+Y define la inflación como un impuesto implícito sobre el capital que puede volver insensata
+gran parte de la inversión empresarial.
+
+> "High rates of inflation create a tax on capital that makes much corporate investment
+> unwise - at least if measured by the criterion of a positive real investment return to
+> owners." — 1980
+
 ## Relacionados
 - [[analista-de-negocios]] — el objetivo último es el patrimonio real, no el nominal.
 
 ## Cartas fuente
 - 1979
+- 1980

@@ -1,7 +1,7 @@
 ---
 concepto: No predecir el mercado
 domain: psicologia
-years: [1978]
+years: [1978, 1980]
 estado: borrador
 actualizado: 2026-07-08
 ---
@@ -24,9 +24,16 @@ sus participaciones.
 > be worth considerably more money than we paid, and that investment gains will add
 > significantly to the operating returns of the insurance group." — 1978
 
+En 1980 lo remacha: los pronósticos a corto plazo de acciones o bonos son inútiles; dicen
+más del pronosticador que del futuro.
+
+> "We believe that short-term forecasts of stock or bond prices are useless. The forecasts
+> may tell you a great deal about the forecaster; they tell you nothing about the future." — 1980
+
 ## Relacionados
 - [[analista-de-negocios]] — el reverso positivo: analista de negocios, no de mercado.
 - [[mr-market]] — ignorar el precio como guía.
 
 ## Cartas fuente
 - 1978
+- 1980

@@ -1,7 +1,7 @@
 ---
 concepto: Beneficios retenidos de participadas
 domain: valoracion
-years: [1978, 1979]
+years: [1978, 1979, 1980]
 estado: borrador
 actualizado: 2026-07-08
 ---
@@ -42,6 +42,22 @@ por esas empresas se traduzca en al menos un dólar de valor de mercado para el 
 > earnings effectively and will translate a dollar retained by them into a dollar or more
 > of subsequent market value for us." — 1979
 
+En 1980 lo articula por extenso: el bienestar económico de Berkshire lo determinan los
+beneficios de las participadas, no sus dividendos.
+
+> "our economic well-being is determined by their earnings, not their dividends." — 1980
+
+El valor de esos beneficios retenidos no depende del porcentaje que se posea, sino del uso
+que se les dé —importa el acto, no el actor.
+
+> "The value to Berkshire Hathaway of retained earnings is not determined by whether we own
+> 100%, 50%, 20% or 1% of the businesses in which they reside. Rather, the value of those
+> retained earnings is determined by the use to which they are put... (It's the act that
+> counts, not the actors.)" — 1980
+
+> "If a tree grows in a forest partially owned by us, but we don't record the growth in our
+> financial statements, we still own part of the tree." — 1980
+
 ## Relacionados
 - [[analista-de-negocios]] — juzgar por el poder de generación de beneficios subyacente,
   no por lo reportado.
@@ -49,3 +65,4 @@ por esas empresas se traduzca en al menos un dólar de valor de mercado para el 
 ## Cartas fuente
 - 1978
 - 1979
+- 1980

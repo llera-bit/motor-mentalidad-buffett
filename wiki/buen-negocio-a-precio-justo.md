@@ -1,7 +1,7 @@
 ---
 concepto: Buen negocio a precio justo
 domain: modelos-mentales
-years: [1979]
+years: [1979, 1980]
 estado: borrador
 actualizado: 2026-07-08
 ---
@@ -26,9 +26,17 @@ la mejor ruta.
 > avoid earning extraordinary returns on tangible capital employed in the business... Despite
 > a fancy price tag, the 'easy' business may be the better route to go." — 1979
 
+En 1980 lo condensa en su forma más citada: cuando un gestor brillante se enfrenta a un
+negocio de mala economía, es la reputación del negocio la que queda intacta.
+
+> "with few exceptions, when a management with a reputation for brilliance tackles a
+> business with a reputation for poor fundamental economics, it is the reputation of the
+> business that remains intact." — 1980
+
 ## Relacionados
 - [[vientos-a-favor-vs-en-contra]] — por qué el negocio malo, aun barato, sigue rindiendo mal.
 - [[criterios-de-seleccion]] — matiza el filtro de precio: barato no basta si el negocio es pobre.
 
 ## Cartas fuente
 - 1979
+- 1980

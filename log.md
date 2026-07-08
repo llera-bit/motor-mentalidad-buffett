@@ -36,3 +36,13 @@ _Registro append-only. Prefijo por entrada: `## [YYYY-MM-DD] <op> | <detalle>`
 - **Páginas enriquecidas:** `disciplina-de-no-actuar` (+1979: reducir volumen, rareza de la
   disciplina), `beneficios-retenidos-participadas` (+1979: un dólar retenido → un dólar de valor).
 - **Estado:** borrador (nuevas) / pendiente + borrador (enriquecidas).
+
+## [2026-07-08] ingest | carta 1980
+- **Fuente:** `raw/1980.pdf`
+- **Páginas creadas:** `recompra-de-acciones` (valoracion), `ventaja-competitiva`
+  (modelos-mentales), `fortaleza-financiera-y-liquidez` (riesgo).
+- **Páginas enriquecidas:** `beneficios-retenidos-participadas` (+1980: iceberg/árbol, "el
+  acto, no el actor"), `inflacion-enemigo-del-inversor` (+1980: hamburguesas, impuesto al
+  capital), `buen-negocio-a-precio-justo` (+1980: reputación del negocio),
+  `no-predecir-el-mercado` (+1980: pronósticos inútiles).
+- **Estado:** borrador (ninguna aprobada aún).
