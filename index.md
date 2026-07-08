@@ -35,6 +35,8 @@ _Páginas de la wiki agrupadas por `domain`. Se actualiza con cada ingesta._
   precio; piedra angular (Graham). `[1992]`
 - [El riesgo no es la volatilidad](wiki/riesgo-no-es-volatilidad.md) — riesgo = posibilidad de
   pérdida de poder adquisitivo, no beta; cinco factores. `[1993]`
+- [Principios de suscripción](wiki/principios-de-suscripcion.md) — solo riesgos que sabes
+  evaluar; limitar la agregación/correlación; evitar riesgo moral; exposición, no experiencia. `[2001]`
 
 ## modelos-mentales
 - [Analista de negocios, no de mercado](wiki/analista-de-negocios.md) — decidir sobre el

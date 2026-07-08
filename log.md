@@ -207,3 +207,10 @@ _Registro append-only. Prefijo por entrada: `## [YYYY-MM-DD] <op> | <detalle>`
   peligrosa cuando parece fácil).
 - **Nota:** ensayo de Esopo (600 a.C.) sobre valoración; crítica a la burbuja puntocom.
 - **Estado:** borrador (todas).
+
+## [2026-07-08] ingest | carta 2001
+- **Fuente:** `raw/2001.pdf`
+- **Páginas creadas:** `principios-de-suscripcion` (riesgo) — tres reglas + exposición vs. experiencia.
+- **Páginas enriquecidas:** ninguna.
+- **Nota:** golpe del 11-S; el error de mirar experiencia y no exposición (riesgo de agregación).
+- **Estado:** borrador (todas).
