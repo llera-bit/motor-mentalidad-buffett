@@ -36,7 +36,9 @@ _Páginas de la wiki agrupadas por `domain`. Se actualiza con cada ingesta._
 - [El riesgo no es la volatilidad](wiki/riesgo-no-es-volatilidad.md) — riesgo = posibilidad de
   pérdida de poder adquisitivo, no beta; cinco factores. `[1993]`
 - [Principios de suscripción](wiki/principios-de-suscripcion.md) — solo riesgos que sabes
-  evaluar; limitar la agregación/correlación; evitar riesgo moral; exposición, no experiencia. `[2001]`
+  evaluar; limitar la agregación/correlación; evitar riesgo moral; exposición, no experiencia. `[2001, 2002]`
+- [Derivados](wiki/derivados.md) — bombas de relojería; riesgo de contraparte, mark-to-myth,
+  linkage sistémico; "armas financieras de destrucción masiva". `[2002]`
 
 ## modelos-mentales
 - [Analista de negocios, no de mercado](wiki/analista-de-negocios.md) — decidir sobre el
@@ -54,7 +56,7 @@ _Páginas de la wiki agrupadas por `domain`. Se actualiza con cada ingesta._
 - [Contra el mercado eficiente](wiki/contra-el-mercado-eficiente.md) — precio y valor
   divergen; la ventaja es la actitud, no el pronóstico (Washington Post). `[1985, 1988]`
 - [Incentivos alineados](wiki/incentivos-alineados.md) — las opciones premian retener, no
-  la habilidad; atar el premio a lo controlable; caminar en los zapatos del dueño. `[1985]`
+  la habilidad; atar el premio a lo controlable; caminar en los zapatos del dueño. `[1985, 2002]`
 - [Arbitraje](wiki/arbitraje.md) — cuatro preguntas para evaluar una operación anunciada;
   pocas, grandes y públicas. `[1988]`
 - [Círculo de competencia](wiki/circulo-de-competencia.md) — obstáculos de un palmo, no de

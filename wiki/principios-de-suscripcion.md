@@ -1,7 +1,7 @@
 ---
 concepto: Principios de suscripción (riesgo)
 domain: riesgo
-years: [2001]
+years: [2001, 2002]
 estado: borrador
 actualizado: 2026-07-08
 ---
@@ -37,6 +37,12 @@ exposición.
 > experience, rather than exposure, thereby assuming a huge terrorism risk for which we
 > received no premium." — 2001
 
+En 2002, a propósito de los derivados, generaliza el principio 2 (agregación): las
+correlaciones ocultas afloran justo en la crisis.
+
+> "History teaches us that a crisis often causes problems to correlate in a manner undreamed of
+> in more tranquil times." — 2002
+
 ## Relacionados
 - [[riesgo-no-es-volatilidad]] — el riesgo real es la pérdida, no la volatilidad.
 - [[circulo-de-competencia]] — el principio 1: solo lo que sabes evaluar.
@@ -44,3 +50,4 @@ exposición.
 
 ## Cartas fuente
 - 2001
+- 2002

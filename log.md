@@ -214,3 +214,11 @@ _Registro append-only. Prefijo por entrada: `## [YYYY-MM-DD] <op> | <detalle>`
 - **Páginas enriquecidas:** ninguna.
 - **Nota:** golpe del 11-S; el error de mirar experiencia y no exposición (riesgo de agregación).
 - **Estado:** borrador (todas).
+
+## [2026-07-08] ingest | carta 2002
+- **Fuente:** `raw/2002.pdf`
+- **Páginas creadas:** `derivados` (riesgo) — "armas financieras de destrucción masiva".
+- **Páginas enriquecidas:** `principios-de-suscripcion` (+2002: las correlaciones afloran en la
+  crisis), `incentivos-alineados` (+2002: mark-to-myth favorece bonus del trader y opciones del CEO).
+- **Nota:** aplicada la pauta de leer a fondo aunque el tema se repita (enriquecimientos complementarios).
+- **Estado:** borrador (todas).

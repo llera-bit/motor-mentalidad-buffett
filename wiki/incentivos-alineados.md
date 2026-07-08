@@ -1,7 +1,7 @@
 ---
 concepto: Incentivos alineados
 domain: modelos-mentales
-years: [1985]
+years: [1985, 2002]
 estado: borrador
 actualizado: 2026-07-08
 ---
@@ -33,9 +33,18 @@ El alineamiento real llega cuando el gestor compra acciones y asume su riesgo y 
 > "By accepting both the risks and the carrying costs that go with outright purchases, these
 > managers truly walk in the shoes of owners." — 1985
 
+En 2002 muestra la cara perversa con los derivados: los errores de valoración no fueron
+simétricos, sino que favorecieron al trader que buscaba su bonus y al CEO que quería
+beneficios impresionantes —y cobraba en opciones.
+
+> "Almost invariably, they have favored either the trader who was eyeing a multi-million dollar
+> bonus or the CEO who wanted to report impressive 'earnings' (or both). The bonuses were paid,
+> and the CEO profited from his options." — 2002
+
 ## Relacionados
 - [[retener-o-repartir]] — las opciones premian retener, aunque el capital rinda poco.
 - [[fallar-convencionalmente]] — actuar como dueño, no como gestor a sueldo.
 
 ## Cartas fuente
 - 1985
+- 2002
