@@ -1,7 +1,7 @@
 ---
 concepto: Valor y crecimiento
 domain: valoracion
-years: [1992]
+years: [1992, 2000]
 estado: borrador
 actualizado: 2026-07-08
 ---
@@ -30,6 +30,15 @@ un negocio de bajo retorno, crecer destruye valor.
 > that are enticing... In the case of a low-return business requiring incremental funds, growth
 > hurts the investor." — 1992
 
+En 2000, en plena burbuja puntocom, afila la frontera con la especulación: mirar lo que pagará
+el siguiente, no lo que el activo producirá.
+
+> "speculation -- in which the focus is not on what an asset will produce but rather on what the
+> next fellow will pay for it -- is neither illegal, immoral nor un-American. But it is not a
+> game in which Charlie and I wish to play." — 2000
+
+> "speculation is most dangerous when it looks easiest." — 2000
+
 ## Relacionados
 - [[valor-intrinseco]] — el crecimiento es un componente del valor intrínseco, no su rival.
 - [[retener-o-repartir]] — crecer solo compensa si el capital rinde sobre la alternativa.
@@ -37,3 +46,4 @@ un negocio de bajo retorno, crecer destruye valor.
 
 ## Cartas fuente
 - 1992
+- 2000

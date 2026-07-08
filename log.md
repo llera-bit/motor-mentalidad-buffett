@@ -198,3 +198,12 @@ _Registro append-only. Prefijo por entrada: `## [YYYY-MM-DD] <op> | <detalle>`
 - **Páginas enriquecidas:** `circulo-de-competencia` (+1999: reconocer el perímetro; no comprar
   tecnología por falta de insight sobre ventajas duraderas; no cambiar razón por esperanza).
 - **Estado:** borrador (todas).
+
+## [2026-07-08] ingest | carta 2000
+- **Fuente:** `raw/2000.pdf`
+- **Páginas creadas:** ninguna.
+- **Páginas enriquecidas:** `valor-intrinseco` (+2000: Esopo, "pájaro en mano", las tres
+  preguntas), `valor-y-crecimiento` (+2000: especulación = mirar lo que pagará el siguiente; más
+  peligrosa cuando parece fácil).
+- **Nota:** ensayo de Esopo (600 a.C.) sobre valoración; crítica a la burbuja puntocom.
+- **Estado:** borrador (todas).

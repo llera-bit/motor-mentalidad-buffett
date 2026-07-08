@@ -70,11 +70,11 @@ _Páginas de la wiki agrupadas por `domain`. Se actualiza con cada ingesta._
 - [Emitir acciones solo a su valor](wiki/emitir-acciones-solo-a-su-valor.md) — no emitir
   acciones si no se recibe tanto valor intrínseco como el que se entrega. `[1982]`
 - [Valor intrínseco](wiki/valor-intrinseco.md) — lo que puede sacarse (flujos futuros
-  descontados), no lo que se metió (valor contable). `[1983, 1992]`
+  descontados), no lo que se metió (valor contable). `[1983, 1992, 2000]`
 - [Owner earnings](wiki/owner-earnings.md) — beneficio real del dueño: (a) beneficio + (b)
   cargas no monetarias − (c) capex de mantenimiento; falacia del cash flow. `[1986, 1989]`
 - [Valor y crecimiento](wiki/valor-y-crecimiento.md) — no son opuestos: el crecimiento es un
-  componente del valor; "value investing" es redundante. `[1992]`
+  componente del valor; "value investing" es redundante. `[1992, 2000]`
 
 ## contabilidad
 - [Retorno sobre el capital, no BPA](wiki/roe-vs-beneficio-por-accion.md) — juzgar por la

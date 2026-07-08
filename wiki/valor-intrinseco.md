@@ -1,7 +1,7 @@
 ---
 concepto: Valor intrínseco
 domain: valoracion
-years: [1983, 1992]
+years: [1983, 1992, 2000]
 estado: borrador
 actualizado: 2026-07-08
 ---
@@ -44,6 +44,16 @@ analista debe estimar él mismo los "cupones".
 > "in the case of equities, the investment analyst must himself estimate the future
 > 'coupons.'" — 1992
 
+En 2000 le da su forma más memorable, atribuyéndola a Esopo: "más vale pájaro en mano que
+ciento volando". Valorar es responder tres preguntas.
+
+> "The oracle was Aesop and his enduring, though somewhat incomplete, investment insight was 'a
+> bird in the hand is worth two in the bush.' To flesh out this principle, you must answer only
+> three questions. How certain are you that there are indeed birds in the bush? When will they
+> emerge and how many will there be? What is the risk-free interest rate...? If you can answer
+> these three questions, you will know the maximum value of the bush... And, of course, don't
+> literally think birds. Think dollars." — 2000
+
 ## Relacionados
 - [[analista-de-negocios]] — valorar el negocio (lo que puede sacarse), no la cotización.
 - [[goodwill-economico]] — el exceso de valor intrínseco sobre los activos tangibles.
@@ -52,3 +62,4 @@ analista debe estimar él mismo los "cupones".
 ## Cartas fuente
 - 1983
 - 1992
+- 2000
