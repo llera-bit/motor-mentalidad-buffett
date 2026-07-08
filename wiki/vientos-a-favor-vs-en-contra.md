@@ -1,8 +1,8 @@
 ---
 concepto: Vientos a favor vs. en contra
 domain: modelos-mentales
-years: [1977]
-estado: estable
+years: [1977, 1978]
+estado: pendiente
 actualizado: 2026-07-08
 ---
 
@@ -31,9 +31,18 @@ rinde lo que ofrecen otros negocios.
 > "the textile business which, over the longer term, is unlikely to produce returns on
 > capital comparable to those available in many other businesses." — 1977
 
+En 1978 generaliza el diagnóstico del textil a cualquier negocio de bienes indiferenciados
+e intensivo en capital: sin escasez, el precio tiende a reflejar el coste operativo directo,
+no el capital empleado, y el retorno es inadecuado.
+
+> "The textile industry illustrates in textbook style how producers of relatively
+> undifferentiated goods in capital intensive businesses must earn inadequate returns
+> except under conditions of tight supply or real shortage." — 1978
+
 ## Relacionados
 - [[criterios-de-seleccion]] — el filtro (2), perspectivas favorables a largo plazo,
   es este viento a favor.
 
 ## Cartas fuente
 - 1977
+- 1978

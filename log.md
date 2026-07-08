@@ -20,3 +20,11 @@ _Registro append-only. Prefijo por entrada: `## [YYYY-MM-DD] <op> | <detalle>`
 - **Páginas enriquecidas:**
   - `wiki/analista-de-negocios.md` — añadida cita de 1977; `years: [1977, 1987]` (Opción A).
 - **Estado:** aprobada por el usuario; commit `b7e5ade`.
+
+## [2026-07-08] ingest | carta 1978
+- **Fuente:** `raw/1978.pdf`
+- **Páginas creadas:** `no-predecir-el-mercado` (psicologia), `concentracion`
+  (modelos-mentales), `beneficios-retenidos-participadas` (valoracion).
+- **Páginas enriquecidas:** `criterios-de-seleccion` (+1978: cuatro filtros y comprador
+  neto), `vientos-a-favor-vs-en-contra` (+1978: economía de bienes indiferenciados).
+- **Estado:** borrador (nuevas) / pendiente (enriquecidas).

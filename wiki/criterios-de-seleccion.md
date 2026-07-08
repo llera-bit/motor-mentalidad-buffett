@@ -1,8 +1,8 @@
 ---
 concepto: Criterios de selección (cuatro filtros)
 domain: modelos-mentales
-years: [1977]
-estado: estable
+years: [1977, 1978]
+estado: pendiente
 actualizado: 2026-07-08
 ---
 
@@ -39,6 +39,23 @@ negociada por la empresa entera.
 > "bargains in business ownership, which simply are not available directly through
 > corporate acquisition, can be obtained indirectly through stock ownership." — 1977
 
+En 1978 repite los cuatro filtros casi palabra por palabra, y precisa que es el filtro (4),
+el precio, el que suele impedir actuar:
+
+> "We get excited enough to commit a big percentage of insurance company net worth to
+> equities only when we find (1) businesses we can understand, (2) with favorable long-term
+> prospects, (3) operated by honest and competent people, and (4) priced very
+> attractively." — 1978
+
+> "We usually can identify a small number of potential investments meeting requirements
+> (1), (2) and (3), but (4) often prevents action." — 1978
+
+Como comprador neto en la mayoría de los años, prefiere incluso que esos precios no suban:
+
+> "We are not concerned with whether the market quickly revalues upward securities that we
+> believe are selling at bargain prices. In fact, we prefer just the opposite since, in
+> most years, we expect to have funds available to be a net buyer of securities." — 1978
+
 ## Relacionados
 - [[disciplina-de-no-actuar]] — el filtro (4), precio, exige la disciplina de esperar.
 - [[mr-market]] — el mecanismo que ofrece esas caídas de precio como oportunidad (1987).
@@ -46,3 +63,4 @@ negociada por la empresa entera.
 
 ## Cartas fuente
 - 1977
+- 1978

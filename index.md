@@ -7,6 +7,8 @@ _Páginas de la wiki agrupadas por `domain`. Se actualiza con cada ingesta._
   bolsillo, no de su sabiduría. `[1987]`
 - [Disciplina de no actuar](wiki/disciplina-de-no-actuar.md) — aceptar menos volumen
   antes que operar a precios malos; dejar que el otro se lleve el negocio. `[1977]`
+- [No predecir el mercado](wiki/no-predecir-el-mercado.md) — nadie puede predecir el
+  precio a corto plazo; orientación al largo plazo del negocio. `[1978]`
 
 ## riesgo
 - [Volatilidad y venta forzada](wiki/volatilidad-y-venta-forzada.md) — la volatilidad
@@ -16,6 +18,12 @@ _Páginas de la wiki agrupadas por `domain`. Se actualiza con cada ingesta._
 - [Analista de negocios, no de mercado](wiki/analista-de-negocios.md) — decidir sobre el
   valor del negocio y la expectativa matemática, no sobre la cotización. `[1977, 1987]`
 - [Criterios de selección (cuatro filtros)](wiki/criterios-de-seleccion.md) — entender,
-  perspectivas a largo plazo, gente honesta y competente, precio atractivo. `[1977]`
+  perspectivas a largo plazo, gente honesta y competente, precio atractivo. `[1977, 1978]`
+- [Concentración](wiki/concentracion.md) — concentrar en alta convicción; nada tibio;
+  comprar cantidades significativas. `[1978]`
 - [Vientos a favor vs. en contra](wiki/vientos-a-favor-vs-en-contra.md) — la economía
-  del negocio domina sobre el esfuerzo del gestor. `[1977]`
+  del negocio domina sobre el esfuerzo del gestor. `[1977, 1978]`
+
+## valoracion
+- [Beneficios retenidos de participadas](wiki/beneficios-retenidos-participadas.md) — la
+  parte no distribuida es valor real para el accionista si se reinvierte bien. `[1978]`
