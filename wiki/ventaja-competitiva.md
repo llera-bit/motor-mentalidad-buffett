@@ -1,7 +1,7 @@
 ---
 concepto: Ventaja competitiva duradera
 domain: modelos-mentales
-years: [1980, 1982, 1986, 1993]
+years: [1980, 1982, 1986, 1993, 1995]
 estado: borrador
 actualizado: 2026-07-08
 ---
@@ -63,6 +63,11 @@ Y advierte del reverso, los productos indiferenciados.
 > "stocks of companies selling commodity-like products should come with a warning label:
 > 'Competition may prove hazardous to human wealth.'" — 1993 (Buffett citando a Peter Lynch)
 
+En 1995, con GEICO ya al 100%, lo reduce a su imagen definitiva.
+
+> "In business, I look for economic castles protected by unbreachable 'moats.' Thanks to Tony
+> and his management team, GEICO's moat widened in 1995." — 1995
+
 ## Relacionados
 - [[buen-negocio-a-precio-justo]] — la ventaja duradera es lo que hace "bueno" a un negocio.
 - [[vientos-a-favor-vs-en-contra]] — es el viento a favor estructural.
@@ -72,3 +77,4 @@ Y advierte del reverso, los productos indiferenciados.
 - 1982
 - 1986
 - 1993
+- 1995

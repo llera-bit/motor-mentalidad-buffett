@@ -158,3 +158,11 @@ _Registro append-only. Prefijo por entrada: `## [YYYY-MM-DD] <op> | <detalle>`
   `disciplina-de-no-actuar` (+1994: la "zona feliz" de Ted Williams).
 - **Nota:** enrichment-only; la macro y el miedo como distracción vs. oportunidad.
 - **Estado:** borrador salvo `disciplina-de-no-actuar`, que sigue `pendiente`.
+
+## [2026-07-08] ingest | carta 1995
+- **Fuente:** `raw/1995.pdf`
+- **Páginas creadas:** `float` (casos) — primera página del dominio `casos`.
+- **Páginas enriquecidas:** `ventaja-competitiva` (+1995: "economic castles protected by
+  unbreachable moats", GEICO al 100%).
+- **Nota:** compra del 100% de GEICO; definición de float y su coste.
+- **Estado:** borrador (todas).

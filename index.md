@@ -48,7 +48,7 @@ _Páginas de la wiki agrupadas por `domain`. Se actualiza con cada ingesta._
 - [Buen negocio a precio justo](wiki/buen-negocio-a-precio-justo.md) — los turnarounds rara
   vez giran; mejor buen negocio a precio justo que malo a precio de ganga. `[1979, 1980, 1989]`
 - [Ventaja competitiva duradera](wiki/ventaja-competitiva.md) — una ventaja importante y
-  difícil de duplicar (GEICO, bajo coste) unida a buena gestión; el foso. `[1980, 1982, 1986, 1993]`
+  difícil de duplicar (GEICO, bajo coste) unida a buena gestión; el foso. `[1980, 1982, 1986, 1993, 1995]`
 - [Contra el mercado eficiente](wiki/contra-el-mercado-eficiente.md) — precio y valor
   divergen; la ventaja es la actitud, no el pronóstico (Washington Post). `[1985, 1988]`
 - [Incentivos alineados](wiki/incentivos-alineados.md) — las opciones premian retener, no
@@ -81,3 +81,7 @@ _Páginas de la wiki agrupadas por `domain`. Se actualiza con cada ingesta._
   tasa sobre el capital, no por el crecimiento del beneficio por acción. `[1979]`
 - [Goodwill económico](wiki/goodwill-economico.md) — valor capitalizado del exceso de
   retorno sobre los activos tangibles; franquicia con el consumidor. `[1983, 1985]`
+
+## casos
+- [Float (flotante del seguro)](wiki/float.md) — dinero que se retiene pero no se posee;
+  crea valor si su coste es menor que el de otros fondos. `[1995]`
