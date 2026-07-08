@@ -38,6 +38,13 @@ máxima de Thomas Watson.
 > what they attempt. (Thomas J. Watson Sr. of IBM followed the same rule: 'I'm no genius,' he
 > said. 'I'm smart in spots - but I stay around those spots.')" — 1990
 
+En 1992 lo formula como cuestión de autoconocimiento: lo que cuenta no es cuánto sabes, sino
+cómo de bien delimitas lo que no sabes.
+
+> "What counts for most people in investing is not how much they know, but rather how
+> realistically they define what they don't know. An investor needs to do very few things
+> right as long as he or she avoids big mistakes." — 1992
+
 ## Relacionados
 - [[criterios-de-seleccion]] — el primer filtro: un negocio que podamos entender.
 - [[no-predecir-el-mercado]] — fuera del círculo, no se pronostica.
@@ -46,3 +53,4 @@ máxima de Thomas Watson.
 ## Cartas fuente
 - 1989
 - 1990
+- 1992

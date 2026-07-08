@@ -132,3 +132,11 @@ _Registro append-only. Prefijo por entrada: `## [YYYY-MM-DD] <op> | <detalle>`
   look-through earnings; mirar al campo, no al marcador).
 - **Nota:** ensayo "franquicia vs. negocio" (3 condiciones; la franquicia tolera mala gestión).
 - **Estado:** borrador (todas).
+
+## [2026-07-08] ingest | carta 1992
+- **Fuente:** `raw/1992.pdf`
+- **Páginas creadas:** `valor-y-crecimiento` (valoracion), `margen-de-seguridad` (riesgo).
+- **Páginas enriquecidas:** `valor-intrinseco` (+1992: fórmula de John Burr Williams, DCF),
+  `circulo-de-competencia` (+1992: delimitar lo que no sabes; evitar errores grandes).
+- **Nota:** valor y crecimiento "joined at the hip"; margin of safety = piedra angular (Graham).
+- **Estado:** borrador (todas).

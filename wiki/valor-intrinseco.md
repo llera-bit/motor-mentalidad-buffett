@@ -1,7 +1,7 @@
 ---
 concepto: Valor intrínseco
 domain: valoracion
-years: [1983]
+years: [1983, 1992]
 estado: borrador
 actualizado: 2026-07-08
 ---
@@ -32,6 +32,18 @@ El objetivo económico declarado de Berkshire se define en estos términos, y po
 > "Our long-term economic goal... is to maximize the average annual rate of gain in
 > intrinsic business value on a per-share basis." — 1983
 
+En 1992 le da la forma cuantitativa de John Burr Williams: el valor es el flujo de caja futuro
+descontado, la misma fórmula para acciones que para bonos —salvo que en las acciones el
+analista debe estimar él mismo los "cupones".
+
+> "The value of any stock, bond or business today is determined by the cash inflows and
+> outflows - discounted at an appropriate interest rate - that can be expected to occur during
+> the remaining life of the asset. Note that the formula is the same for stocks as for
+> bonds." — 1992
+
+> "in the case of equities, the investment analyst must himself estimate the future
+> 'coupons.'" — 1992
+
 ## Relacionados
 - [[analista-de-negocios]] — valorar el negocio (lo que puede sacarse), no la cotización.
 - [[goodwill-economico]] — el exceso de valor intrínseco sobre los activos tangibles.
@@ -39,3 +51,4 @@ El objetivo económico declarado de Berkshire se define en estos términos, y po
 
 ## Cartas fuente
 - 1983
+- 1992

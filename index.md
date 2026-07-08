@@ -31,6 +31,8 @@ _Páginas de la wiki agrupadas por `domain`. Se actualiza con cada ingesta._
   puede volver negativo el retorno real; índice de miseria; recelo de los bonos largos. `[1979, 1980, 1981]`
 - [Fortaleza financiera y liquidez](wiki/fortaleza-financiera-y-liquidez.md) — liquidez y
   deuda moderada; capacidad de aguante y opciones; potencia de fuego. `[1980, 1983, 1989]`
+- [Margen de seguridad](wiki/margen-de-seguridad.md) — comprar solo con holgura entre valor y
+  precio; piedra angular (Graham). `[1992]`
 
 ## modelos-mentales
 - [Analista de negocios, no de mercado](wiki/analista-de-negocios.md) — decidir sobre el
@@ -52,7 +54,7 @@ _Páginas de la wiki agrupadas por `domain`. Se actualiza con cada ingesta._
 - [Arbitraje](wiki/arbitraje.md) — cuatro preguntas para evaluar una operación anunciada;
   pocas, grandes y públicas. `[1988]`
 - [Círculo de competencia](wiki/circulo-de-competencia.md) — obstáculos de un palmo, no de
-  dos metros; agnóstico fuera de lo que se entiende. `[1989, 1990]`
+  dos metros; agnóstico fuera de lo que se entiende. `[1989, 1990, 1992]`
 - [Franquicia vs. negocio](wiki/franquicia-vs-negocio.md) — la franquicia (3 condiciones)
   tolera mala gestión; el negocio puede morir por ella. `[1991]`
 
@@ -66,9 +68,11 @@ _Páginas de la wiki agrupadas por `domain`. Se actualiza con cada ingesta._
 - [Emitir acciones solo a su valor](wiki/emitir-acciones-solo-a-su-valor.md) — no emitir
   acciones si no se recibe tanto valor intrínseco como el que se entrega. `[1982]`
 - [Valor intrínseco](wiki/valor-intrinseco.md) — lo que puede sacarse (flujos futuros
-  descontados), no lo que se metió (valor contable). `[1983]`
+  descontados), no lo que se metió (valor contable). `[1983, 1992]`
 - [Owner earnings](wiki/owner-earnings.md) — beneficio real del dueño: (a) beneficio + (b)
   cargas no monetarias − (c) capex de mantenimiento; falacia del cash flow. `[1986, 1989]`
+- [Valor y crecimiento](wiki/valor-y-crecimiento.md) — no son opuestos: el crecimiento es un
+  componente del valor; "value investing" es redundante. `[1992]`
 
 ## contabilidad
 - [Retorno sobre el capital, no BPA](wiki/roe-vs-beneficio-por-accion.md) — juzgar por la
