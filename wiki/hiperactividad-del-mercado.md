@@ -40,6 +40,11 @@ Y define al gestor hiperactivo con sarcasmo.
 > "the term 'institutional investor' is becoming one of those self-contradictions called an
 > oxymoron, comparable to 'jumbo shrimp,' 'lady mudwrestler' and 'inexpensive lawyer.'" — 1986
 
+En 2004 lo sintetiza para el inversor medio: sus enemigos son la emoción y los costes (por
+operar en exceso, seguir modas y entrar/salir a destiempo).
+
+> "Investors should remember that excitement and expenses are their enemies." — 2004
+
 ## Relacionados
 - [[no-predecir-el-mercado]] — la actividad no nace de información, sino de impaciencia.
 - [[analista-de-negocios]] — el foco en resultados del negocio, no en el precio.
