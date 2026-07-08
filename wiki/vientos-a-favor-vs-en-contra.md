@@ -1,7 +1,7 @@
 ---
 concepto: Vientos a favor vs. en contra
 domain: modelos-mentales
-years: [1977, 1978]
+years: [1977, 1978, 1982]
 estado: pendiente
 actualizado: 2026-07-08
 ---
@@ -39,6 +39,13 @@ no el capital empleado, y el retorno es inadecuado.
 > undifferentiated goods in capital intensive businesses must earn inadequate returns
 > except under conditions of tight supply or real shortage." — 1978
 
+En 1982, analizando los seguros, formula la ecuación general del negocio de materia prima:
+sobrecapacidad persistente sin precios administrados igual a mala rentabilidad.
+
+> "For the great majority of companies selling 'commodity' products, a depressing equation
+> of business economics prevails: persistent over-capacity without administered prices (or
+> costs) equals poor profitability." — 1982
+
 ## Relacionados
 - [[criterios-de-seleccion]] — el filtro (2), perspectivas favorables a largo plazo,
   es este viento a favor.
@@ -46,3 +53,4 @@ no el capital empleado, y el retorno es inadecuado.
 ## Cartas fuente
 - 1977
 - 1978
+- 1982

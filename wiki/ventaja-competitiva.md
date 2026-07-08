@@ -1,7 +1,7 @@
 ---
 concepto: Ventaja competitiva duradera
 domain: modelos-mentales
-years: [1980]
+years: [1980, 1982]
 estado: borrador
 actualizado: 2026-07-08
 ---
@@ -31,9 +31,21 @@ destruyó la economía subyacente. Buffett la distingue del verdadero "turnaroun
 > "Both were one-of-a-kind companies, temporarily reeling from the effects of a fiscal blow
 > that did not destroy their exceptional underlying economics." — 1980
 
+En 1982 generaliza la ventaja de GEICO en un principio: en un sector de producto
+indiferenciado, solo prospera de forma sostenida quien tenga una ventaja en costes amplia y
+duradera.
+
+> "A few producers in such industries may consistently do well if they have a cost advantage
+> that is both wide and sustainable." — 1982
+
+> "GEICO is a magnificent illustration of the high-profit exception we described earlier in
+> discussing commodity industries with over-capacity - a company with a wide and sustainable
+> cost advantage." — 1982
+
 ## Relacionados
 - [[buen-negocio-a-precio-justo]] — la ventaja duradera es lo que hace "bueno" a un negocio.
 - [[vientos-a-favor-vs-en-contra]] — es el viento a favor estructural.
 
 ## Cartas fuente
 - 1980
+- 1982

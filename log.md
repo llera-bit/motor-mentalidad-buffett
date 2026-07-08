@@ -54,3 +54,11 @@ _Registro append-only. Prefijo por entrada: `## [YYYY-MM-DD] <op> | <detalle>`
 - **Páginas enriquecidas:** `inflacion-enemigo-del-inversor` (+1981: tenia corporativa),
   `concentracion` (+1981: evitar compromisos pequeños).
 - **Estado:** borrador (ninguna aprobada aún).
+
+## [2026-07-08] ingest | carta 1982
+- **Fuente:** `raw/1982.pdf`
+- **Páginas creadas:** `emitir-acciones-solo-a-su-valor` (valoracion).
+- **Páginas enriquecidas:** `ventaja-competitiva` (+1982: ventaja en costes amplia y
+  duradera), `vientos-a-favor-vs-en-contra` (+1982: ecuación del negocio de materia prima),
+  `locura-de-las-adquisiciones` (+1982: adrenalina vs intelecto, Pascal).
+- **Estado:** borrador salvo `vientos-a-favor-vs-en-contra`, que sigue `pendiente`.

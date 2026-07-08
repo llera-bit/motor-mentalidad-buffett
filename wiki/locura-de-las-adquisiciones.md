@@ -1,7 +1,7 @@
 ---
 concepto: La locura de las adquisiciones
 domain: psicologia
-years: [1981]
+years: [1981, 1982]
 estado: borrador
 actualizado: 2026-07-08
 ---
@@ -38,9 +38,20 @@ derecho a besarlos rara vez obra el milagro.
 > bankroll princesses who wish to pay double for the right to kiss the toad, those kisses
 > had better pack some real dynamite. We've observed many kisses but very few miracles." — 1981
 
+En 1982, viendo las grandes adquisiciones ajenas, describe cómo la adrenalina vence al
+intelecto directivo.
+
+> "The thrill of the chase blinded the pursuers to the consequences of the catch." — 1982
+
+Y recurre a Pascal para nombrar el fondo del problema.
+
+> "It has struck me that all men's misfortunes spring from the single cause that they are
+> unable to stay quietly in one room." — 1982 (Buffett citando a Pascal)
+
 ## Relacionados
 - [[disciplina-de-no-actuar]] — la disciplina de no pagar de más ni actuar por actuar.
 - [[buen-negocio-a-precio-justo]] — comprar un príncipe que ya lo era, no un sapo a besar.
 
 ## Cartas fuente
 - 1981
+- 1982
