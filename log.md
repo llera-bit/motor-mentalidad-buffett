@@ -62,3 +62,12 @@ _Registro append-only. Prefijo por entrada: `## [YYYY-MM-DD] <op> | <detalle>`
   duradera), `vientos-a-favor-vs-en-contra` (+1982: ecuación del negocio de materia prima),
   `locura-de-las-adquisiciones` (+1982: adrenalina vs intelecto, Pascal).
 - **Estado:** borrador salvo `vientos-a-favor-vs-en-contra`, que sigue `pendiente`.
+
+## [2026-07-08] ingest | carta 1983
+- **Fuente:** `raw/1983.pdf`
+- **Páginas creadas:** `valor-intrinseco` (valoracion), `goodwill-economico` (contabilidad),
+  `candor` (psicologia), `hiperactividad-del-mercado` (psicologia).
+- **Páginas enriquecidas:** `fortaleza-financiera-y-liquidez` (+1983: rechazar oportunidades
+  antes que sobreapalancar), `retener-o-repartir` (+1983: test del dólar, ventana de 5 años).
+- **Nota:** carta faro (principios del propietario + apéndice sobre goodwill económico).
+- **Estado:** borrador (todas).

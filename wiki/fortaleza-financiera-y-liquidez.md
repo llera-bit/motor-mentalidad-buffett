@@ -1,7 +1,7 @@
 ---
 concepto: Fortaleza financiera y liquidez
 domain: riesgo
-years: [1980]
+years: [1980, 1983]
 estado: borrador
 actualizado: 2026-07-08
 ---
@@ -29,9 +29,20 @@ La fortaleza no elimina el entorno adverso, pero da margen de maniobra.
 
 > "It just gives us more staying power and more options." — 1980
 
+En 1983, entre sus principios, lo eleva a norma: rechazará oportunidades interesantes antes
+que sobreapalancar el balance.
+
+> "We rarely use much debt and, when we do, we attempt to structure it on a long-term fixed
+> rate basis. We will reject interesting opportunities rather than over-leverage our balance
+> sheet. This conservatism has penalized our results but it is the only behavior that leaves
+> us comfortable, considering our fiduciary obligations to policyholders, depositors, lenders
+> and the many equity holders who have committed unusually large portions of their net worth
+> to our care." — 1983
+
 ## Relacionados
 - [[disciplina-de-no-actuar]] — la liquidez permite esperar sin verse forzado.
 - [[volatilidad-y-venta-forzada]] — la fortaleza evita la venta forzada por presión.
 
 ## Cartas fuente
 - 1980
+- 1983

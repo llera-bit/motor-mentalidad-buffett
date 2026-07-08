@@ -1,7 +1,7 @@
 ---
 concepto: Retener o repartir
 domain: valoracion
-years: [1981]
+years: [1981, 1983]
 estado: borrador
 actualizado: 2026-07-08
 ---
@@ -31,6 +31,14 @@ anterior.
 > Not because it is attractive as a repository for equity capital, but precisely because it
 > is so unattractive, the low-return business must follow a high retention policy." — 1981
 
+En 1983 lo convierte en una prueba concreta —el "test del dólar"—: la retención solo es
+sabia si cada dólar retenido entrega al menos un dólar de valor de mercado, medido en
+ventanas móviles de cinco años.
+
+> "We test the wisdom of retaining earnings by assessing whether retention, over time,
+> delivers shareholders at least $1 of market value for each $1 retained. To date, this test
+> has been met. We will continue to apply it on a five-year rolling basis." — 1983
+
 ## Relacionados
 - [[beneficios-retenidos-participadas]] — el valor del beneficio retenido depende del uso.
 - [[recompra-de-acciones]] — repartir vía recompra cuando cotiza bajo el valor intrínseco.
@@ -38,3 +46,4 @@ anterior.
 
 ## Cartas fuente
 - 1981
+- 1983

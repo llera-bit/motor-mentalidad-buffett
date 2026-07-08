@@ -11,6 +11,10 @@ _Páginas de la wiki agrupadas por `domain`. Se actualiza con cada ingesta._
   precio a corto plazo; orientación al largo plazo del negocio. `[1978, 1980]`
 - [La locura de las adquisiciones](wiki/locura-de-las-adquisiciones.md) — espíritus
   animales, culto al tamaño y exceso de optimismo (sapos y princesas). `[1981, 1982]`
+- [Candor](wiki/candor.md) — informar con franqueza; engañar en público acaba engañándote
+  a ti mismo en privado. `[1983]`
+- [Hiperactividad del mercado](wiki/hiperactividad-del-mercado.md) — la rotación es un
+  impuesto que el inversor se impone; "pickpocket of enterprise". `[1983]`
 
 ## riesgo
 - [Volatilidad y venta forzada](wiki/volatilidad-y-venta-forzada.md) — la volatilidad
@@ -18,7 +22,7 @@ _Páginas de la wiki agrupadas por `domain`. Se actualiza con cada ingesta._
 - [Inflación, enemigo del inversor](wiki/inflacion-enemigo-del-inversor.md) — la inflación
   puede volver negativo el retorno real; índice de miseria; recelo de los bonos largos. `[1979, 1980, 1981]`
 - [Fortaleza financiera y liquidez](wiki/fortaleza-financiera-y-liquidez.md) — liquidez y
-  deuda moderada; capacidad de aguante y opciones; potencia de fuego. `[1980]`
+  deuda moderada; capacidad de aguante y opciones; potencia de fuego. `[1980, 1983]`
 
 ## modelos-mentales
 - [Analista de negocios, no de mercado](wiki/analista-de-negocios.md) — decidir sobre el
@@ -40,10 +44,14 @@ _Páginas de la wiki agrupadas por `domain`. Se actualiza con cada ingesta._
 - [Recompra de acciones](wiki/recompra-de-acciones.md) — recomprar por debajo del valor
   intrínseco es de los mejores usos del capital. `[1980]`
 - [Retener o repartir](wiki/retener-o-repartir.md) — retener solo si el capital rinde más
-  dentro que fuera; si no, repartir. `[1981]`
+  dentro que fuera; si no, repartir. `[1981, 1983]`
 - [Emitir acciones solo a su valor](wiki/emitir-acciones-solo-a-su-valor.md) — no emitir
   acciones si no se recibe tanto valor intrínseco como el que se entrega. `[1982]`
+- [Valor intrínseco](wiki/valor-intrinseco.md) — lo que puede sacarse (flujos futuros
+  descontados), no lo que se metió (valor contable). `[1983]`
 
 ## contabilidad
 - [Retorno sobre el capital, no BPA](wiki/roe-vs-beneficio-por-accion.md) — juzgar por la
   tasa sobre el capital, no por el crecimiento del beneficio por acción. `[1979]`
+- [Goodwill económico](wiki/goodwill-economico.md) — valor capitalizado del exceso de
+  retorno sobre los activos tangibles; franquicia con el consumidor. `[1983]`
