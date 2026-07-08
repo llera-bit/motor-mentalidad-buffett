@@ -1,9 +1,9 @@
 ---
 concepto: Analista de negocios, no de mercado
 domain: modelos-mentales
-years: [1987]
+years: [1977, 1987]
 estado: borrador
-actualizado: 2026-07-07
+actualizado: 2026-07-08
 ---
 
 # Analista de negocios, no de mercado
@@ -43,10 +43,20 @@ negocio —recogiendo la máxima de Graham sobre el corto y el largo plazo.
 > "In the short run, the market is a voting machine but in the long run it is a weighing
 > machine." — 1987 (Buffett citando a Ben Graham)
 
+Este mismo criterio —juzgar por los resultados del negocio a lo largo de los años, no por
+el precio de un día— ya estaba en la primera carta, en 1977.
+
+> "the scorecard on our investment decisions will be provided by business results over
+> that period, and not by prices on any given day." — 1977
+
+> "So much for single year snapshots as adequate portrayals of a business." — 1977
+
 ## Relacionados
 - [[mr-market]] — a quién ignorar (el precio) para poder analizar el negocio.
 - [[volatilidad-y-venta-forzada]] — por qué anclar en el negocio protege de la presión
   del precio.
+- [[criterios-de-seleccion]] — los filtros con que se evalúa ese negocio (1977).
 
 ## Cartas fuente
+- 1977
 - 1987
