@@ -1,7 +1,7 @@
 ---
 concepto: El imperativo institucional
 domain: psicologia
-years: [1989]
+years: [1989, 1990]
 estado: borrador
 actualizado: 2026-07-08
 ---
@@ -31,6 +31,12 @@ No es maldad ni estupidez, sino dinámica institucional.
 > "Institutional dynamics, not venality or stupidity, set businesses on these courses, which
 > are too often misguided." — 1989
 
+En 1990 lo ve en acción en la banca: muchos banqueros prestaron jugando a seguir al líder con
+celo de lemming, y ahora sufren un destino de lemming.
+
+> "many bankers played follow-the-leader with lemming-like zeal; now they are experiencing a
+> lemming-like fate." — 1990
+
 ## Relacionados
 - [[fallar-convencionalmente]] — el incentivo individual a imitar a la manada.
 - [[locura-de-las-adquisiciones]] — proyectos y compras que aparecen para gastar el dinero.
@@ -38,3 +44,4 @@ No es maldad ni estupidez, sino dinámica institucional.
 
 ## Cartas fuente
 - 1989
+- 1990

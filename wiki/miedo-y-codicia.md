@@ -1,7 +1,7 @@
 ---
 concepto: Miedo y codicia
 domain: psicologia
-years: [1986]
+years: [1986, 1990]
 estado: borrador
 actualizado: 2026-07-08
 ---
@@ -26,6 +26,20 @@ del rendimiento real del negocio.
 > businesses themselves. Unfortunately, however, stocks can't outperform businesses
 > indefinitely." — 1986
 
+En 1990, comprando Wells Fargo en pleno pánico bancario, lo formula desde el lado del
+comprador perpetuo: quien va a comprar toda la vida debería alegrarse de los precios bajos.
+
+> "declining prices for businesses benefit us, and rising prices hurt us. The most common
+> cause of low prices is pessimism... We want to do business in such an environment, not
+> because we like pessimism but because we like the prices it produces. It's optimism that is
+> the enemy of the rational buyer." — 1990
+
+Pero avisa: la impopularidad por sí sola no basta; el contrarianismo ciego es tan tonto como
+seguir a la manada.
+
+> "a contrarian approach is just as foolish as a follow-the-crowd strategy. What's required
+> is thinking rather than polling." — 1990
+
 ## Relacionados
 - [[mr-market]] — el socio maníaco-depresivo cuyo estado de ánimo aprovechar.
 - [[no-predecir-el-mercado]] — no se anticipa el brote; se responde a él.
@@ -33,3 +47,4 @@ del rendimiento real del negocio.
 
 ## Cartas fuente
 - 1986
+- 1990

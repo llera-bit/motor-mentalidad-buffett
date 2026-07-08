@@ -115,3 +115,12 @@ _Registro append-only. Prefijo por entrada: `## [YYYY-MM-DD] <op> | <detalle>`
   la ruina no se compensa), `owner-earnings` (+1989: crítica a EBITDA).
 - **Nota:** carta faro (ensayo "Mistakes of the First Twenty-Five Years").
 - **Estado:** borrador (todas).
+
+## [2026-07-08] ingest | carta 1990
+- **Fuente:** `raw/1990.pdf`
+- **Páginas creadas:** ninguna (carta de conceptos en acción).
+- **Páginas enriquecidas:** `miedo-y-codicia` (+1990: pesimismo amigo/optimismo enemigo,
+  pensar no encuestar), `circulo-de-competencia` (+1990: Watson "smart in spots"),
+  `imperativo-institucional` (+1990: banqueros lemming).
+- **Nota:** compra de Wells Fargo en el pánico bancario, como ilustración.
+- **Estado:** borrador (todas).

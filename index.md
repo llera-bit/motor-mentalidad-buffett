@@ -18,11 +18,11 @@ _Páginas de la wiki agrupadas por `domain`. Se actualiza con cada ingesta._
 - [Fallar convencionalmente](wiki/fallar-convencionalmente.md) — el incentivo del gestor a
   seguir a la manada; actuar como dueño libera de él. `[1984]`
 - [Miedo y codicia](wiki/miedo-y-codicia.md) — dos enfermedades súper-contagiosas; ser
-  temeroso cuando otros son codiciosos y viceversa. `[1986]`
+  temeroso cuando otros son codiciosos y viceversa. `[1986, 1990]`
 - [Holding para siempre](wiki/holding-para-siempre.md) — el periodo de tenencia favorito es
   "para siempre"; no cortar las flores y regar las malas hierbas. `[1988]`
 - [El imperativo institucional](wiki/imperativo-institucional.md) — la fuerza invisible que
-  marchita la racionalidad de los gestores; imitación, inercia, gasto por gastar. `[1989]`
+  marchita la racionalidad de los gestores; imitación, inercia, gasto por gastar. `[1989, 1990]`
 
 ## riesgo
 - [Volatilidad y venta forzada](wiki/volatilidad-y-venta-forzada.md) — la volatilidad
@@ -52,7 +52,7 @@ _Páginas de la wiki agrupadas por `domain`. Se actualiza con cada ingesta._
 - [Arbitraje](wiki/arbitraje.md) — cuatro preguntas para evaluar una operación anunciada;
   pocas, grandes y públicas. `[1988]`
 - [Círculo de competencia](wiki/circulo-de-competencia.md) — obstáculos de un palmo, no de
-  dos metros; agnóstico fuera de lo que se entiende. `[1989]`
+  dos metros; agnóstico fuera de lo que se entiende. `[1989, 1990]`
 
 ## valoracion
 - [Beneficios retenidos de participadas](wiki/beneficios-retenidos-participadas.md) — la
