@@ -1,7 +1,7 @@
 ---
 concepto: Ventaja competitiva duradera
 domain: modelos-mentales
-years: [1980, 1982]
+years: [1980, 1982, 1986]
 estado: borrador
 actualizado: 2026-07-08
 ---
@@ -42,6 +42,15 @@ duradera.
 > discussing commodity industries with over-capacity - a company with a wide and sustainable
 > cost advantage." — 1982
 
+En 1986 le pone el nombre que lo hará famoso: el foso alrededor del castillo. La ventaja en
+costes de GEICO es ese foso, y el buen gestor lo ensancha.
+
+> "The difference between GEICO's costs and those of its competitors is a kind of moat that
+> protects a valuable and much-sought-after business castle. No one understands this
+> moat-around-the-castle concept better than Bill Snyder, Chairman of GEICO. He continually
+> widens the moat by driving down costs still more, thereby defending and strengthening the
+> economic franchise." — 1986
+
 ## Relacionados
 - [[buen-negocio-a-precio-justo]] — la ventaja duradera es lo que hace "bueno" a un negocio.
 - [[vientos-a-favor-vs-en-contra]] — es el viento a favor estructural.
@@ -49,3 +58,4 @@ duradera.
 ## Cartas fuente
 - 1980
 - 1982
+- 1986

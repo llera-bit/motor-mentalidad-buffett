@@ -90,3 +90,11 @@ _Registro append-only. Prefijo por entrada: `## [YYYY-MM-DD] <op> | <detalle>`
   textil, goodwill de rutas de periódico > activos tangibles).
 - **Nota:** carta del cierre del negocio textil y del ensayo sobre opciones/incentivos.
 - **Estado:** borrador; `vientos-a-favor-vs-en-contra` sigue pendiente.
+
+## [2026-07-08] ingest | carta 1986
+- **Fuente:** `raw/1986.pdf`
+- **Páginas creadas:** `miedo-y-codicia` (psicologia), `owner-earnings` (valoracion).
+- **Páginas enriquecidas:** `ventaja-competitiva` (+1986: foso alrededor del castillo, GEICO),
+  `hiperactividad-del-mercado` (+1986: el accionista en conjunto rinde menos que sus empresas).
+- **Nota:** apéndice de 1986 define owner earnings (a+b−c) y la falacia del cash flow.
+- **Estado:** borrador (todas).

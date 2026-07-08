@@ -14,9 +14,11 @@ _Páginas de la wiki agrupadas por `domain`. Se actualiza con cada ingesta._
 - [Candor](wiki/candor.md) — informar con franqueza; engañar en público acaba engañándote
   a ti mismo en privado. `[1983]`
 - [Hiperactividad del mercado](wiki/hiperactividad-del-mercado.md) — la rotación es un
-  impuesto que el inversor se impone; "pickpocket of enterprise". `[1983]`
+  impuesto que el inversor se impone; "pickpocket of enterprise". `[1983, 1986]`
 - [Fallar convencionalmente](wiki/fallar-convencionalmente.md) — el incentivo del gestor a
   seguir a la manada; actuar como dueño libera de él. `[1984]`
+- [Miedo y codicia](wiki/miedo-y-codicia.md) — dos enfermedades súper-contagiosas; ser
+  temeroso cuando otros son codiciosos y viceversa. `[1986]`
 
 ## riesgo
 - [Volatilidad y venta forzada](wiki/volatilidad-y-venta-forzada.md) — la volatilidad
@@ -38,7 +40,7 @@ _Páginas de la wiki agrupadas por `domain`. Se actualiza con cada ingesta._
 - [Buen negocio a precio justo](wiki/buen-negocio-a-precio-justo.md) — los turnarounds rara
   vez giran; mejor buen negocio a precio justo que malo a precio de ganga. `[1979, 1980]`
 - [Ventaja competitiva duradera](wiki/ventaja-competitiva.md) — una ventaja importante y
-  difícil de duplicar (GEICO, bajo coste) unida a buena gestión. `[1980, 1982]`
+  difícil de duplicar (GEICO, bajo coste) unida a buena gestión; el foso. `[1980, 1982, 1986]`
 - [Contra el mercado eficiente](wiki/contra-el-mercado-eficiente.md) — precio y valor
   divergen; la ventaja es la actitud, no el pronóstico (Washington Post). `[1985]`
 - [Incentivos alineados](wiki/incentivos-alineados.md) — las opciones premian retener, no
@@ -55,6 +57,8 @@ _Páginas de la wiki agrupadas por `domain`. Se actualiza con cada ingesta._
   acciones si no se recibe tanto valor intrínseco como el que se entrega. `[1982]`
 - [Valor intrínseco](wiki/valor-intrinseco.md) — lo que puede sacarse (flujos futuros
   descontados), no lo que se metió (valor contable). `[1983]`
+- [Owner earnings](wiki/owner-earnings.md) — beneficio real del dueño: (a) beneficio + (b)
+  cargas no monetarias − (c) capex de mantenimiento; falacia del cash flow. `[1986]`
 
 ## contabilidad
 - [Retorno sobre el capital, no BPA](wiki/roe-vs-beneficio-por-accion.md) — juzgar por la

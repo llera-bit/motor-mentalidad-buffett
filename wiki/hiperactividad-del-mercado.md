@@ -1,7 +1,7 @@
 ---
 concepto: Hiperactividad del mercado
 domain: psicologia
-years: [1983]
+years: [1983, 1986]
 estado: borrador
 actualizado: 2026-07-08
 ---
@@ -28,9 +28,22 @@ mirarlo.
 
 > "People who buy for non-value reasons are likely to sell for non-value reasons." — 1983
 
+En 1986 lo cuantifica: por los costes de transacción y gestión, el conjunto de los
+accionistas está condenado a rendir menos que las empresas que posee.
+
+> "because of the heavy transaction and investment management costs they bear, stockholders
+> as a whole and over the long term must inevitably underperform the companies they own... Bull
+> markets can obscure mathematical laws, but they cannot repeal them." — 1986
+
+Y define al gestor hiperactivo con sarcasmo.
+
+> "the term 'institutional investor' is becoming one of those self-contradictions called an
+> oxymoron, comparable to 'jumbo shrimp,' 'lady mudwrestler' and 'inexpensive lawyer.'" — 1986
+
 ## Relacionados
 - [[no-predecir-el-mercado]] — la actividad no nace de información, sino de impaciencia.
 - [[analista-de-negocios]] — el foco en resultados del negocio, no en el precio.
 
 ## Cartas fuente
 - 1983
+- 1986
