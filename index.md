@@ -53,10 +53,12 @@ _Páginas de la wiki agrupadas por `domain`. Se actualiza con cada ingesta._
   pocas, grandes y públicas. `[1988]`
 - [Círculo de competencia](wiki/circulo-de-competencia.md) — obstáculos de un palmo, no de
   dos metros; agnóstico fuera de lo que se entiende. `[1989, 1990]`
+- [Franquicia vs. negocio](wiki/franquicia-vs-negocio.md) — la franquicia (3 condiciones)
+  tolera mala gestión; el negocio puede morir por ella. `[1991]`
 
 ## valoracion
 - [Beneficios retenidos de participadas](wiki/beneficios-retenidos-participadas.md) — la
-  parte no distribuida es valor real para el accionista si se reinvierte bien. `[1978, 1979, 1980]`
+  parte no distribuida es valor real para el accionista si se reinvierte bien. `[1978, 1979, 1980, 1991]`
 - [Recompra de acciones](wiki/recompra-de-acciones.md) — recomprar por debajo del valor
   intrínseco es de los mejores usos del capital. `[1980, 1984]`
 - [Retener o repartir](wiki/retener-o-repartir.md) — retener solo si el capital rinde más

@@ -124,3 +124,11 @@ _Registro append-only. Prefijo por entrada: `## [YYYY-MM-DD] <op> | <detalle>`
   `imperativo-institucional` (+1990: banqueros lemming).
 - **Nota:** compra de Wells Fargo en el pánico bancario, como ilustración.
 - **Estado:** borrador (todas).
+
+## [2026-07-08] ingest | carta 1991
+- **Fuente:** `raw/1991.pdf`
+- **Páginas creadas:** `franquicia-vs-negocio` (modelos-mentales).
+- **Páginas enriquecidas:** `beneficios-retenidos-participadas` (+1991: definición formal de
+  look-through earnings; mirar al campo, no al marcador).
+- **Nota:** ensayo "franquicia vs. negocio" (3 condiciones; la franquicia tolera mala gestión).
+- **Estado:** borrador (todas).
