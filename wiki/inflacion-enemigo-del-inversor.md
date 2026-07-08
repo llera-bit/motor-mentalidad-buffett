@@ -1,7 +1,7 @@
 ---
 concepto: Inflación, enemigo del inversor
 domain: riesgo
-years: [1979, 1980]
+years: [1979, 1980, 1981]
 estado: borrador
 actualizado: 2026-07-08
 ---
@@ -47,9 +47,17 @@ gran parte de la inversión empresarial.
 > unwise - at least if measured by the criterion of a positive real investment return to
 > owners." — 1980
 
+En 1981 le pone su imagen más gráfica: la inflación como una tenia corporativa que consume
+su ración de capital pase lo que pase con la salud del negocio.
+
+> "For inflation acts as a gigantic corporate tapeworm. That tapeworm preemptively consumes
+> its requisite daily diet of investment dollars regardless of the health of the host
+> organism." — 1981
+
 ## Relacionados
 - [[analista-de-negocios]] — el objetivo último es el patrimonio real, no el nominal.
 
 ## Cartas fuente
 - 1979
 - 1980
+- 1981

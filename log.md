@@ -46,3 +46,11 @@ _Registro append-only. Prefijo por entrada: `## [YYYY-MM-DD] <op> | <detalle>`
   capital), `buen-negocio-a-precio-justo` (+1980: reputación del negocio),
   `no-predecir-el-mercado` (+1980: pronósticos inútiles).
 - **Estado:** borrador (ninguna aprobada aún).
+
+## [2026-07-08] ingest | carta 1981
+- **Fuente:** `raw/1981.pdf`
+- **Páginas creadas:** `locura-de-las-adquisiciones` (psicologia), `retener-o-repartir`
+  (valoracion).
+- **Páginas enriquecidas:** `inflacion-enemigo-del-inversor` (+1981: tenia corporativa),
+  `concentracion` (+1981: evitar compromisos pequeños).
+- **Estado:** borrador (ninguna aprobada aún).

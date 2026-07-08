@@ -9,12 +9,14 @@ _Páginas de la wiki agrupadas por `domain`. Se actualiza con cada ingesta._
   antes que operar a precios malos; dejar que el otro se lleve el negocio. `[1977, 1979]`
 - [No predecir el mercado](wiki/no-predecir-el-mercado.md) — nadie puede predecir el
   precio a corto plazo; orientación al largo plazo del negocio. `[1978, 1980]`
+- [La locura de las adquisiciones](wiki/locura-de-las-adquisiciones.md) — espíritus
+  animales, culto al tamaño y exceso de optimismo (sapos y princesas). `[1981]`
 
 ## riesgo
 - [Volatilidad y venta forzada](wiki/volatilidad-y-venta-forzada.md) — la volatilidad
   solo daña si te obliga a vender (presión financiera o psicológica). `[1987]`
 - [Inflación, enemigo del inversor](wiki/inflacion-enemigo-del-inversor.md) — la inflación
-  puede volver negativo el retorno real; índice de miseria; recelo de los bonos largos. `[1979, 1980]`
+  puede volver negativo el retorno real; índice de miseria; recelo de los bonos largos. `[1979, 1980, 1981]`
 - [Fortaleza financiera y liquidez](wiki/fortaleza-financiera-y-liquidez.md) — liquidez y
   deuda moderada; capacidad de aguante y opciones; potencia de fuego. `[1980]`
 
@@ -24,7 +26,7 @@ _Páginas de la wiki agrupadas por `domain`. Se actualiza con cada ingesta._
 - [Criterios de selección (cuatro filtros)](wiki/criterios-de-seleccion.md) — entender,
   perspectivas a largo plazo, gente honesta y competente, precio atractivo. `[1977, 1978]`
 - [Concentración](wiki/concentracion.md) — concentrar en alta convicción; nada tibio;
-  comprar cantidades significativas. `[1978]`
+  comprar cantidades significativas. `[1978, 1981]`
 - [Vientos a favor vs. en contra](wiki/vientos-a-favor-vs-en-contra.md) — la economía
   del negocio domina sobre el esfuerzo del gestor. `[1977, 1978]`
 - [Buen negocio a precio justo](wiki/buen-negocio-a-precio-justo.md) — los turnarounds rara
@@ -37,6 +39,8 @@ _Páginas de la wiki agrupadas por `domain`. Se actualiza con cada ingesta._
   parte no distribuida es valor real para el accionista si se reinvierte bien. `[1978, 1979, 1980]`
 - [Recompra de acciones](wiki/recompra-de-acciones.md) — recomprar por debajo del valor
   intrínseco es de los mejores usos del capital. `[1980]`
+- [Retener o repartir](wiki/retener-o-repartir.md) — retener solo si el capital rinde más
+  dentro que fuera; si no, repartir. `[1981]`
 
 ## contabilidad
 - [Retorno sobre el capital, no BPA](wiki/roe-vs-beneficio-por-accion.md) — juzgar por la
