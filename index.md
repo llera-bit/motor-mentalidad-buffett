@@ -6,7 +6,7 @@ _Páginas de la wiki agrupadas por `domain`. Se actualiza con cada ingesta._
 - [Mr. Market](wiki/mr-market.md) — el mercado te da precios, no juicio; sírvete de su
   bolsillo, no de su sabiduría. `[1987]`
 - [Disciplina de no actuar](wiki/disciplina-de-no-actuar.md) — aceptar menos volumen
-  antes que operar a precios malos; dejar que el otro se lleve el negocio. `[1977, 1979]`
+  antes que operar a precios malos; dejar que el otro se lleve el negocio. `[1977, 1979, 1984]`
 - [No predecir el mercado](wiki/no-predecir-el-mercado.md) — nadie puede predecir el
   precio a corto plazo; orientación al largo plazo del negocio. `[1978, 1980]`
 - [La locura de las adquisiciones](wiki/locura-de-las-adquisiciones.md) — espíritus
@@ -15,6 +15,8 @@ _Páginas de la wiki agrupadas por `domain`. Se actualiza con cada ingesta._
   a ti mismo en privado. `[1983]`
 - [Hiperactividad del mercado](wiki/hiperactividad-del-mercado.md) — la rotación es un
   impuesto que el inversor se impone; "pickpocket of enterprise". `[1983]`
+- [Fallar convencionalmente](wiki/fallar-convencionalmente.md) — el incentivo del gestor a
+  seguir a la manada; actuar como dueño libera de él. `[1984]`
 
 ## riesgo
 - [Volatilidad y venta forzada](wiki/volatilidad-y-venta-forzada.md) — la volatilidad
@@ -26,11 +28,11 @@ _Páginas de la wiki agrupadas por `domain`. Se actualiza con cada ingesta._
 
 ## modelos-mentales
 - [Analista de negocios, no de mercado](wiki/analista-de-negocios.md) — decidir sobre el
-  valor del negocio y la expectativa matemática, no sobre la cotización. `[1977, 1987]`
+  valor del negocio y la expectativa matemática, no sobre la cotización. `[1977, 1984, 1987]`
 - [Criterios de selección (cuatro filtros)](wiki/criterios-de-seleccion.md) — entender,
   perspectivas a largo plazo, gente honesta y competente, precio atractivo. `[1977, 1978]`
 - [Concentración](wiki/concentracion.md) — concentrar en alta convicción; nada tibio;
-  comprar cantidades significativas. `[1978, 1981]`
+  comprar cantidades significativas. `[1978, 1981, 1984]`
 - [Vientos a favor vs. en contra](wiki/vientos-a-favor-vs-en-contra.md) — la economía
   del negocio domina sobre el esfuerzo del gestor. `[1977, 1978, 1982]`
 - [Buen negocio a precio justo](wiki/buen-negocio-a-precio-justo.md) — los turnarounds rara
@@ -42,9 +44,9 @@ _Páginas de la wiki agrupadas por `domain`. Se actualiza con cada ingesta._
 - [Beneficios retenidos de participadas](wiki/beneficios-retenidos-participadas.md) — la
   parte no distribuida es valor real para el accionista si se reinvierte bien. `[1978, 1979, 1980]`
 - [Recompra de acciones](wiki/recompra-de-acciones.md) — recomprar por debajo del valor
-  intrínseco es de los mejores usos del capital. `[1980]`
+  intrínseco es de los mejores usos del capital. `[1980, 1984]`
 - [Retener o repartir](wiki/retener-o-repartir.md) — retener solo si el capital rinde más
-  dentro que fuera; si no, repartir. `[1981, 1983]`
+  dentro que fuera; si no, repartir. `[1981, 1983, 1984]`
 - [Emitir acciones solo a su valor](wiki/emitir-acciones-solo-a-su-valor.md) — no emitir
   acciones si no se recibe tanto valor intrínseco como el que se entrega. `[1982]`
 - [Valor intrínseco](wiki/valor-intrinseco.md) — lo que puede sacarse (flujos futuros

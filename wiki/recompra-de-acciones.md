@@ -1,7 +1,7 @@
 ---
 concepto: Recompra de acciones
 domain: valoracion
-years: [1980]
+years: [1980, 1984]
 estado: borrador
 actualizado: 2026-07-08
 ---
@@ -33,6 +33,20 @@ millones en dos años.
 > share equivalents it has outstanding from 34.2 million to 21.6 million, dramatically
 > enhancing the interests of shareholders in a business that simply can't be replicated." — 1980
 
+En 1984 subraya los dos beneficios de recomprar por debajo del valor. El aritmético,
+inmediato: dos dólares de valor por uno.
+
+> "major repurchases at prices well below per-share intrinsic business value immediately
+> increase, in a highly significant way, that value. When companies purchase their own
+> stock, they often find it easy to get $2 of present value for $1." — 1984
+
+Y el sutil: recomprar demuestra que la dirección actúa a favor del dueño, lo que el mercado
+acaba premiando.
+
+> "By making repurchases when a company's market value is well below its business value,
+> management clearly demonstrates that it is given to actions that enhance the wealth of
+> shareholders, rather than to actions that expand management's domain." — 1984
+
 ## Relacionados
 - [[beneficios-retenidos-participadas]] — la recompra es uno de los mejores usos del
   beneficio retenido.
@@ -40,3 +54,4 @@ millones en dos años.
 
 ## Cartas fuente
 - 1980
+- 1984

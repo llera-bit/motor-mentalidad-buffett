@@ -1,7 +1,7 @@
 ---
 concepto: Disciplina de no actuar
 domain: psicologia
-years: [1977, 1979]
+years: [1977, 1979, 1984]
 estado: pendiente
 actualizado: 2026-07-08
 ---
@@ -36,6 +36,12 @@ dispuestos a reducir volumen para suscribir con beneficio, pero casi ninguno lo 
 > "We believe such strong-mindedness is as rare as it is sound - and absolutely essential
 > to the running of a first-class casualty insurance operation." — 1979
 
+En 1984 nombra la dificultad psicológica de fondo: no hacer nada es la tarea más difícil de
+todas.
+
+> "We try to avoid compromise of these standards, although we find doing nothing the most
+> difficult task of all." — 1984
+
 ## Relacionados
 - [[criterios-de-seleccion]] — el filtro de precio que esta disciplina hace cumplir.
 - [[mr-market]] — ignorar al mercado cuando su oferta no interesa (1987).
@@ -43,3 +49,4 @@ dispuestos a reducir volumen para suscribir con beneficio, pero casi ninguno lo 
 ## Cartas fuente
 - 1977
 - 1979
+- 1984

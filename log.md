@@ -71,3 +71,12 @@ _Registro append-only. Prefijo por entrada: `## [YYYY-MM-DD] <op> | <detalle>`
   antes que sobreapalancar), `retener-o-repartir` (+1983: test del dólar, ventana de 5 años).
 - **Nota:** carta faro (principios del propietario + apéndice sobre goodwill económico).
 - **Estado:** borrador (todas).
+
+## [2026-07-08] ingest | carta 1984
+- **Fuente:** `raw/1984.pdf`
+- **Páginas creadas:** `fallar-convencionalmente` (psicologia).
+- **Páginas enriquecidas:** `retener-o-repartir` (+1984: dividendos, beneficio restringido
+  vs no restringido), `recompra-de-acciones` (+1984: 2 dólares por 1, señal), `concentracion`
+  (+1984: harén de Billy Rose), `disciplina-de-no-actuar` (+1984: no hacer nada es lo más
+  difícil), `analista-de-negocios` (+1984: Graham "most businesslike").
+- **Estado:** borrador; `analista-de-negocios` pasa de estable a pendiente.

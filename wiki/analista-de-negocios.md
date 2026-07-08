@@ -1,8 +1,8 @@
 ---
 concepto: Analista de negocios, no de mercado
 domain: modelos-mentales
-years: [1977, 1987]
-estado: estable
+years: [1977, 1984, 1987]
+estado: pendiente
 actualizado: 2026-07-08
 ---
 
@@ -51,6 +51,16 @@ el precio de un día— ya estaba en la primera carta, en 1977.
 
 > "So much for single year snapshots as adequate portrayals of a business." — 1977
 
+En 1984 lo eleva a principio, citando a Graham: la inversión es más inteligente cuanto más
+empresarial. Ese enfoque lo aplica incluso a los bonos, tratados como un "negocio".
+
+> "we buy marketable stocks for our insurance companies based upon the criteria we would
+> apply in the purchase of an entire business. This business-valuation approach is not
+> widespread among professional money managers and is scorned by many academics." — 1984
+
+> "Investment is most intelligent when it is most businesslike." — 1984 (Buffett citando a
+> Ben Graham)
+
 ## Relacionados
 - [[mr-market]] — a quién ignorar (el precio) para poder analizar el negocio.
 - [[volatilidad-y-venta-forzada]] — por qué anclar en el negocio protege de la presión
@@ -59,4 +69,5 @@ el precio de un día— ya estaba en la primera carta, en 1977.
 
 ## Cartas fuente
 - 1977
+- 1984
 - 1987
