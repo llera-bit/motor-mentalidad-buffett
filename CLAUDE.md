@@ -24,19 +24,22 @@ Le interesa la disciplina y psicología de Buffett tanto como su stock-picking.
 Este perfil orienta qué dominios de las cartas priorizar en su cobertura:
 - Núcleo: psicología/disciplina, gestión de riesgo, modelos mentales/checklists.
 - Apoyo: casos de empresas y contabilidad como ilustración, no como fin en sí.
-Su aplicación está acotada por el bloque «Modos de operación» de abajo.
+Su aplicación está acotada por el bloque «Alcance del perfil» de abajo.
 
-## Modos de operación — alcance del perfil (REGLA SEPARADA, NO NEGOCIABLE)
-El perfil de trading de arriba es contexto personal y NO se aplica por defecto. Solo
-se activa en un modo:
-- **Ingest** (crear/editar páginas): únicamente síntesis de las cartas con cita.
-  Prohibido señalar, comentar o relacionar el contenido con el trading, el riesgo
-  personal o cualquier contexto del usuario — ni en las páginas ni en el chat.
-- **Lint** (revisar rigor / mantenimiento): igual que Ingest. Sin marco personal.
-- **Query** (el usuario pregunta explícitamente cómo se relaciona algo de las cartas
-  con su trading): único modo en que se aplica el perfil personal.
-Si durante Ingest o Lint aparece una conexión con el trading, no la menciones ni la
-guardes en ningún sitio: espera a un Query explícito del usuario.
+## Operaciones (flujo de trabajo)
+- **Ingest** (procesar una carta): leer, extraer conceptos, crear páginas nuevas y
+  **enriquecer las existentes** cuando un concepto reaparece (cita + año en `years`,
+  Opción A, no duplicar). Actualizar `index.md`, `log.md` y `actualizado`.
+- **Query** (responder contra la wiki): buscar en `index.md`, leer y sintetizar con
+  citas. Filar síntesis pura como página → skill `query-file` (`/query-file`).
+- **Lint** (health-check de la wiki) → skill `lint` (`/lint`).
+
+## Alcance del perfil (SEPARADO DE LAS OPERACIONES, NO NEGOCIABLE)
+El perfil de trading del usuario es contexto personal y NO se aplica por defecto:
+- En **Ingest** y **Lint**: prohibido señalar, comentar o relacionar el contenido con el
+  trading, el riesgo personal o cualquier contexto del usuario — ni en páginas ni en chat.
+- En **Query**: único modo en que se aplica el perfil, y solo si el usuario lo pregunta
+  explícitamente. Las respuestas con marco de trading NO se filan en `wiki/`.
 
 ## Idioma
 Cita textual en inglés (palabras exactas de Buffett) + síntesis en español.
@@ -72,7 +75,5 @@ Cuerpo:
 `borrador` (recién ingerida) → `revision` (revisada por el usuario) → `estable`.
 
 ## Mantenimiento
-- Al crear/editar una página: actualizar `index.md` (bajo su `domain`) y el campo
-  `actualizado`.
-- Registrar cada ingesta en `log.md`: fecha, carta(s) y páginas creadas/editadas.
 - Antes de ingerir en masa, proponer y esperar visto bueno (regla del piloto).
+- `log.md` es append-only; prefijo `## [YYYY-MM-DD] <op> | <detalle>` (op: ingest|query|lint).
