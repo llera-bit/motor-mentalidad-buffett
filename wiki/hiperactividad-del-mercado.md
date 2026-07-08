@@ -1,7 +1,7 @@
 ---
 concepto: Hiperactividad del mercado
 domain: psicologia
-years: [1983, 1986, 2004]
+years: [1983, 1986, 2004, 2005]
 estado: borrador
 actualizado: 2026-07-08
 ---
@@ -45,6 +45,16 @@ operar en exceso, seguir modas y entrar/salir a destiempo).
 
 > "Investors should remember that excitement and expenses are their enemies." — 2004
 
+En 2005 lo lleva a su parábola definitiva, la familia Gotrocks: dueña de toda la bolsa, se
+enriquece al ritmo de los beneficios de sus empresas... hasta que aparecen los "Helpers"
+(brókeres, gestores, asesores) que, por comisiones, la convencen de operar entre sí.
+
+> "owners must earn less than their businesses earn because of 'frictional' costs." — 2005
+
+> "The Gotrocks still own all of corporate America; the trades just rearrange who owns what. So
+> the family's annual gain in wealth diminishes, equaling the earnings of American business minus
+> commissions paid... Activity is their friend." — 2005
+
 ## Relacionados
 - [[no-predecir-el-mercado]] — la actividad no nace de información, sino de impaciencia.
 - [[analista-de-negocios]] — el foco en resultados del negocio, no en el precio.
@@ -53,3 +63,4 @@ operar en exceso, seguir modas y entrar/salir a destiempo).
 - 1983
 - 1986
 - 2004
+- 2005

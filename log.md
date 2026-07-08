@@ -238,3 +238,11 @@ _Registro append-only. Prefijo por entrada: `## [YYYY-MM-DD] <op> | <detalle>`
   enemigos del inversor; tres causas de bajo rendimiento).
 - **Nota:** se omite la macro del dólar; float y disciplina de suscripción vienen como restatement.
 - **Estado:** borrador (todas).
+
+## [2026-07-08] ingest | carta 2005
+- **Fuente:** `raw/2005.pdf`
+- **Páginas creadas:** ninguna.
+- **Páginas enriquecidas:** `hiperactividad-del-mercado` (+2005: parábola de los Gotrocks; los
+  dueños ganan menos que sus empresas por costes de fricción), `ventaja-competitiva` (+2005:
+  "widening the moat" como objetivo de gestión por encima del corto plazo).
+- **Estado:** borrador (todas).

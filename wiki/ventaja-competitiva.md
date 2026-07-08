@@ -1,7 +1,7 @@
 ---
 concepto: Ventaja competitiva duradera
 domain: modelos-mentales
-years: [1980, 1982, 1986, 1993, 1995]
+years: [1980, 1982, 1986, 1993, 1995, 2005]
 estado: borrador
 actualizado: 2026-07-08
 ---
@@ -68,6 +68,13 @@ En 1995, con GEICO ya al 100%, lo reduce a su imagen definitiva.
 > "In business, I look for economic castles protected by unbreachable 'moats.' Thanks to Tony
 > and his management team, GEICO's moat widened in 1995." — 1995
 
+En 2005 convierte "ensanchar el foso" en el objetivo explícito de gestión, por encima del
+beneficio a corto plazo.
+
+> "When our long-term competitive position improves as a result of these almost unnoticeable
+> actions, we describe the phenomenon as 'widening the moat.'... when short-term and long-term
+> conflict, widening the moat must take precedence." — 2005
+
 ## Relacionados
 - [[buen-negocio-a-precio-justo]] — la ventaja duradera es lo que hace "bueno" a un negocio.
 - [[vientos-a-favor-vs-en-contra]] — es el viento a favor estructural.
@@ -78,3 +85,4 @@ En 1995, con GEICO ya al 100%, lo reduce a su imagen definitiva.
 - 1986
 - 1993
 - 1995
+- 2005
