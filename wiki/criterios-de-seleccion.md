@@ -2,7 +2,7 @@
 concepto: Criterios de selección (cuatro filtros)
 domain: modelos-mentales
 years: [1977]
-estado: borrador
+estado: estable
 actualizado: 2026-07-08
 ---
 

@@ -27,11 +27,9 @@ Este perfil orienta qué dominios de las cartas priorizar en su cobertura:
 Su aplicación está acotada por el bloque «Alcance del perfil» de abajo.
 
 ## Operaciones (flujo de trabajo)
-- **Ingest** (procesar una carta): leer, extraer conceptos, crear páginas nuevas y
-  **enriquecer las existentes** cuando un concepto reaparece (cita + año en `years`,
-  Opción A, no duplicar). Actualizar `index.md`, `log.md` y `actualizado`.
-- **Query** (responder contra la wiki): buscar en `index.md`, leer y sintetizar con
-  citas. Filar síntesis pura como página → skill `query-file` (`/query-file`).
+- **Ingest** (procesar una carta): leer, extraer conceptos, crear páginas y **enriquecer
+  las existentes** cuando reaparece un concepto (Opción A: cita + año en `years`, no duplicar). Actualizar `index.md`, `log.md`, `actualizado`.
+- **Query** (responder contra la wiki): buscar en `index.md`, leer y sintetizar con citas. Filar síntesis pura → skill `query-file` (`/query-file`).
 - **Lint** (health-check de la wiki) → skill `lint` (`/lint`).
 
 ## Alcance del perfil (SEPARADO DE LAS OPERACIONES, NO NEGOCIABLE)
@@ -52,7 +50,7 @@ Frontmatter:
 concepto: <nombre legible>
 domain: <ver taxonomía>
 years: [<años de las cartas citadas>]
-estado: borrador | revision | estable
+estado: borrador | pendiente | estable
 actualizado: YYYY-MM-DD
 ---
 ```
@@ -72,7 +70,10 @@ Cuerpo:
 - `casos` — empresas concretas (See's, GEICO, textil, seguros/float).
 
 ## Estados
-`borrador` (recién ingerida) → `revision` (revisada por el usuario) → `estable`.
+- `borrador` — recién creada por Ingest; nunca revisada.
+- `pendiente` — página `estable` que se modificó (cambio sustantivo); pendiente de re-revisión.
+- `estable` — revisada y aprobada; sin cambios pendientes.
+Ingest→`borrador`; aprobar→`estable`; modificar `estable`→`pendiente`; re-aprobar→`estable`. Enriquecer una `borrador` la deja igual; los cambios triviales no cambian el estado.
 
 ## Mantenimiento
 - Antes de ingerir en masa, proponer y esperar visto bueno (regla del piloto).

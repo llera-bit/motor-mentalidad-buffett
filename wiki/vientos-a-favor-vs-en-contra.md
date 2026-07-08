@@ -2,7 +2,7 @@
 concepto: Vientos a favor vs. en contra
 domain: modelos-mentales
 years: [1977]
-estado: borrador
+estado: estable
 actualizado: 2026-07-08
 ---
 

@@ -2,7 +2,7 @@
 concepto: Disciplina de no actuar
 domain: psicologia
 years: [1977]
-estado: borrador
+estado: estable
 actualizado: 2026-07-08
 ---
 
