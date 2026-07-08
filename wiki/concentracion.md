@@ -1,7 +1,7 @@
 ---
 concepto: Concentración
 domain: modelos-mentales
-years: [1978, 1981, 1984, 1988]
+years: [1978, 1981, 1984, 1988, 1993]
 estado: borrador
 actualizado: 2026-07-08
 ---
@@ -36,6 +36,19 @@ convicción a largo plazo.
 > understand well... when we find such a business, we want to participate in a meaningful way.
 > We agree with Mae West: 'Too much of a good thing can be wonderful.'" — 1988
 
+En 1993 añade el argumento de riesgo: concentrar puede reducirlo, porque obliga a pensar más y
+a exigir más comodidad con el negocio antes de comprar. Para el inversor que entiende,
+diversificar en exceso hace daño.
+
+> "a policy of portfolio concentration may well decrease risk if it raises, as it should, both
+> the intensity with which an investor thinks about a business and the comfort-level he must
+> feel with its economic characteristics before buying into it." — 1993
+
+> "if you are a know-something investor, able to understand business economics and to find five
+> to ten sensibly-priced companies that possess important long-term competitive advantages,
+> conventional diversification makes no sense for you. It is apt simply to hurt your results and
+> increase your risk." — 1993
+
 ## Relacionados
 - [[criterios-de-seleccion]] — solo se concentra cuando se cumplen los cuatro filtros.
 - [[disciplina-de-no-actuar]] — la otra cara: no actuar cuando el entusiasmo es tibio.
@@ -45,3 +58,4 @@ convicción a largo plazo.
 - 1981
 - 1984
 - 1988
+- 1993

@@ -1,7 +1,7 @@
 ---
 concepto: Ventaja competitiva duradera
 domain: modelos-mentales
-years: [1980, 1982, 1986]
+years: [1980, 1982, 1986, 1993]
 estado: borrador
 actualizado: 2026-07-08
 ---
@@ -51,6 +51,18 @@ costes de GEICO es ese foso, y el buen gestor lo ensancha.
 > widens the moat by driving down costs still more, thereby defending and strengthening the
 > economic franchise." — 1986
 
+En 1993, con Coca-Cola y Gillette, generaliza la imagen: marca, producto y distribución
+levantan un foso protector alrededor del castillo económico.
+
+> "The might of their brand names, the attributes of their products, and the strength of their
+> distribution systems give them an enormous competitive advantage, setting up a protective
+> moat around their economic castles." — 1993
+
+Y advierte del reverso, los productos indiferenciados.
+
+> "stocks of companies selling commodity-like products should come with a warning label:
+> 'Competition may prove hazardous to human wealth.'" — 1993 (Buffett citando a Peter Lynch)
+
 ## Relacionados
 - [[buen-negocio-a-precio-justo]] — la ventaja duradera es lo que hace "bueno" a un negocio.
 - [[vientos-a-favor-vs-en-contra]] — es el viento a favor estructural.
@@ -59,3 +71,4 @@ costes de GEICO es ese foso, y el buen gestor lo ensancha.
 - 1980
 - 1982
 - 1986
+- 1993

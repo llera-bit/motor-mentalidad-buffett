@@ -33,6 +33,8 @@ _Páginas de la wiki agrupadas por `domain`. Se actualiza con cada ingesta._
   deuda moderada; capacidad de aguante y opciones; potencia de fuego. `[1980, 1983, 1989]`
 - [Margen de seguridad](wiki/margen-de-seguridad.md) — comprar solo con holgura entre valor y
   precio; piedra angular (Graham). `[1992]`
+- [El riesgo no es la volatilidad](wiki/riesgo-no-es-volatilidad.md) — riesgo = posibilidad de
+  pérdida de poder adquisitivo, no beta; cinco factores. `[1993]`
 
 ## modelos-mentales
 - [Analista de negocios, no de mercado](wiki/analista-de-negocios.md) — decidir sobre el
@@ -40,13 +42,13 @@ _Páginas de la wiki agrupadas por `domain`. Se actualiza con cada ingesta._
 - [Criterios de selección (cuatro filtros)](wiki/criterios-de-seleccion.md) — entender,
   perspectivas a largo plazo, gente honesta y competente, precio atractivo. `[1977, 1978]`
 - [Concentración](wiki/concentracion.md) — concentrar en alta convicción; nada tibio;
-  comprar cantidades significativas. `[1978, 1981, 1984, 1988]`
+  comprar cantidades significativas. `[1978, 1981, 1984, 1988, 1993]`
 - [Vientos a favor vs. en contra](wiki/vientos-a-favor-vs-en-contra.md) — la economía
   del negocio domina sobre el esfuerzo del gestor. `[1977, 1978, 1982, 1985]`
 - [Buen negocio a precio justo](wiki/buen-negocio-a-precio-justo.md) — los turnarounds rara
   vez giran; mejor buen negocio a precio justo que malo a precio de ganga. `[1979, 1980, 1989]`
 - [Ventaja competitiva duradera](wiki/ventaja-competitiva.md) — una ventaja importante y
-  difícil de duplicar (GEICO, bajo coste) unida a buena gestión; el foso. `[1980, 1982, 1986]`
+  difícil de duplicar (GEICO, bajo coste) unida a buena gestión; el foso. `[1980, 1982, 1986, 1993]`
 - [Contra el mercado eficiente](wiki/contra-el-mercado-eficiente.md) — precio y valor
   divergen; la ventaja es la actitud, no el pronóstico (Washington Post). `[1985, 1988]`
 - [Incentivos alineados](wiki/incentivos-alineados.md) — las opciones premian retener, no
@@ -54,7 +56,7 @@ _Páginas de la wiki agrupadas por `domain`. Se actualiza con cada ingesta._
 - [Arbitraje](wiki/arbitraje.md) — cuatro preguntas para evaluar una operación anunciada;
   pocas, grandes y públicas. `[1988]`
 - [Círculo de competencia](wiki/circulo-de-competencia.md) — obstáculos de un palmo, no de
-  dos metros; agnóstico fuera de lo que se entiende. `[1989, 1990, 1992]`
+  dos metros; agnóstico fuera de lo que se entiende. `[1989, 1990, 1992, 1993]`
 - [Franquicia vs. negocio](wiki/franquicia-vs-negocio.md) — la franquicia (3 condiciones)
   tolera mala gestión; el negocio puede morir por ella. `[1991]`
 

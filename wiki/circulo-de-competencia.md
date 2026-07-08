@@ -45,6 +45,12 @@ cómo de bien delimitas lo que no sabes.
 > realistically they define what they don't know. An investor needs to do very few things
 > right as long as he or she avoids big mistakes." — 1992
 
+En 1993 añade el corolario para quien no tiene círculo propio: reconocer los límites e indexar.
+
+> "By periodically investing in an index fund, for example, the know-nothing investor can
+> actually out-perform most investment professionals. Paradoxically, when 'dumb' money
+> acknowledges its limitations, it ceases to be dumb." — 1993
+
 ## Relacionados
 - [[criterios-de-seleccion]] — el primer filtro: un negocio que podamos entender.
 - [[no-predecir-el-mercado]] — fuera del círculo, no se pronostica.
@@ -54,3 +60,4 @@ cómo de bien delimitas lo que no sabes.
 - 1989
 - 1990
 - 1992
+- 1993

@@ -140,3 +140,12 @@ _Registro append-only. Prefijo por entrada: `## [YYYY-MM-DD] <op> | <detalle>`
   `circulo-de-competencia` (+1992: delimitar lo que no sabes; evitar errores grandes).
 - **Nota:** valor y crecimiento "joined at the hip"; margin of safety = piedra angular (Graham).
 - **Estado:** borrador (todas).
+
+## [2026-07-08] ingest | carta 1993
+- **Fuente:** `raw/1993.pdf`
+- **Páginas creadas:** `riesgo-no-es-volatilidad` (riesgo).
+- **Páginas enriquecidas:** `concentracion` (+1993: concentrar reduce riesgo para el que
+  entiende), `ventaja-competitiva` (+1993: foso alrededor del castillo, Coke/Gillette),
+  `circulo-de-competencia` (+1993: el que no sabe, que indexe).
+- **Nota:** ensayo faro sobre el riesgo (beta vs. pérdida de poder adquisitivo; 5 factores).
+- **Estado:** borrador (todas).
