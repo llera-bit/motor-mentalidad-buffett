@@ -2,7 +2,7 @@
 concepto: Analista de negocios, no de mercado
 domain: modelos-mentales
 years: [1977, 1984, 1987]
-estado: pendiente
+estado: estable
 actualizado: 2026-07-08
 ---
 
