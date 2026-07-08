@@ -21,6 +21,8 @@ _Páginas de la wiki agrupadas por `domain`. Se actualiza con cada ingesta._
   temeroso cuando otros son codiciosos y viceversa. `[1986]`
 - [Holding para siempre](wiki/holding-para-siempre.md) — el periodo de tenencia favorito es
   "para siempre"; no cortar las flores y regar las malas hierbas. `[1988]`
+- [El imperativo institucional](wiki/imperativo-institucional.md) — la fuerza invisible que
+  marchita la racionalidad de los gestores; imitación, inercia, gasto por gastar. `[1989]`
 
 ## riesgo
 - [Volatilidad y venta forzada](wiki/volatilidad-y-venta-forzada.md) — la volatilidad
@@ -28,7 +30,7 @@ _Páginas de la wiki agrupadas por `domain`. Se actualiza con cada ingesta._
 - [Inflación, enemigo del inversor](wiki/inflacion-enemigo-del-inversor.md) — la inflación
   puede volver negativo el retorno real; índice de miseria; recelo de los bonos largos. `[1979, 1980, 1981]`
 - [Fortaleza financiera y liquidez](wiki/fortaleza-financiera-y-liquidez.md) — liquidez y
-  deuda moderada; capacidad de aguante y opciones; potencia de fuego. `[1980, 1983]`
+  deuda moderada; capacidad de aguante y opciones; potencia de fuego. `[1980, 1983, 1989]`
 
 ## modelos-mentales
 - [Analista de negocios, no de mercado](wiki/analista-de-negocios.md) — decidir sobre el
@@ -40,7 +42,7 @@ _Páginas de la wiki agrupadas por `domain`. Se actualiza con cada ingesta._
 - [Vientos a favor vs. en contra](wiki/vientos-a-favor-vs-en-contra.md) — la economía
   del negocio domina sobre el esfuerzo del gestor. `[1977, 1978, 1982, 1985]`
 - [Buen negocio a precio justo](wiki/buen-negocio-a-precio-justo.md) — los turnarounds rara
-  vez giran; mejor buen negocio a precio justo que malo a precio de ganga. `[1979, 1980]`
+  vez giran; mejor buen negocio a precio justo que malo a precio de ganga. `[1979, 1980, 1989]`
 - [Ventaja competitiva duradera](wiki/ventaja-competitiva.md) — una ventaja importante y
   difícil de duplicar (GEICO, bajo coste) unida a buena gestión; el foso. `[1980, 1982, 1986]`
 - [Contra el mercado eficiente](wiki/contra-el-mercado-eficiente.md) — precio y valor
@@ -49,6 +51,8 @@ _Páginas de la wiki agrupadas por `domain`. Se actualiza con cada ingesta._
   la habilidad; atar el premio a lo controlable; caminar en los zapatos del dueño. `[1985]`
 - [Arbitraje](wiki/arbitraje.md) — cuatro preguntas para evaluar una operación anunciada;
   pocas, grandes y públicas. `[1988]`
+- [Círculo de competencia](wiki/circulo-de-competencia.md) — obstáculos de un palmo, no de
+  dos metros; agnóstico fuera de lo que se entiende. `[1989]`
 
 ## valoracion
 - [Beneficios retenidos de participadas](wiki/beneficios-retenidos-participadas.md) — la
@@ -62,7 +66,7 @@ _Páginas de la wiki agrupadas por `domain`. Se actualiza con cada ingesta._
 - [Valor intrínseco](wiki/valor-intrinseco.md) — lo que puede sacarse (flujos futuros
   descontados), no lo que se metió (valor contable). `[1983]`
 - [Owner earnings](wiki/owner-earnings.md) — beneficio real del dueño: (a) beneficio + (b)
-  cargas no monetarias − (c) capex de mantenimiento; falacia del cash flow. `[1986]`
+  cargas no monetarias − (c) capex de mantenimiento; falacia del cash flow. `[1986, 1989]`
 
 ## contabilidad
 - [Retorno sobre el capital, no BPA](wiki/roe-vs-beneficio-por-accion.md) — juzgar por la

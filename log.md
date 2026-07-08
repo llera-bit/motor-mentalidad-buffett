@@ -105,3 +105,13 @@ _Registro append-only. Prefijo por entrada: `## [YYYY-MM-DD] <op> | <detalle>`
 - **Páginas enriquecidas:** `concentracion` (+1988: Mae West, muy pocas empresas),
   `contra-el-mercado-eficiente` (+1988: "frequently" vs "always" efficient; 63 años de arbitraje).
 - **Estado:** borrador (todas).
+
+## [2026-07-08] ingest | carta 1989
+- **Fuente:** `raw/1989.pdf`
+- **Páginas creadas:** `imperativo-institucional` (psicologia), `circulo-de-competencia`
+  (modelos-mentales).
+- **Páginas enriquecidas:** `buen-negocio-a-precio-justo` (+1989: wonderful company at fair
+  price, colilla de puro, tiempo amigo/enemigo), `fortaleza-financiera-y-liquidez` (+1989: 99:1,
+  la ruina no se compensa), `owner-earnings` (+1989: crítica a EBITDA).
+- **Nota:** carta faro (ensayo "Mistakes of the First Twenty-Five Years").
+- **Estado:** borrador (todas).

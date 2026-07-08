@@ -1,7 +1,7 @@
 ---
 concepto: Fortaleza financiera y liquidez
 domain: riesgo
-years: [1980, 1983]
+years: [1980, 1983, 1989]
 estado: borrador
 actualizado: 2026-07-08
 ---
@@ -39,6 +39,14 @@ que sobreapalancar el balance.
 > and the many equity holders who have committed unusually large portions of their net worth
 > to our care." — 1983
 
+En 1989, entre sus errores, defiende el conservadurismo: rechaza el apalancamiento aunque las
+probabilidades parezcan 99 a 1 a favor, porque una pequeña posibilidad de ruina no se compensa
+con una gran posibilidad de retorno extra.
+
+> "A small chance of distress or disgrace cannot, in our view, be offset by a large chance of
+> extra returns. If your actions are sensible, you are certain to get good results; in most
+> such cases, leverage just moves things along faster." — 1989
+
 ## Relacionados
 - [[disciplina-de-no-actuar]] — la liquidez permite esperar sin verse forzado.
 - [[volatilidad-y-venta-forzada]] — la fortaleza evita la venta forzada por presión.
@@ -46,3 +54,4 @@ que sobreapalancar el balance.
 ## Cartas fuente
 - 1980
 - 1983
+- 1989

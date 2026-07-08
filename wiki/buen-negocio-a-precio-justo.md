@@ -1,7 +1,7 @@
 ---
 concepto: Buen negocio a precio justo
 domain: modelos-mentales
-years: [1979, 1980]
+years: [1979, 1980, 1989]
 estado: borrador
 actualizado: 2026-07-08
 ---
@@ -33,6 +33,20 @@ negocio de mala economía, es la reputación del negocio la que queda intacta.
 > business with a reputation for poor fundamental economics, it is the reputation of the
 > business that remains intact." — 1980
 
+En el ensayo de errores de 1989 lo condensa en su forma definitiva, tras confesar el enfoque
+de la "colilla de puro" (comprar barato negocios mediocres para dar una última calada).
+
+> "It's far better to buy a wonderful company at a fair price than a fair company at a
+> wonderful price." — 1989
+
+Porque el tiempo juega a favor del buen negocio y en contra del mediocre; y los problemas de
+un mal negocio nunca vienen solos.
+
+> "Time is the friend of the wonderful business, the enemy of the mediocre." — 1989
+
+> "In a difficult business, no sooner is one problem solved than another surfaces - never is
+> there just one cockroach in the kitchen." — 1989
+
 ## Relacionados
 - [[vientos-a-favor-vs-en-contra]] — por qué el negocio malo, aun barato, sigue rindiendo mal.
 - [[criterios-de-seleccion]] — matiza el filtro de precio: barato no basta si el negocio es pobre.
@@ -40,3 +54,4 @@ negocio de mala economía, es la reputación del negocio la que queda intacta.
 ## Cartas fuente
 - 1979
 - 1980
+- 1989

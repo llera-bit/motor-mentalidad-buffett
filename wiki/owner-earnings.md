@@ -34,6 +34,16 @@ Y su recordatorio sobre la contabilidad:
 
 > "accounting is but an aid to business thinking, never a substitute for it." — 1986
 
+En 1989 lo aplica contra la métrica EBITDA: ignorar la depreciación es delirante, porque en
+casi todos los negocios el capex que iguala a la depreciación es un gasto tan real como los
+salarios.
+
+> "At 95% of American businesses, capital expenditures that over time roughly approximate
+> depreciation are a necessity and are every bit as real an expense as labor or utility costs.
+> Even a high school dropout knows that to finance a car he must have income that covers not
+> only interest and operating expenses, but also realistically-calculated depreciation. He
+> would be laughed out of the bank if he started talking about EBDIT." — 1989
+
 ## Relacionados
 - [[valor-intrinseco]] — los owner earnings alimentan la estimación del valor intrínseco.
 - [[roe-vs-beneficio-por-accion]] — otra crítica a las métricas contables engañosas.
@@ -41,3 +51,4 @@ Y su recordatorio sobre la contabilidad:
 
 ## Cartas fuente
 - 1986
+- 1989
