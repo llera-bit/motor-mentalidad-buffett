@@ -1,7 +1,7 @@
 ---
 concepto: Disciplina de no actuar
 domain: psicologia
-years: [1977, 1979, 1984, 1994]
+years: [1977, 1979, 1984, 1994, 1996]
 estado: pendiente
 actualizado: 2026-07-08
 ---
@@ -51,6 +51,15 @@ que cae en la "zona feliz".
 > "Charlie and I agree and will try to wait for opportunities that are well within our own
 > 'happy zone.'" — 1994
 
+En 1996 lo eleva a máxima: la inactividad es comportamiento inteligente. No traficaría con
+filiales excelentes por un movimiento del tipo de interés; ¿por qué hacerlo con las
+participaciones minoritarias?
+
+> "Inactivity strikes us as intelligent behavior... Why, then, should we behave differently
+> with our minority positions in wonderful businesses?" — 1996
+
+> "We continue to make more money when snoring than when active." — 1996
+
 ## Relacionados
 - [[criterios-de-seleccion]] — el filtro de precio que esta disciplina hace cumplir.
 - [[mr-market]] — ignorar al mercado cuando su oferta no interesa (1987).
@@ -60,3 +69,4 @@ que cae en la "zona feliz".
 - 1979
 - 1984
 - 1994
+- 1996

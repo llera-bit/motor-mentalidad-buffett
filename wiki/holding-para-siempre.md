@@ -1,7 +1,7 @@
 ---
 concepto: Holding para siempre
 domain: psicologia
-years: [1988]
+years: [1988, 1996]
 estado: borrador
 actualizado: 2026-07-08
 ---
@@ -24,6 +24,16 @@ ni precio objetivo de venta.
 > "Our goal is to attract long-term owners who, at the time of purchase, have no timetable or
 > price target for sale but plan instead to stay with us indefinitely." — 1988
 
+En 1996 lo condensa en una regla célebre, ligada a comprar solo negocios comprensibles cuyos
+beneficios crecerán con casi total certeza a 10-20 años.
+
+> "Your goal as an investor should simply be to purchase, at a rational price, a part interest
+> in an easily-understandable business whose earnings are virtually certain to be materially
+> higher five, ten and twenty years from now." — 1996
+
+> "If you aren't willing to own a stock for ten years, don't even think about owning it for
+> ten minutes." — 1996
+
 ## Relacionados
 - [[analista-de-negocios]] — el acierto lo dan los resultados del negocio, con el tiempo.
 - [[hiperactividad-del-mercado]] — la cara opuesta: la rotación es un impuesto.
@@ -31,3 +41,4 @@ ni precio objetivo de venta.
 
 ## Cartas fuente
 - 1988
+- 1996

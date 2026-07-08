@@ -6,7 +6,7 @@ _Páginas de la wiki agrupadas por `domain`. Se actualiza con cada ingesta._
 - [Mr. Market](wiki/mr-market.md) — el mercado te da precios, no juicio; sírvete de su
   bolsillo, no de su sabiduría. `[1987]`
 - [Disciplina de no actuar](wiki/disciplina-de-no-actuar.md) — aceptar menos volumen
-  antes que operar a precios malos; esperar la pelota en la "zona feliz". `[1977, 1979, 1984, 1994]`
+  antes que operar a precios malos; esperar la pelota en la "zona feliz". `[1977, 1979, 1984, 1994, 1996]`
 - [No predecir el mercado](wiki/no-predecir-el-mercado.md) — nadie puede predecir el
   precio a corto plazo; ignorar la macro; orientación al largo plazo del negocio. `[1978, 1980, 1994]`
 - [La locura de las adquisiciones](wiki/locura-de-las-adquisiciones.md) — espíritus
@@ -20,7 +20,7 @@ _Páginas de la wiki agrupadas por `domain`. Se actualiza con cada ingesta._
 - [Miedo y codicia](wiki/miedo-y-codicia.md) — dos enfermedades súper-contagiosas; ser
   temeroso cuando otros son codiciosos y viceversa. `[1986, 1990, 1994]`
 - [Holding para siempre](wiki/holding-para-siempre.md) — el periodo de tenencia favorito es
-  "para siempre"; no cortar las flores y regar las malas hierbas. `[1988]`
+  "para siempre"; si no lo tendrías 10 años, ni 10 minutos. `[1988, 1996]`
 - [El imperativo institucional](wiki/imperativo-institucional.md) — la fuerza invisible que
   marchita la racionalidad de los gestores; imitación, inercia, gasto por gastar. `[1989, 1990]`
 
@@ -56,7 +56,7 @@ _Páginas de la wiki agrupadas por `domain`. Se actualiza con cada ingesta._
 - [Arbitraje](wiki/arbitraje.md) — cuatro preguntas para evaluar una operación anunciada;
   pocas, grandes y públicas. `[1988]`
 - [Círculo de competencia](wiki/circulo-de-competencia.md) — obstáculos de un palmo, no de
-  dos metros; agnóstico fuera de lo que se entiende. `[1989, 1990, 1992, 1993]`
+  dos metros; agnóstico fuera de lo que se entiende. `[1989, 1990, 1992, 1993, 1996]`
 - [Franquicia vs. negocio](wiki/franquicia-vs-negocio.md) — la franquicia (3 condiciones)
   tolera mala gestión; el negocio puede morir por ella. `[1991]`
 

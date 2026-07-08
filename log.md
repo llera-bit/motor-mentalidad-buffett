@@ -166,3 +166,13 @@ _Registro append-only. Prefijo por entrada: `## [YYYY-MM-DD] <op> | <detalle>`
   unbreachable moats", GEICO al 100%).
 - **Nota:** compra del 100% de GEICO; definición de float y su coste.
 - **Estado:** borrador (todas).
+
+## [2026-07-08] ingest | carta 1996
+- **Fuente:** `raw/1996.pdf`
+- **Páginas creadas:** ninguna (carta "owner's manual", restatement).
+- **Páginas enriquecidas:** `circulo-de-competencia` (+1996: conocer los límites del círculo es
+  lo vital), `holding-para-siempre` (+1996: si no lo tendrías 10 años, ni 10 minutos),
+  `disciplina-de-no-actuar` (+1996: la inactividad es inteligente; más dinero roncando).
+- **Nota:** corregida deriva en el frontmatter `years` de `circulo-de-competencia` (faltaban
+  1992/1993/1996; ya cuadra con cuerpo, Cartas fuente e índice).
+- **Estado:** borrador salvo `disciplina-de-no-actuar` (pendiente).

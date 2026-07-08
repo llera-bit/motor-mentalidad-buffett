@@ -1,7 +1,7 @@
 ---
 concepto: Círculo de competencia
 domain: modelos-mentales
-years: [1989, 1990]
+years: [1989, 1990, 1992, 1993, 1996]
 estado: borrador
 actualizado: 2026-07-08
 ---
@@ -51,6 +51,16 @@ En 1993 añade el corolario para quien no tiene círculo propio: reconocer los l
 > actually out-perform most investment professionals. Paradoxically, when 'dumb' money
 > acknowledges its limitations, it ceases to be dumb." — 1993
 
+En 1996 lo formula de forma definitiva: el tamaño del círculo importa poco; conocer sus
+límites lo es todo.
+
+> "You only have to be able to evaluate companies within your circle of competence. The size
+> of that circle is not very important; knowing its boundaries, however, is vital." — 1996
+
+> "To invest successfully, you need not understand beta, efficient markets, modern portfolio
+> theory, option pricing or emerging markets... investment students need only two well-taught
+> courses - How to Value a Business, and How to Think About Market Prices." — 1996
+
 ## Relacionados
 - [[criterios-de-seleccion]] — el primer filtro: un negocio que podamos entender.
 - [[no-predecir-el-mercado]] — fuera del círculo, no se pronostica.
@@ -61,3 +71,4 @@ En 1993 añade el corolario para quien no tiene círculo propio: reconocer los l
 - 1990
 - 1992
 - 1993
+- 1996
