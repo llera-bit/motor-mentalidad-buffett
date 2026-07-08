@@ -1,7 +1,7 @@
 ---
 concepto: Franquicia vs. negocio
 domain: modelos-mentales
-years: [1991]
+years: [1991, 2006]
 estado: borrador
 actualizado: 2026-07-08
 ---
@@ -27,6 +27,15 @@ La consecuencia clave: la franquicia tolera la mala gestión; el negocio, no.
 > if supply of its product or service is tight... And a business, unlike a franchise, can be
 > killed by poor management." — 1991
 
+En 2006 la predicción de 1991 se cumple: los periódicos, antaño franquicias que toleraban
+cualquier gestión, se degradan en meros negocios.
+
+> "No paper in a one-paper city, however bad the product or however inept the management, could
+> avoid gushing profits." — 2006
+
+> "fundamentals are definitely eroding in the newspaper industry, a trend that has caused the
+> profits of our Buffalo News to decline." — 2006
+
 ## Relacionados
 - [[ventaja-competitiva]] — el foso; la franquicia es su forma más fuerte.
 - [[vientos-a-favor-vs-en-contra]] — el negocio de materia prima vive de ser el de menor coste.
@@ -34,3 +43,4 @@ La consecuencia clave: la franquicia tolera la mala gestión; el negocio, no.
 
 ## Cartas fuente
 - 1991
+- 2006

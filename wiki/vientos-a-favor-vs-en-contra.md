@@ -1,7 +1,7 @@
 ---
 concepto: Vientos a favor vs. en contra
 domain: modelos-mentales
-years: [1977, 1978, 1982, 1985]
+years: [1977, 1978, 1982, 1985, 2006]
 estado: pendiente
 actualizado: 2026-07-08
 ---
@@ -63,6 +63,15 @@ racional en solitario, pero colectivamente se anulan.
 > (just as happens when each person watching a parade decides he can see a little better if he
 > stands on tiptoes)." — 1985
 
+En 2006, con el declive de los periódicos, lo reafirma: la economía en erosión acaba venciendo
+al mejor gestor.
+
+> "When an industry's underlying economics are crumbling, talented management may slow the rate
+> of decline. Eventually, though, eroding fundamentals will overwhelm managerial brilliance." — 2006
+
+> "If you want to get a reputation as a good businessman, be sure to get into a good
+> business." — 2006
+
 ## Relacionados
 - [[criterios-de-seleccion]] — el filtro (2), perspectivas favorables a largo plazo,
   es este viento a favor.
@@ -72,3 +81,4 @@ racional en solitario, pero colectivamente se anulan.
 - 1978
 - 1982
 - 1985
+- 2006

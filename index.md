@@ -48,7 +48,7 @@ _Páginas de la wiki agrupadas por `domain`. Se actualiza con cada ingesta._
 - [Concentración](wiki/concentracion.md) — concentrar en alta convicción; nada tibio;
   comprar cantidades significativas. `[1978, 1981, 1984, 1988, 1993]`
 - [Vientos a favor vs. en contra](wiki/vientos-a-favor-vs-en-contra.md) — la economía
-  del negocio domina sobre el esfuerzo del gestor. `[1977, 1978, 1982, 1985]`
+  del negocio domina sobre el esfuerzo del gestor. `[1977, 1978, 1982, 1985, 2006]`
 - [Buen negocio a precio justo](wiki/buen-negocio-a-precio-justo.md) — los turnarounds rara
   vez giran; mejor buen negocio a precio justo que malo a precio de ganga. `[1979, 1980, 1989]`
 - [Ventaja competitiva duradera](wiki/ventaja-competitiva.md) — una ventaja importante y
@@ -62,7 +62,7 @@ _Páginas de la wiki agrupadas por `domain`. Se actualiza con cada ingesta._
 - [Círculo de competencia](wiki/circulo-de-competencia.md) — obstáculos de un palmo, no de
   dos metros; agnóstico fuera de lo que se entiende. `[1989, 1990, 1992, 1993, 1996, 1999]`
 - [Franquicia vs. negocio](wiki/franquicia-vs-negocio.md) — la franquicia (3 condiciones)
-  tolera mala gestión; el negocio puede morir por ella. `[1991]`
+  tolera mala gestión; el negocio puede morir por ella. `[1991, 2006]`
 
 ## valoracion
 - [Beneficios retenidos de participadas](wiki/beneficios-retenidos-participadas.md) — la

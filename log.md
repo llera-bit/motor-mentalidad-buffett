@@ -246,3 +246,11 @@ _Registro append-only. Prefijo por entrada: `## [YYYY-MM-DD] <op> | <detalle>`
   dueños ganan menos que sus empresas por costes de fricción), `ventaja-competitiva` (+2005:
   "widening the moat" como objetivo de gestión por encima del corto plazo).
 - **Estado:** borrador (todas).
+
+## [2026-07-08] ingest | carta 2006
+- **Fuente:** `raw/2006.pdf`
+- **Páginas creadas:** ninguna (float restated; adquisiciones ISCAR/otras; filantropía).
+- **Páginas enriquecidas:** `vientos-a-favor-vs-en-contra` (+2006: la economía en erosión vence
+  al mejor gestor; "get into a good business"), `franquicia-vs-negocio` (+2006: los periódicos,
+  antaño franquicias, se degradan en negocios — la predicción de 1991 cumpliéndose).
+- **Estado:** borrador salvo `vientos-a-favor-vs-en-contra` (pendiente).
