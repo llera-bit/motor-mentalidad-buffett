@@ -1,8 +1,8 @@
 ---
 concepto: Disciplina de no actuar
 domain: psicologia
-years: [1977]
-estado: estable
+years: [1977, 1979]
+estado: pendiente
 actualizado: 2026-07-08
 ---
 
@@ -26,9 +26,20 @@ inacción es aquí una postura activa, no pasividad.
 Esta disciplina se apoya en la misma lógica del precio del cuarto filtro de selección:
 si el precio no es adecuado, la respuesta por defecto es no operar.
 
+En 1979 constata lo rara que es esa disciplina en la práctica: muchos gestores dicen estar
+dispuestos a reducir volumen para suscribir con beneficio, pero casi ninguno lo hace.
+
+> "We hear a great many insurance managers talk about being willing to reduce volume in
+> order to underwrite profitably, but we find that very few actually do so. Phil Liesche
+> is an exception: if business makes sense, he writes it; if it doesn't, he rejects it." — 1979
+
+> "We believe such strong-mindedness is as rare as it is sound - and absolutely essential
+> to the running of a first-class casualty insurance operation." — 1979
+
 ## Relacionados
 - [[criterios-de-seleccion]] — el filtro de precio que esta disciplina hace cumplir.
 - [[mr-market]] — ignorar al mercado cuando su oferta no interesa (1987).
 
 ## Cartas fuente
 - 1977
+- 1979

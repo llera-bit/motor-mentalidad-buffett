@@ -28,3 +28,11 @@ _Registro append-only. Prefijo por entrada: `## [YYYY-MM-DD] <op> | <detalle>`
 - **Páginas enriquecidas:** `criterios-de-seleccion` (+1978: cuatro filtros y comprador
   neto), `vientos-a-favor-vs-en-contra` (+1978: economía de bienes indiferenciados).
 - **Estado:** borrador (nuevas) / pendiente (enriquecidas).
+
+## [2026-07-08] ingest | carta 1979
+- **Fuente:** `raw/1979.pdf`
+- **Páginas creadas:** `roe-vs-beneficio-por-accion` (contabilidad),
+  `buen-negocio-a-precio-justo` (modelos-mentales), `inflacion-enemigo-del-inversor` (riesgo).
+- **Páginas enriquecidas:** `disciplina-de-no-actuar` (+1979: reducir volumen, rareza de la
+  disciplina), `beneficios-retenidos-participadas` (+1979: un dólar retenido → un dólar de valor).
+- **Estado:** borrador (nuevas) / pendiente + borrador (enriquecidas).

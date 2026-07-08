@@ -1,7 +1,7 @@
 ---
 concepto: Beneficios retenidos de participadas
 domain: valoracion
-years: [1978]
+years: [1978, 1979]
 estado: borrador
 actualizado: 2026-07-08
 ---
@@ -35,9 +35,17 @@ rendimiento; si no, debe repartirse o usarse para recomprar acciones.
 > profitability; then earnings should be paid out or used to repurchase shares - often by
 > far the most attractive option for capital utilization.)" — 1978
 
+En 1979 introduce la vara de medir que después será central: espera que cada dólar retenido
+por esas empresas se traduzca en al menos un dólar de valor de mercado para el accionista.
+
+> "We have faith that the managements of these companies will utilize those retained
+> earnings effectively and will translate a dollar retained by them into a dollar or more
+> of subsequent market value for us." — 1979
+
 ## Relacionados
 - [[analista-de-negocios]] — juzgar por el poder de generación de beneficios subyacente,
   no por lo reportado.
 
 ## Cartas fuente
 - 1978
+- 1979

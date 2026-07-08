@@ -6,13 +6,15 @@ _Páginas de la wiki agrupadas por `domain`. Se actualiza con cada ingesta._
 - [Mr. Market](wiki/mr-market.md) — el mercado te da precios, no juicio; sírvete de su
   bolsillo, no de su sabiduría. `[1987]`
 - [Disciplina de no actuar](wiki/disciplina-de-no-actuar.md) — aceptar menos volumen
-  antes que operar a precios malos; dejar que el otro se lleve el negocio. `[1977]`
+  antes que operar a precios malos; dejar que el otro se lleve el negocio. `[1977, 1979]`
 - [No predecir el mercado](wiki/no-predecir-el-mercado.md) — nadie puede predecir el
   precio a corto plazo; orientación al largo plazo del negocio. `[1978]`
 
 ## riesgo
 - [Volatilidad y venta forzada](wiki/volatilidad-y-venta-forzada.md) — la volatilidad
   solo daña si te obliga a vender (presión financiera o psicológica). `[1987]`
+- [Inflación, enemigo del inversor](wiki/inflacion-enemigo-del-inversor.md) — la inflación
+  puede volver negativo el retorno real; índice de miseria; recelo de los bonos largos. `[1979]`
 
 ## modelos-mentales
 - [Analista de negocios, no de mercado](wiki/analista-de-negocios.md) — decidir sobre el
@@ -23,7 +25,13 @@ _Páginas de la wiki agrupadas por `domain`. Se actualiza con cada ingesta._
   comprar cantidades significativas. `[1978]`
 - [Vientos a favor vs. en contra](wiki/vientos-a-favor-vs-en-contra.md) — la economía
   del negocio domina sobre el esfuerzo del gestor. `[1977, 1978]`
+- [Buen negocio a precio justo](wiki/buen-negocio-a-precio-justo.md) — los turnarounds rara
+  vez giran; mejor buen negocio a precio justo que malo a precio de ganga. `[1979]`
 
 ## valoracion
 - [Beneficios retenidos de participadas](wiki/beneficios-retenidos-participadas.md) — la
-  parte no distribuida es valor real para el accionista si se reinvierte bien. `[1978]`
+  parte no distribuida es valor real para el accionista si se reinvierte bien. `[1978, 1979]`
+
+## contabilidad
+- [Retorno sobre el capital, no BPA](wiki/roe-vs-beneficio-por-accion.md) — juzgar por la
+  tasa sobre el capital, no por el crecimiento del beneficio por acción. `[1979]`
