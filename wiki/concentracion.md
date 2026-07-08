@@ -1,7 +1,7 @@
 ---
 concepto: Concentración
 domain: modelos-mentales
-years: [1978, 1981, 1984]
+years: [1978, 1981, 1984, 1988]
 estado: borrador
 actualizado: 2026-07-08
 ---
@@ -29,6 +29,13 @@ tiene sentido desde una fortaleza financiera excepcional.
 > over-diversification: 'If you have a harem of forty women, you never get to know any of
 > them very well.')" — 1984
 
+En 1988 lo reafirma: concentra en muy pocas empresas que entiende bien y sobre las que tiene
+convicción a largo plazo.
+
+> "We continue to concentrate our investments in a very few companies that we try to
+> understand well... when we find such a business, we want to participate in a meaningful way.
+> We agree with Mae West: 'Too much of a good thing can be wonderful.'" — 1988
+
 ## Relacionados
 - [[criterios-de-seleccion]] — solo se concentra cuando se cumplen los cuatro filtros.
 - [[disciplina-de-no-actuar]] — la otra cara: no actuar cuando el entusiasmo es tibio.
@@ -37,3 +44,4 @@ tiene sentido desde una fortaleza financiera excepcional.
 - 1978
 - 1981
 - 1984
+- 1988

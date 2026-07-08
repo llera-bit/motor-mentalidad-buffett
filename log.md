@@ -98,3 +98,10 @@ _Registro append-only. Prefijo por entrada: `## [YYYY-MM-DD] <op> | <detalle>`
   `hiperactividad-del-mercado` (+1986: el accionista en conjunto rinde menos que sus empresas).
 - **Nota:** apéndice de 1986 define owner earnings (a+b−c) y la falacia del cash flow.
 - **Estado:** borrador (todas).
+
+## [2026-07-08] ingest | carta 1988
+- **Fuente:** `raw/1988.pdf`
+- **Páginas creadas:** `holding-para-siempre` (psicologia), `arbitraje` (modelos-mentales).
+- **Páginas enriquecidas:** `concentracion` (+1988: Mae West, muy pocas empresas),
+  `contra-el-mercado-eficiente` (+1988: "frequently" vs "always" efficient; 63 años de arbitraje).
+- **Estado:** borrador (todas).

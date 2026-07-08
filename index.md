@@ -19,6 +19,8 @@ _Páginas de la wiki agrupadas por `domain`. Se actualiza con cada ingesta._
   seguir a la manada; actuar como dueño libera de él. `[1984]`
 - [Miedo y codicia](wiki/miedo-y-codicia.md) — dos enfermedades súper-contagiosas; ser
   temeroso cuando otros son codiciosos y viceversa. `[1986]`
+- [Holding para siempre](wiki/holding-para-siempre.md) — el periodo de tenencia favorito es
+  "para siempre"; no cortar las flores y regar las malas hierbas. `[1988]`
 
 ## riesgo
 - [Volatilidad y venta forzada](wiki/volatilidad-y-venta-forzada.md) — la volatilidad
@@ -34,7 +36,7 @@ _Páginas de la wiki agrupadas por `domain`. Se actualiza con cada ingesta._
 - [Criterios de selección (cuatro filtros)](wiki/criterios-de-seleccion.md) — entender,
   perspectivas a largo plazo, gente honesta y competente, precio atractivo. `[1977, 1978]`
 - [Concentración](wiki/concentracion.md) — concentrar en alta convicción; nada tibio;
-  comprar cantidades significativas. `[1978, 1981, 1984]`
+  comprar cantidades significativas. `[1978, 1981, 1984, 1988]`
 - [Vientos a favor vs. en contra](wiki/vientos-a-favor-vs-en-contra.md) — la economía
   del negocio domina sobre el esfuerzo del gestor. `[1977, 1978, 1982, 1985]`
 - [Buen negocio a precio justo](wiki/buen-negocio-a-precio-justo.md) — los turnarounds rara
@@ -42,9 +44,11 @@ _Páginas de la wiki agrupadas por `domain`. Se actualiza con cada ingesta._
 - [Ventaja competitiva duradera](wiki/ventaja-competitiva.md) — una ventaja importante y
   difícil de duplicar (GEICO, bajo coste) unida a buena gestión; el foso. `[1980, 1982, 1986]`
 - [Contra el mercado eficiente](wiki/contra-el-mercado-eficiente.md) — precio y valor
-  divergen; la ventaja es la actitud, no el pronóstico (Washington Post). `[1985]`
+  divergen; la ventaja es la actitud, no el pronóstico (Washington Post). `[1985, 1988]`
 - [Incentivos alineados](wiki/incentivos-alineados.md) — las opciones premian retener, no
   la habilidad; atar el premio a lo controlable; caminar en los zapatos del dueño. `[1985]`
+- [Arbitraje](wiki/arbitraje.md) — cuatro preguntas para evaluar una operación anunciada;
+  pocas, grandes y públicas. `[1988]`
 
 ## valoracion
 - [Beneficios retenidos de participadas](wiki/beneficios-retenidos-participadas.md) — la

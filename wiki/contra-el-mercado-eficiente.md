@@ -1,7 +1,7 @@
 ---
 concepto: Contra el mercado eficiente
 domain: modelos-mentales
-years: [1985]
+years: [1985, 1988]
 estado: borrador
 actualizado: 2026-07-08
 ---
@@ -31,6 +31,18 @@ debajo del valor.
 > "the market, in its infinite wisdom, marked WPC stock down to well below 20 cents on the
 > dollar of intrinsic value." — 1985
 
+En 1988 lo ataca de frente: el error de la teoría del mercado eficiente es pasar de "el
+mercado suele ser eficiente" a "el mercado es siempre eficiente".
+
+> "Observing correctly that the market was frequently efficient, they went on to conclude
+> incorrectly that it was always efficient. The difference between these propositions is night
+> and day." — 1988
+
+Y señala la ventaja competitiva de tener rivales a los que enseñaron que es inútil intentarlo.
+
+> "In any sort of a contest - financial, mental, or physical - it's an enormous advantage to
+> have opponents who have been taught that it's useless to even try." — 1988
+
 ## Relacionados
 - [[valor-intrinseco]] — precio y valor divergen; ahí está la oportunidad.
 - [[mr-market]] — el mercado ofrece precios irracionales que se pueden aprovechar.
@@ -38,3 +50,4 @@ debajo del valor.
 
 ## Cartas fuente
 - 1985
+- 1988
