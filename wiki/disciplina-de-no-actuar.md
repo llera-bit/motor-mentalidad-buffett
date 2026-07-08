@@ -1,7 +1,7 @@
 ---
 concepto: Disciplina de no actuar
 domain: psicologia
-years: [1977, 1979, 1984]
+years: [1977, 1979, 1984, 1994]
 estado: pendiente
 actualizado: 2026-07-08
 ---
@@ -42,6 +42,15 @@ todas.
 > "We try to avoid compromise of these standards, although we find doing nothing the most
 > difficult task of all." — 1984
 
+En 1994, con la metáfora de Ted Williams, une disciplina y competencia: esperar a la pelota
+que cae en la "zona feliz".
+
+> "If I have to bite at stuff that is out of my happy zone, I'm not a .344 hitter. I might only
+> be a .250 hitter." — 1994 (Buffett citando a Ted Williams)
+
+> "Charlie and I agree and will try to wait for opportunities that are well within our own
+> 'happy zone.'" — 1994
+
 ## Relacionados
 - [[criterios-de-seleccion]] — el filtro de precio que esta disciplina hace cumplir.
 - [[mr-market]] — ignorar al mercado cuando su oferta no interesa (1987).
@@ -50,3 +59,4 @@ todas.
 - 1977
 - 1979
 - 1984
+- 1994

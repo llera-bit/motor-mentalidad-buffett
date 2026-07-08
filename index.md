@@ -6,9 +6,9 @@ _Páginas de la wiki agrupadas por `domain`. Se actualiza con cada ingesta._
 - [Mr. Market](wiki/mr-market.md) — el mercado te da precios, no juicio; sírvete de su
   bolsillo, no de su sabiduría. `[1987]`
 - [Disciplina de no actuar](wiki/disciplina-de-no-actuar.md) — aceptar menos volumen
-  antes que operar a precios malos; dejar que el otro se lleve el negocio. `[1977, 1979, 1984]`
+  antes que operar a precios malos; esperar la pelota en la "zona feliz". `[1977, 1979, 1984, 1994]`
 - [No predecir el mercado](wiki/no-predecir-el-mercado.md) — nadie puede predecir el
-  precio a corto plazo; orientación al largo plazo del negocio. `[1978, 1980]`
+  precio a corto plazo; ignorar la macro; orientación al largo plazo del negocio. `[1978, 1980, 1994]`
 - [La locura de las adquisiciones](wiki/locura-de-las-adquisiciones.md) — espíritus
   animales, culto al tamaño y exceso de optimismo (sapos y princesas). `[1981, 1982]`
 - [Candor](wiki/candor.md) — informar con franqueza; engañar en público acaba engañándote
@@ -18,7 +18,7 @@ _Páginas de la wiki agrupadas por `domain`. Se actualiza con cada ingesta._
 - [Fallar convencionalmente](wiki/fallar-convencionalmente.md) — el incentivo del gestor a
   seguir a la manada; actuar como dueño libera de él. `[1984]`
 - [Miedo y codicia](wiki/miedo-y-codicia.md) — dos enfermedades súper-contagiosas; ser
-  temeroso cuando otros son codiciosos y viceversa. `[1986, 1990]`
+  temeroso cuando otros son codiciosos y viceversa. `[1986, 1990, 1994]`
 - [Holding para siempre](wiki/holding-para-siempre.md) — el periodo de tenencia favorito es
   "para siempre"; no cortar las flores y regar las malas hierbas. `[1988]`
 - [El imperativo institucional](wiki/imperativo-institucional.md) — la fuerza invisible que

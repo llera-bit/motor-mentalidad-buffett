@@ -1,7 +1,7 @@
 ---
 concepto: Miedo y codicia
 domain: psicologia
-years: [1986, 1990]
+years: [1986, 1990, 1994]
 estado: borrador
 actualizado: 2026-07-08
 ---
@@ -40,6 +40,12 @@ seguir a la manada.
 > "a contrarian approach is just as foolish as a follow-the-crowd strategy. What's required
 > is thinking rather than polling." — 1990
 
+En 1994 lo resume en una antítesis: las mejores compras las ha hecho cuando el miedo a algún
+evento macro estaba en su punto máximo.
+
+> "we have usually made our best purchases when apprehensions about some macro event were at a
+> peak. Fear is the foe of the faddist, but the friend of the fundamentalist." — 1994
+
 ## Relacionados
 - [[mr-market]] — el socio maníaco-depresivo cuyo estado de ánimo aprovechar.
 - [[no-predecir-el-mercado]] — no se anticipa el brote; se responde a él.
@@ -48,3 +54,4 @@ seguir a la manada.
 ## Cartas fuente
 - 1986
 - 1990
+- 1994

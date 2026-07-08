@@ -149,3 +149,12 @@ _Registro append-only. Prefijo por entrada: `## [YYYY-MM-DD] <op> | <detalle>`
   `circulo-de-competencia` (+1993: el que no sabe, que indexe).
 - **Nota:** ensayo faro sobre el riesgo (beta vs. pérdida de poder adquisitivo; 5 factores).
 - **Estado:** borrador (todas).
+
+## [2026-07-08] ingest | carta 1994
+- **Fuente:** `raw/1994.pdf`
+- **Páginas creadas:** ninguna (carta de aplicación de principios).
+- **Páginas enriquecidas:** `no-predecir-el-mercado` (+1994: ignorar la macro; los shocks no
+  hacen mella), `miedo-y-codicia` (+1994: fear, friend of the fundamentalist),
+  `disciplina-de-no-actuar` (+1994: la "zona feliz" de Ted Williams).
+- **Nota:** enrichment-only; la macro y el miedo como distracción vs. oportunidad.
+- **Estado:** borrador salvo `disciplina-de-no-actuar`, que sigue `pendiente`.

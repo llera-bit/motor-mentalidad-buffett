@@ -1,7 +1,7 @@
 ---
 concepto: No predecir el mercado
 domain: psicologia
-years: [1978, 1980]
+years: [1978, 1980, 1994]
 estado: borrador
 actualizado: 2026-07-08
 ---
@@ -30,6 +30,16 @@ más del pronosticador que del futuro.
 > "We believe that short-term forecasts of stock or bond prices are useless. The forecasts
 > may tell you a great deal about the forecaster; they tell you nothing about the future." — 1980
 
+En 1994 lo extiende a la macro: ignora los pronósticos políticos y económicos, un lujo caro.
+Ni la guerra de Vietnam, ni los shocks del petróleo, ni la caída de la URSS hicieron mella en
+los principios de Graham.
+
+> "We will continue to ignore political and economic forecasts, which are an expensive
+> distraction for many investors and businessmen." — 1994
+
+> "If we can identify businesses similar to those we have purchased in the past, external
+> surprises will have little effect on our long-term results." — 1994
+
 ## Relacionados
 - [[analista-de-negocios]] — el reverso positivo: analista de negocios, no de mercado.
 - [[mr-market]] — ignorar el precio como guía.
@@ -37,3 +47,4 @@ más del pronosticador que del futuro.
 ## Cartas fuente
 - 1978
 - 1980
+- 1994
