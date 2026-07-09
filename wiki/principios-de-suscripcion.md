@@ -37,6 +37,12 @@ exposición.
 > experience, rather than exposure, thereby assuming a huge terrorism risk for which we
 > received no premium." — 2001
 
+El error de fondo no fue de conocimiento sino de acción: sabía el riesgo y no lo neutralizó.
+
+> "Why, you might ask, didn't I recognize the above facts before September 11th? The answer,
+> sadly, is that I did - but I didn't convert thought into action. I violated the Noah rule:
+> Predicting rain doesn't count; building arks does." — 2001
+
 En 2002, a propósito de los derivados, generaliza el principio 2 (agregación): las
 correlaciones ocultas afloran justo en la crisis.
 

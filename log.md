@@ -400,3 +400,23 @@ _Registro append-only. Prefijo por entrada: `## [YYYY-MM-DD] <op> | <detalle>`
   (pagar con acciones) es el principio de `emitir-acciones` (1997) ya cubierto; adquisiciones,
   operativo.
 - **Estado:** borrador.
+
+## [2026-07-09] ingest | re-pase carta 2001 (lectura completa)
+- **Fuente:** `raw/2001.pdf` (post-11S)
+- **Páginas creadas:** ninguna.
+- **Páginas enriquecidas:** `principios-de-suscripcion` (dentro del 2001 ya presente: la regla de
+  Noé —"Predicting rain doesn't count; building arks does"—; el error no fue de conocimiento sino
+  de no convertir el pensamiento en acción). Sin nuevo año ni cambio de índice.
+- **No duplicado:** los tres principios y "experience vs exposure" (2001) ya estaban; "avoid dumb
+  decisions rather than brilliant ones" ya en `circulo-de-competencia`; EBITDA/"loss development"
+  en `owner-earnings`/`candor`; el mea culpa de Dexter (pagar con acciones) es el principio de
+  `emitir-acciones` (1997); "debt is a four-letter word" y los junk bonds ya en `fortaleza`.
+- **Estado:** borrador.
+
+## [2026-07-09] ingest | re-pase 1990–2001 COMPLETO
+- **Resumen:** releídas enteras las 12 cartas 1990–2001 (que en su día se leyeron en fracciones
+  por un atajo grep). Resultado: 2 páginas nuevas (`errores-de-omision`, `predecibilidad`) y ~34
+  enriquecimientos en páginas existentes, todos con cita textual + año, sin duplicar. 0
+  discrepancias en `check_years.py` tras cada commit. `mr-market` pasó de estable a pendiente.
+- **Siguiente:** reanudar la ingesta hacia delante en 2007 (autónoma, resumen cada 5, commit por
+  carta, lectura completa).
