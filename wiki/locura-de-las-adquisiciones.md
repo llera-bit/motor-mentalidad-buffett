@@ -1,7 +1,7 @@
 ---
 concepto: La locura de las adquisiciones
 domain: psicologia
-years: [1981, 1982, 1992]
+years: [1981, 1982, 1992, 1995]
 estado: borrador
 actualizado: 2026-07-09
 ---
@@ -58,6 +58,14 @@ mismo cayó en la trampa.
 
 > "In my early days as a manager I, too, dated a few toads... I kissed and they croaked." — 1992
 
+En 1995 apunta a la raíz psicológica, citando a Drucker: cerrar tratos es emocionante y divertido;
+gestionar es trabajo sucio de detalle. De ahí las operaciones sin sentido. El antídoto de
+Berkshire es no tener un plan estratégico que obligue a comprar.
+
+> "Dealmaking beats working. Dealmaking is exciting and fun, and working is grubby... dealmaking
+> is romantic, sexy. That's why you have deals that make no sense." — 1995 (Buffett citando a
+> Peter Drucker)
+
 ## Relacionados
 - [[disciplina-de-no-actuar]] — la disciplina de no pagar de más ni actuar por actuar.
 - [[buen-negocio-a-precio-justo]] — comprar un príncipe que ya lo era, no un sapo a besar.
@@ -66,3 +74,4 @@ mismo cayó en la trampa.
 - 1981
 - 1982
 - 1992
+- 1995

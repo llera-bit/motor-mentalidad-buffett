@@ -10,7 +10,7 @@ _Páginas de la wiki agrupadas por `domain`. Se actualiza con cada ingesta._
 - [No predecir el mercado](wiki/no-predecir-el-mercado.md) — nadie puede predecir el
   precio a corto plazo; ignorar la macro; orientación al largo plazo del negocio. `[1978, 1980, 1992, 1994]`
 - [La locura de las adquisiciones](wiki/locura-de-las-adquisiciones.md) — espíritus
-  animales, culto al tamaño y exceso de optimismo (sapos y princesas). `[1981, 1982, 1992]`
+  animales, culto al tamaño y exceso de optimismo (sapos y princesas). `[1981, 1982, 1992, 1995]`
 - [Candor](wiki/candor.md) — informar con franqueza; engañar en público acaba engañándote
   a ti mismo en privado. `[1983, 1992, 1993]`
 - [Hiperactividad del mercado](wiki/hiperactividad-del-mercado.md) — la rotación es un
@@ -64,7 +64,7 @@ _Páginas de la wiki agrupadas por `domain`. Se actualiza con cada ingesta._
 - [Círculo de competencia](wiki/circulo-de-competencia.md) — obstáculos de un palmo, no de
   dos metros; agnóstico fuera de lo que se entiende. `[1989, 1990, 1992, 1993, 1994, 1996, 1999]`
 - [Franquicia vs. negocio](wiki/franquicia-vs-negocio.md) — la franquicia (3 condiciones)
-  tolera mala gestión; el negocio puede morir por ella. `[1991, 2006]`
+  tolera mala gestión; el negocio puede morir por ella. `[1991, 1995, 2006]`
 
 ## valoracion
 - [Beneficios retenidos de participadas](wiki/beneficios-retenidos-participadas.md) — la

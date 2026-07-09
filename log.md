@@ -322,3 +322,15 @@ _Registro append-only. Prefijo por entrada: `## [YYYY-MM-DD] <op> | <detalle>`
   is the foe of the faddist" es el 1994 ya en `miedo-y-codicia`; la macro-agnosia, en
   `no-predecir-el-mercado`.
 - **Estado:** borrador (todas las tocadas).
+
+## [2026-07-09] ingest | re-pase carta 1995 (lectura completa)
+- **Fuente:** `raw/1995.pdf`
+- **Páginas creadas:** ninguna.
+- **Páginas enriquecidas:** `franquicia-vs-negocio` (+1995: "have-to-be-smart-once" vs
+  "have-to-be-smart-every-day"; el sobrino holgazán en una TV vs. el minorista, "to coast is to
+  fail"), `locura-de-las-adquisiciones` (+1995: Drucker, "dealmaking beats working... deals that
+  make no sense"; sin plan estratégico no hay precio absurdo forzado).
+- **No duplicado:** float 1995 y "lumpy 15%" ya en `float` y `riesgo-no-es-volatilidad`; el moat
+  de GEICO ya en `ventaja-competitiva`; la candor de la Class B (avisar de que la acción está
+  cara, no explotar al comprador poco sofisticado) ya cubierta por `candor`.
+- **Estado:** borrador (ambas).

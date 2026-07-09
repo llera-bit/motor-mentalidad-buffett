@@ -1,9 +1,9 @@
 ---
 concepto: Franquicia vs. negocio
 domain: modelos-mentales
-years: [1991, 2006]
+years: [1991, 1995, 2006]
 estado: borrador
-actualizado: 2026-07-08
+actualizado: 2026-07-09
 ---
 
 # Franquicia vs. negocio
@@ -27,6 +27,16 @@ La consecuencia clave: la franquicia tolera la mala gestión; el negocio, no.
 > if supply of its product or service is tight... And a business, unlike a franchise, can be
 > killed by poor management." — 1991
 
+En 1995 lo formula con otra imagen: hay negocios en los que basta con ser listo una vez y otros
+en los que hay que serlo cada día. Una franquicia se puede confiar a un sobrino holgazán; en un
+negocio de verdad —el comercio minorista—, dejar de correr es morir.
+
+> "if you were smart enough to buy a network TV station very early in the game, you could put in
+> a shiftless and backward nephew to run things, and the business would still do well for
+> decades... For a retailer, hiring that nephew would be an express ticket to bankruptcy." — 1995
+
+> "In retailing, to coast is to fail." — 1995
+
 En 2006 la predicción de 1991 se cumple: los periódicos, antaño franquicias que toleraban
 cualquier gestión, se degradan en meros negocios.
 
@@ -43,4 +53,5 @@ cualquier gestión, se degradan en meros negocios.
 
 ## Cartas fuente
 - 1991
+- 1995
 - 2006
