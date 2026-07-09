@@ -1,7 +1,7 @@
 ---
 concepto: Fortaleza financiera y liquidez
 domain: riesgo
-years: [1980, 1983, 1989, 1990, 1996]
+years: [1980, 1983, 1989, 1990, 1996, 2008]
 estado: borrador
 actualizado: 2026-07-09
 ---
@@ -67,6 +67,14 @@ semillas; de ahí que no se endeude en grande.
 > possible consequence, remote though it may be, we steer clear of planting its seeds. That is
 > why we don't borrow big amounts." — 1996
 
+En 2008, con el sistema financiero en llamas, resume el porqué último: no depender de nadie y no
+cambiar el sueño por un beneficio extra.
+
+> "I have pledged - to you, the rating agencies and myself - to always run Berkshire with more
+> than ample cash. We never want to count on the kindness of strangers in order to meet
+> tomorrow's obligations. When forced to choose, I will not trade even a night's sleep for the
+> chance of extra profits." — 2008
+
 ## Relacionados
 - [[disciplina-de-no-actuar]] — la liquidez permite esperar sin verse forzado.
 - [[volatilidad-y-venta-forzada]] — la fortaleza evita la venta forzada por presión.
@@ -78,3 +86,4 @@ semillas; de ahí que no se endeude en grande.
 - 1989
 - 1990
 - 1996
+- 2008

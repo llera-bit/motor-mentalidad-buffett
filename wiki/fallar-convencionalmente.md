@@ -1,9 +1,9 @@
 ---
 concepto: Fallar convencionalmente
 domain: psicologia
-years: [1984]
+years: [1984, 2008]
 estado: borrador
-actualizado: 2026-07-08
+actualizado: 2026-07-09
 ---
 
 # Fallar convencionalmente
@@ -28,9 +28,18 @@ sueldo.
 > receive our rewards as owners, not managers. Thus we behave with Berkshire's money as we
 > would with our own. That frequently leads us to unconventional behavior." — 1984
 
+En 2008 da el corolario: la aprobación no es el objetivo; buscarla anestesia el juicio. Las
+grandes decisiones no traen aplausos, sino bostezos.
+
+> "Approval, though, is not the goal of investing. In fact, approval is often counter-productive
+> because it sedates the brain and makes it less receptive to new facts or a re-examination of
+> conclusions formed earlier. Beware the investment activity that produces applause; the great
+> moves are usually greeted by yawns." — 2008
+
 ## Relacionados
 - [[locura-de-las-adquisiciones]] — el comportamiento institucional que empuja a la manada.
 - [[disciplina-de-no-actuar]] — atreverse a no hacer lo que todos hacen.
 
 ## Cartas fuente
 - 1984
+- 2008

@@ -16,7 +16,7 @@ _Páginas de la wiki agrupadas por `domain`. Se actualiza con cada ingesta._
 - [Hiperactividad del mercado](wiki/hiperactividad-del-mercado.md) — la rotación es un
   impuesto que el inversor se impone; "pickpocket of enterprise"; Gotrocks. `[1983, 1986, 2004, 2005]`
 - [Fallar convencionalmente](wiki/fallar-convencionalmente.md) — el incentivo del gestor a
-  seguir a la manada; actuar como dueño libera de él. `[1984]`
+  seguir a la manada; actuar como dueño libera de él; no buscar el aplauso. `[1984, 2008]`
 - [Miedo y codicia](wiki/miedo-y-codicia.md) — dos enfermedades súper-contagiosas; ser
   temeroso cuando otros son codiciosos y viceversa. `[1986, 1990, 1994, 2000]`
 - [Holding para siempre](wiki/holding-para-siempre.md) — el periodo de tenencia favorito es
@@ -32,15 +32,15 @@ _Páginas de la wiki agrupadas por `domain`. Se actualiza con cada ingesta._
 - [Inflación, enemigo del inversor](wiki/inflacion-enemigo-del-inversor.md) — la inflación
   puede volver negativo el retorno real; índice de miseria; recelo de los bonos largos. `[1979, 1980, 1981]`
 - [Fortaleza financiera y liquidez](wiki/fortaleza-financiera-y-liquidez.md) — liquidez y
-  deuda moderada; capacidad de aguante y opciones; potencia de fuego. `[1980, 1983, 1989, 1990, 1996]`
+  deuda moderada; capacidad de aguante y opciones; potencia de fuego. `[1980, 1983, 1989, 1990, 1996, 2008]`
 - [Margen de seguridad](wiki/margen-de-seguridad.md) — comprar solo con holgura entre valor y
   precio; piedra angular (Graham). `[1990, 1992]`
 - [El riesgo no es la volatilidad](wiki/riesgo-no-es-volatilidad.md) — riesgo = posibilidad de
-  pérdida de poder adquisitivo, no beta; cinco factores. `[1990, 1993]`
+  pérdida de poder adquisitivo, no beta; cinco factores; "beware of geeks bearing formulas". `[1990, 1993, 2008]`
 - [Principios de suscripción](wiki/principios-de-suscripcion.md) — solo riesgos que sabes
   evaluar; limitar la agregación/correlación; evitar riesgo moral; exposición, no experiencia. `[1997, 2001, 2002]`
 - [Derivados](wiki/derivados.md) — bombas de relojería; riesgo de contraparte, mark-to-myth,
-  linkage sistémico; "armas financieras de destrucción masiva". `[2002]`
+  linkage sistémico; "armas financieras de destrucción masiva". `[2002, 2008]`
 
 ## modelos-mentales
 - [Analista de negocios, no de mercado](wiki/analista-de-negocios.md) — decidir sobre el

@@ -1,9 +1,9 @@
 ---
 concepto: Derivados
 domain: riesgo
-years: [2002]
+years: [2002, 2008]
 estado: borrador
-actualizado: 2026-07-08
+actualizado: 2026-07-09
 ---
 
 # Derivados
@@ -35,6 +35,21 @@ De ahí su veredicto.
 > "In our view, however, derivatives are financial weapons of mass destruction, carrying
 > dangers that, while now latent, are potentially lethal." — 2002
 
+En 2008 las advertencias se cumplen: el problema de contraparte estalla con Bear Stearns y se
+forma una "red de dependencia mutua" entre instituciones muy apalancadas.
+
+> "a frightening web of mutual dependence develops among huge financial institutions...
+> Participants seeking to dodge troubles face the same problem as someone seeking to avoid
+> venereal disease: It's not just whom you sleep with, but also whom they are sleeping with." — 2008
+
+Pero distingue el uso imprudente del disciplinado: vende derivados solo cuando cobra por
+adelantado y retiene el dinero —de modo que no asume riesgo de contraparte— y asume él mismo el
+papel de director de riesgos.
+
+> "Berkshire therefore always holds the money, which leaves us assuming no meaningful
+> counterparty risk... the CEO of any large financial organization must be the Chief Risk Officer
+> as well. If we lose money on our derivatives, it will be my fault." — 2008
+
 ## Relacionados
 - [[fortaleza-financiera-y-liquidez]] — la respuesta: ser una fortaleza, minimizar eslabones.
 - [[principios-de-suscripcion]] — el riesgo de agregación/correlación, aquí en el sistema financiero.
@@ -42,3 +57,4 @@ De ahí su veredicto.
 
 ## Cartas fuente
 - 2002
+- 2008

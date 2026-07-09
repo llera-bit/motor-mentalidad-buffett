@@ -435,3 +435,19 @@ _Registro append-only. Prefijo por entrada: `## [YYYY-MM-DD] <op> | <detalle>`
   opciones-expensing y supuestos de pensiones = `candor`/`owner-earnings`; derivados (uso
   disciplinado: hold the money, sin riesgo de contraparte) y divisas/déficit, macro/operativo.
 - **Estado:** borrador (todas las tocadas).
+
+## [2026-07-09] ingest | carta 2008 (lectura completa)
+- **Fuente:** `raw/2008.pdf` (la crisis financiera).
+- **Páginas creadas:** ninguna.
+- **Páginas enriquecidas:** `derivados` (+2008: las advertencias de 2002 cumpliéndose —Bear Stearns,
+  la "red de dependencia mutua", la metáfora venérea—; y el uso disciplinado de Berkshire: hold the
+  money → sin riesgo de contraparte, el CEO como director de riesgos), `riesgo-no-es-volatilidad`
+  (+2008: "beware of geeks bearing formulas"; los modelos históricos fallan cuando el universo
+  cambia; la volatilidad pasada no dice nada del valor futuro), `fallar-convencionalmente` (+2008:
+  la aprobación no es el objetivo; las grandes decisiones traen bostezos, no aplausos), `fortaleza-
+  financiera-y-liquidez` (+2008: "never count on the kindness of strangers"; no cambiar el sueño
+  por un beneficio extra).
+- **No duplicado:** "price is what you pay, value is what you get" ya en `valor-intrinseco` (1983);
+  "pessimism is your friend" en `miedo-y-codicia`; el error de ConocoPhillips/bancos irlandeses y el
+  análisis Clayton/hipotecas (HPA, "borrowers who shouldn't have borrowed") son casos/macro.
+- **Estado:** borrador (todas las tocadas).

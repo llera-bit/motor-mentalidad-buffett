@@ -1,7 +1,7 @@
 ---
 concepto: El riesgo no es la volatilidad
 domain: riesgo
-years: [1990, 1993]
+years: [1990, 1993, 2008]
 estado: borrador
 actualizado: 2026-07-09
 ---
@@ -47,6 +47,15 @@ expectativa a largo plazo lo compense.
 > in profits so long as the swings carry with them the prospect of superior long-term
 > results." — 1990
 
+En 2008 ataca el extremo opuesto: confiar el riesgo a fórmulas. Los modelos basados en el pasado
+fallan cuando el universo cambia (las pérdidas hipotecarias vinieron de modelos históricos), y la
+volatilidad pasada nada dice del rango de valores futuro.
+
+> "Investors should be skeptical of history-based models. Constructed by a nerdy-sounding
+> priesthood using esoteric terms such as beta, gamma, sigma and the like, these models tend to
+> look impressive. Too often, though, investors forget to examine the assumptions behind the
+> symbols. Our advice: Beware of geeks bearing formulas." — 2008
+
 ## Relacionados
 - [[volatilidad-y-venta-forzada]] — la volatilidad solo daña si te obliga a vender.
 - [[mr-market]] — el verdadero inversor da la bienvenida a la volatilidad.
@@ -56,3 +65,4 @@ expectativa a largo plazo lo compense.
 ## Cartas fuente
 - 1990
 - 1993
+- 2008
