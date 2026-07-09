@@ -82,6 +82,8 @@ baje la carne.
   llegan a dañarte: la venta forzada.
 - [[analista-de-negocios]] — la contrapartida disciplinada: valorar el negocio, no leer
   al mercado.
+- [[miedo-y-codicia]] — las dos emociones que gobiernan el humor de Mr. Market.
+- [[contra-el-mercado-eficiente]] — su locura es la prueba de que precio y valor divergen.
 
 ## Cartas fuente
 - 1987

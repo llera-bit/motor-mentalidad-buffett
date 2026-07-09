@@ -58,6 +58,7 @@ enriquece al ritmo de los beneficios de sus empresas... hasta que aparecen los "
 ## Relacionados
 - [[no-predecir-el-mercado]] — la actividad no nace de información, sino de impaciencia.
 - [[analista-de-negocios]] — el foco en resultados del negocio, no en el precio.
+- [[holding-para-siempre]] — la cara opuesta: no rotar es lo que evita el impuesto.
 
 ## Cartas fuente
 - 1983

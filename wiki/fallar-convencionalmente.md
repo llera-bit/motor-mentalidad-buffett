@@ -39,6 +39,7 @@ grandes decisiones no traen aplausos, sino bostezos.
 ## Relacionados
 - [[locura-de-las-adquisiciones]] — el comportamiento institucional que empuja a la manada.
 - [[disciplina-de-no-actuar]] — atreverse a no hacer lo que todos hacen.
+- [[imperativo-institucional]] — la fuerza que empuja al gestor hacia la manada.
 
 ## Cartas fuente
 - 1984

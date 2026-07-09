@@ -465,3 +465,18 @@ _Registro append-only. Prefijo por entrada: `## [YYYY-MM-DD] <op> | <detalle>`
   "CEO must own risk control" en `derivados` (2008); el giro a negocios intensivos en capital
   "buenos" ya en `negocio-grande-bueno-pesimo` (2007); Clayton/hipotecas y NetJets, casos.
 - **Estado:** borrador (todas las tocadas).
+
+## [2026-07-09] lint | health-check del grafo (41 páginas)
+- **Detectado:** 10 páginas huérfanas (0 enlaces entrantes), entre ellas `miedo-y-codicia`, `float`,
+  `concentracion`, `derivados`, `holding-para-siempre`, `emitir-acciones-solo-a-su-valor`,
+  `errores-de-omision`, `contra-el-mercado-eficiente`, `imperativo-institucional`, `arbitraje`.
+  Causa: al crear/enriquecer se añadían enlaces *desde* la página, casi nunca *hacia* ella.
+- **Corregido:** enlaces entrantes recíprocos añadidos en `mr-market`, `circulo-de-competencia`,
+  `principios-de-suscripcion`, `fortaleza-financiera-y-liquidez`, `hiperactividad-del-mercado`,
+  `recompra-de-acciones`, `disciplina-de-no-actuar`, `fallar-convencionalmente`,
+  `contra-el-mercado-eficiente`, `buen-negocio-a-precio-justo`.
+- **Verificado:** 0 wikilinks rotos, 0 huérfanas, 0 páginas sin salientes, media 3,0 entrantes;
+  índice ↔ ficheros coherentes; `check_years` 0 discrepancias.
+- **Estado:** sin cambios (añadir un enlace en "Relacionados" es cambio trivial).
+- **Deuda abierta:** `check_years.py` sigue fuera del repo (en `/tmp`); 35 páginas en `borrador`
+  nunca revisadas.

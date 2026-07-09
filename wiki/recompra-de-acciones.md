@@ -70,6 +70,7 @@ opciones ejercidas —un "compra caro, vende barato" involuntario.
 - [[beneficios-retenidos-participadas]] — la recompra es uno de los mejores usos del
   beneficio retenido.
 - [[ventaja-competitiva]] — GEICO recompra "un negocio que no se puede replicar".
+- [[emitir-acciones-solo-a-su-valor]] — la cara inversa: comprar barato lo propio, no venderlo barato.
 
 ## Cartas fuente
 - 1980

@@ -50,6 +50,8 @@ un mal negocio nunca vienen solos.
 ## Relacionados
 - [[vientos-a-favor-vs-en-contra]] — por qué el negocio malo, aun barato, sigue rindiendo mal.
 - [[criterios-de-seleccion]] — matiza el filtro de precio: barato no basta si el negocio es pobre.
+- [[negocio-grande-bueno-pesimo]] — cuánto capital exige el negocio para crecer: grande, bueno o pésimo.
+- [[predecibilidad]] — el buen negocio solo lo es si su economía es previsible a largo plazo.
 
 ## Cartas fuente
 - 1979

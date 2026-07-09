@@ -83,6 +83,8 @@ perímetro del círculo, y no cambiar la razón por la esperanza.
 - [[criterios-de-seleccion]] — el primer filtro: un negocio que podamos entender.
 - [[no-predecir-el-mercado]] — fuera del círculo, no se pronostica.
 - [[disciplina-de-no-actuar]] — dejar pasar lo que no se entiende.
+- [[concentracion]] — dentro del círculo, apostar fuerte en lo poco que se entiende.
+- [[errores-de-omision]] — el error caro no es salirse del círculo, sino no actuar dentro de él.
 
 ## Cartas fuente
 - 1989

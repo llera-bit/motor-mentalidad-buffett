@@ -64,6 +64,8 @@ que asesora el riesgo cobra por adelantado, acierte o no.
 - [[riesgo-no-es-volatilidad]] — el riesgo real es la pérdida, no la volatilidad.
 - [[circulo-de-competencia]] — el principio 1: solo lo que sabes evaluar.
 - [[fortaleza-financiera-y-liquidez]] — limitar la exposición preserva la solvencia.
+- [[float]] — la disciplina de suscripción es lo que mantiene barato el float.
+- [[derivados]] — la agregación y el riesgo de contraparte, llevados al sistema financiero.
 
 ## Cartas fuente
 - 1997

@@ -79,6 +79,7 @@ cambiar el sueño por un beneficio extra.
 - [[disciplina-de-no-actuar]] — la liquidez permite esperar sin verse forzado.
 - [[volatilidad-y-venta-forzada]] — la fortaleza evita la venta forzada por presión.
 - [[margen-de-seguridad]] — en 1990 Buffett opone la daga del apalancamiento al lema de Graham.
+- [[derivados]] — la respuesta al riesgo sistémico: ser una fortaleza y no depender de nadie.
 
 ## Cartas fuente
 - 1980

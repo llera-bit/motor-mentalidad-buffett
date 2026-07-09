@@ -60,6 +60,7 @@ vende, que elige el momento y no regala nada.
 - [[valor-intrinseco]] — precio y valor divergen; ahí está la oportunidad.
 - [[mr-market]] — el mercado ofrece precios irracionales que se pueden aprovechar.
 - [[analista-de-negocios]] — comprar negocios con descuento sobre su valor, no leer al mercado.
+- [[arbitraje]] — explotar una ineficiencia concreta y acotada del mercado.
 
 ## Cartas fuente
 - 1985
