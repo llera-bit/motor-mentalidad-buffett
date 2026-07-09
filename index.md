@@ -45,7 +45,7 @@ _Páginas de la wiki agrupadas por `domain`. Se actualiza con cada ingesta._
 
 ## modelos-mentales
 - [Analista de negocios, no de mercado](wiki/analista-de-negocios.md) — decidir sobre el
-  valor del negocio y la expectativa matemática, no sobre la cotización. `[1977, 1984, 1987]`
+  valor del negocio y la expectativa matemática, no sobre la cotización; "business-pickers". `[1977, 1984, 1987, 2021]`
 - [Criterios de selección (cuatro filtros)](wiki/criterios-de-seleccion.md) — entender,
   perspectivas a largo plazo, gente honesta y competente, precio atractivo. `[1977, 1978, 1997]`
 - [Concentración](wiki/concentracion.md) — concentrar en alta convicción; nada tibio;

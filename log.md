@@ -660,3 +660,20 @@ _Registro append-only. Prefijo por entrada: `## [YYYY-MM-DD] <op> | <detalle>`
 - **Evolución:** sin disparador. Apple se discute en 2020 **solo como inversión y por sus recompras**;
   ni una línea sobre la tensión con "no invierto en tecnología" (1999/2007).
 - **Estado:** borrador.
+
+## [2026-07-10] ingest | carta 2021 (lectura completa)
+- **Fuente:** `raw/2021.pdf`
+- **Páginas creadas:** ninguna.
+- **Páginas enriquecidas:** `analista-de-negocios` (+2021: "Charlie and I are not stock-pickers; we
+  are business-pickers" —la formulación canónica de la tesis de la página—; y la ventaja del segmento
+  cotizado: a veces regala precios que ninguna negociación concede, y del error cotizado se sale
+  mucho mejor).
+- **Cambio de estado:** `analista-de-negocios` pasa de `estable` a `pendiente`. Era **la última página
+  estable**: la wiki entera queda ahora sin ninguna aprobación vigente.
+- **No duplicado:** el desastre de la fusión Berkshire–Hathaway de 1955 (los banqueros se van y el
+  accionista se arruina) reilustra `locura-de-las-adquisiciones` (1995/2009); la recompra de 2021,
+  `recompra-de-acciones` (1999/2011).
+- **Incidente de proceso:** el Edit del frontmatter falló mientras el del cuerpo tuvo éxito, dejando
+  `years` sin 2021. Detectado y corregido antes del commit.
+- **Evolución:** sin disparador en 2021.
+- **Estado:** pendiente.

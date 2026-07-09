@@ -1,9 +1,9 @@
 ---
 concepto: Analista de negocios, no de mercado
 domain: modelos-mentales
-years: [1977, 1984, 1987]
-estado: estable
-actualizado: 2026-07-08
+years: [1977, 1984, 1987, 2021]
+estado: pendiente
+actualizado: 2026-07-10
 ---
 
 # Analista de negocios, no de mercado
@@ -61,6 +61,20 @@ empresarial. Ese enfoque lo aplica incluso a los bonos, tratados como un "negoci
 > "Investment is most intelligent when it is most businesslike." — 1984 (Buffett citando a
 > Ben Graham)
 
+Cuarenta y cuatro años después, en 2021, lo reduce a seis palabras.
+
+> "Charlie and I are not stock-pickers; we are business-pickers." — 2021
+
+> "we own stocks based upon our expectations about their long-term business performance and not
+> because we view them as vehicles for timely market moves." — 2021
+
+Y añade por qué, aun siendo analista de negocios, prefiere a veces comprar trozos en bolsa: el
+mercado regala precios que ninguna negociación concede, y del error cotizado se sale mejor.
+
+> "One advantage of our common-stock segment is that - on occasion - it becomes easy to buy pieces
+> of wonderful businesses at wonderful prices... It is also far easier to exit from a mistake when
+> it has been made in the marketable arena." — 2021
+
 ## Relacionados
 - [[mr-market]] — a quién ignorar (el precio) para poder analizar el negocio.
 - [[volatilidad-y-venta-forzada]] — por qué anclar en el negocio protege de la presión
@@ -71,3 +85,4 @@ empresarial. Ese enfoque lo aplica incluso a los bonos, tratados como un "negoci
 - 1977
 - 1984
 - 1987
+- 2021
