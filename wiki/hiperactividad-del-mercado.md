@@ -1,9 +1,9 @@
 ---
 concepto: Hiperactividad del mercado
 domain: psicologia
-years: [1983, 1986, 2004, 2005, 2016, 2018]
+years: [1983, 1986, 2004, 2005, 2016, 2018, 2023]
 estado: borrador
-actualizado: 2026-07-09
+actualizado: 2026-07-10
 ---
 
 # Hiperactividad del mercado
@@ -82,6 +82,16 @@ En 2018 muestra la otra mitad del daño: el coste también compone. Una comisió
 > gain would have been cut in half, to $2.65 billion. That's what happens over 77 years when the
 > 11.8% annual return actually achieved by the S&P 500 is recalculated at a 10.8% rate." — 2018
 
+En 2023 nombra al incentivo de raíz: a Wall Street le gustaría que su cliente ganara, pero lo que
+de verdad le hace hervir la sangre es la actividad. Y el casino ya no está en Las Vegas.
+
+> "markets now exhibit far more casino-like behavior than they did when I was young. The casino now
+> resides in many homes and daily tempts the occupants." — 2023
+
+> "Wall Street... would like its customers to make money, but what truly causes its denizens' juices
+> to flow is feverish activity. At such times, whatever foolishness can be marketed will be
+> vigorously marketed - not by everyone but always by someone." — 2023
+
 ## Relacionados
 - [[no-predecir-el-mercado]] — la actividad no nace de información, sino de impaciencia.
 - [[analista-de-negocios]] — el foco en resultados del negocio, no en el precio.
@@ -95,3 +105,4 @@ En 2018 muestra la otra mitad del daño: el coste también compone. Una comisió
 - 2005
 - 2016
 - 2018
+- 2023

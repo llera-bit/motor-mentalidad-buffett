@@ -677,3 +677,32 @@ _Registro append-only. Prefijo por entrada: `## [YYYY-MM-DD] <op> | <detalle>`
   `years` sin 2021. Detectado y corregido antes del commit.
 - **Evolución:** sin disparador en 2021.
 - **Estado:** pendiente.
+
+## [2026-07-10] ingest | cartas 2022 y 2023 (lectura completa)
+- **Desviación declarada:** ambas van en un solo commit (no uno por carta) porque los dos cambios
+  tocan `index.md` y no se pueden separar limpiamente. El resto del procedimiento se respeta.
+- **Fuentes:** `raw/2022.pdf` ("The Secret Sauce"), `raw/2023.pdf` (homenaje a Munger; el casino).
+- **Páginas creadas:** ninguna.
+- **Páginas enriquecidas:** `concentracion` (+2022: la aritmética de la asimetría —una docena de
+  aciertos en 58 años; "the weeds wither away in significance as the flowers bloom"; el error que se
+  queda plano acaba siendo el 0,3% del patrimonio), `hiperactividad-del-mercado` (+2023: el incentivo
+  de raíz —a Wall Street le hierve la sangre con la actividad, no con tu ganancia—; "the casino now
+  resides in many homes").
+- **No duplicado:** el plano de Munger ("wonderful businesses at fair prices") ya en `buen-negocio-a-
+  precio-justo` (2014); "all repurchases should be price-dependent" y el demagogo, en `recompra-de-
+  acciones` (1999/2011); "never risk permanent loss of capital" reformula `riesgo-no-es-volatilidad`.
+- **Evolución:** sin disparador.
+- **Estado:** borrador.
+
+## [2026-07-10] ingest | carta 2024 (lectura completa) — ÚLTIMA CARTA
+- **Fuente:** `raw/2024.pdf`
+- **Páginas creadas:** ninguna.
+- **Páginas enriquecidas:** `errores-de-omision` (+2024: la segunda forma de omisión y el pecado
+  cardinal —no dejar de comprar, sino dejar de **corregir**; "problems cannot be wished away"),
+  `tres-categorias-de-activos` (+2024: el cierre del arco —el bono de cupón fijo no protege de una
+  moneda que se hunde; "Berkshire will never prefer cash-equivalent assets over good businesses").
+- **No duplicado:** "with marketable equities, it is easier to change course when I make a mistake"
+  ya se filó en `analista-de-negocios` (2021); el uso candoroso de la palabra "error" 16 veces
+  reformula `candor` (1983).
+- **Evolución:** sin disparador en ninguna carta. Cerrado el barrido 1977–2024.
+- **Estado:** borrador.

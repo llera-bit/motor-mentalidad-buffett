@@ -1,9 +1,9 @@
 ---
 concepto: Errores de omisión
 domain: psicologia
-years: [1991, 2007]
+years: [1991, 2007, 2024]
 estado: borrador
-actualizado: 2026-07-09
+actualizado: 2026-07-10
 ---
 
 # Errores de omisión
@@ -38,6 +38,14 @@ ganado más de 1.000 M.
 > down the deal to at least $1 billion... Why did I say 'no'? The only explanation is that my
 > brain had gone on vacation and forgot to notify me." — 2007
 
+En 2024 extiende el "chuparse el pulgar" a una segunda forma de omisión, y la llama el pecado
+cardinal: no dejar de comprar, sino dejar de **corregir**. El error ya cometido no se disuelve
+deseándolo.
+
+> "The cardinal sin is delaying the correction of mistakes or what Charlie Munger called
+> 'thumb-sucking.' Problems, he would tell me, cannot be wished away. They require action, however
+> uncomfortable that may be." — 2024
+
 ## Relacionados
 - [[circulo-de-competencia]] — el error no es salirse del círculo, sino no actuar dentro de él.
 - [[disciplina-de-no-actuar]] — la otra cara: la contención ante el mal precio, no la parálisis
@@ -47,3 +55,4 @@ ganado más de 1.000 M.
 ## Cartas fuente
 - 1991
 - 2007
+- 2024

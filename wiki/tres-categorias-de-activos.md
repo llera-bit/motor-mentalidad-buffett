@@ -1,9 +1,9 @@
 ---
 concepto: Las tres categorías de activos
 domain: modelos-mentales
-years: [2011, 2018, 2020]
+years: [2011, 2018, 2020, 2024]
 estado: borrador
-actualizado: 2026-07-09
+actualizado: 2026-07-10
 ---
 
 # Las tres categorías de activos
@@ -81,6 +81,17 @@ no renta: bajar la calidad del deudor para arañar cupón. Ese no es el remedio.
 > "Risky loans, however, are not the answer to inadequate interest rates. Three decades ago, the
 > once-mighty savings and loan industry destroyed itself, partly by ignoring that maxim." — 2020
 
+En 2024, a los 94 años, lo convierte en política permanente. El bono de cupón fijo no defiende de
+una moneda que se hunde; el negocio, mientras alguien quiera lo que vende, encuentra la manera.
+
+> "Paper money can see its value evaporate if fiscal folly prevails... Fixed-coupon bonds provide no
+> protection against runaway currency. Businesses, as well as individuals with desired talents,
+> however, will usually find a way to cope with monetary instability as long as their goods or
+> services are desired by the country's citizenry." — 2024
+
+> "Berkshire will never prefer ownership of cash-equivalent assets over the ownership of good
+> businesses, whether controlled or only partially owned." — 2024
+
 ## Relacionados
 - [[riesgo-no-es-volatilidad]] — el riesgo es perder poder adquisitivo, no fluctuar.
 - [[inflacion-enemigo-del-inversor]] — por qué el activo monetario "seguro" no lo es.
@@ -92,3 +103,4 @@ no renta: bajar la calidad del deudor para arañar cupón. Ese no es el remedio.
 - 2011
 - 2018
 - 2020
+- 2024

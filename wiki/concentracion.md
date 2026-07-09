@@ -1,9 +1,9 @@
 ---
 concepto: Concentración
 domain: modelos-mentales
-years: [1978, 1981, 1984, 1988, 1991, 1993, 1996]
+years: [1978, 1981, 1984, 1988, 1991, 1993, 1996, 2022]
 estado: borrador
-actualizado: 2026-07-09
+actualizado: 2026-07-10
 ---
 
 # Concentración
@@ -69,6 +69,18 @@ como que los Bulls traspasaran a Michael Jordan por haberse vuelto demasiado imp
 > they have come to dominate his portfolio is akin to suggesting that the Bulls trade Michael
 > Jordan because he has become so important to the team." — 1996
 
+En 2022 da la aritmética que lo sostiene. En 58 años, casi todas sus decisiones fueron mediocres:
+el resultado lo produjo alrededor de una docena de aciertos. Y funciona porque la asimetría juega
+sola: Coca-Cola y American Express, compradas por 1.300 M cada una, valen hoy 25.000 y 22.000 M
+(un 5% del patrimonio cada una); un error del mismo tamaño que se hubiera quedado plano sería hoy
+el 0,3%.
+
+> "Our satisfactory results have been the product of about a dozen truly good decisions - that would
+> be about one every five years." — 2022
+
+> "The lesson for investors: The weeds wither away in significance as the flowers bloom. Over time,
+> it takes just a few winners to work wonders." — 2022
+
 ## Relacionados
 - [[criterios-de-seleccion]] — solo se concentra cuando se cumplen los cuatro filtros.
 - [[disciplina-de-no-actuar]] — la otra cara: no actuar cuando el entusiasmo es tibio.
@@ -81,3 +93,4 @@ como que los Bulls traspasaran a Michael Jordan por haberse vuelto demasiado imp
 - 1991
 - 1993
 - 1996
+- 2022

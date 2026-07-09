@@ -14,7 +14,7 @@ _Páginas de la wiki agrupadas por `domain`. Se actualiza con cada ingesta._
 - [Candor](wiki/candor.md) — informar con franqueza; engañar en público acaba engañándote
   a ti mismo en privado. `[1983, 1992, 1993, 1998]`
 - [Hiperactividad del mercado](wiki/hiperactividad-del-mercado.md) — la rotación es un
-  impuesto que el inversor se impone; Gotrocks; gana quien tenga el coste más bajo. `[1983, 1986, 2004, 2005, 2016, 2018]`
+  impuesto que el inversor se impone; Gotrocks; el casino dentro de casa. `[1983, 1986, 2004, 2005, 2016, 2018, 2023]`
 - [Fallar convencionalmente](wiki/fallar-convencionalmente.md) — el incentivo del gestor a
   seguir a la manada; actuar como dueño libera de él; no buscar el aplauso. `[1984, 2008]`
 - [Miedo y codicia](wiki/miedo-y-codicia.md) — dos enfermedades súper-contagiosas; ser
@@ -24,7 +24,7 @@ _Páginas de la wiki agrupadas por `domain`. Se actualiza con cada ingesta._
 - [El imperativo institucional](wiki/imperativo-institucional.md) — la fuerza invisible que
   marchita la racionalidad de los gestores; imitación, inercia, razonar hacia atrás. `[1989, 1990, 2003, 2012]`
 - [Errores de omisión](wiki/errores-de-omision.md) — los peores errores son los invisibles: no
-  comprar lo que se entendía y era atractivo (chuparse el pulgar). `[1991, 2007]`
+  comprar lo que se entendía; y no corregir el error ya cometido. `[1991, 2007, 2024]`
 
 ## riesgo
 - [Volatilidad y venta forzada](wiki/volatilidad-y-venta-forzada.md) — la volatilidad
@@ -49,7 +49,7 @@ _Páginas de la wiki agrupadas por `domain`. Se actualiza con cada ingesta._
 - [Criterios de selección (cuatro filtros)](wiki/criterios-de-seleccion.md) — entender,
   perspectivas a largo plazo, gente honesta y competente, precio atractivo. `[1977, 1978, 1997]`
 - [Concentración](wiki/concentracion.md) — concentrar en alta convicción; nada tibio;
-  comprar cantidades significativas. `[1978, 1981, 1984, 1988, 1991, 1993, 1996]`
+  comprar cantidades significativas; los hierbajos se marchitan, las flores florecen. `[1978, 1981, 1984, 1988, 1991, 1993, 1996, 2022]`
 - [Vientos a favor vs. en contra](wiki/vientos-a-favor-vs-en-contra.md) — la economía
   del negocio domina sobre el esfuerzo del gestor. `[1977, 1978, 1982, 1985, 1990, 2006]`
 - [Buen negocio a precio justo](wiki/buen-negocio-a-precio-justo.md) — los turnarounds rara
@@ -73,7 +73,7 @@ _Páginas de la wiki agrupadas por `domain`. Se actualiza con cada ingesta._
 - [Coste de oportunidad](wiki/coste-de-oportunidad.md) — cada decisión de capital se mide contra la
   mejor alternativa; no reinvertir donde se ganó por costumbre. `[1995, 2007, 2010]`
 - [Las tres categorías de activos](wiki/tres-categorias-de-activos.md) — monetarios (peligrosos),
-  improductivos (oro, especulación) y productivos (las vacas que dan leche). `[2011, 2018, 2020]`
+  improductivos (oro, especulación) y productivos (las vacas que dan leche). `[2011, 2018, 2020, 2024]`
 
 ## valoracion
 - [Beneficios retenidos de participadas](wiki/beneficios-retenidos-participadas.md) — la
