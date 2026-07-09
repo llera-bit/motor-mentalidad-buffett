@@ -1,7 +1,7 @@
 ---
 concepto: Hiperactividad del mercado
 domain: psicologia
-years: [1983, 1986, 2004, 2005, 2016]
+years: [1983, 1986, 2004, 2005, 2016, 2018]
 estado: borrador
 actualizado: 2026-07-09
 ---
@@ -75,6 +75,13 @@ en manos de sus gestores.
 
 > "As Gordon Gekko might have put it: 'Fees never sleep.'" — 2016
 
+En 2018 muestra la otra mitad del daño: el coste también compone. Una comisión anual de apenas el
+1% habría partido por la mitad la riqueza de una institución a lo largo de 77 años.
+
+> "If that hypothetical institution had paid only 1% of assets annually to various 'helpers'... its
+> gain would have been cut in half, to $2.65 billion. That's what happens over 77 years when the
+> 11.8% annual return actually achieved by the S&P 500 is recalculated at a 10.8% rate." — 2018
+
 ## Relacionados
 - [[no-predecir-el-mercado]] — la actividad no nace de información, sino de impaciencia.
 - [[analista-de-negocios]] — el foco en resultados del negocio, no en el precio.
@@ -87,3 +94,4 @@ en manos de sus gestores.
 - 2004
 - 2005
 - 2016
+- 2018

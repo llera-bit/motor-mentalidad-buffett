@@ -1,7 +1,7 @@
 ---
 concepto: Las tres categorías de activos
 domain: modelos-mentales
-years: [2011]
+years: [2011, 2018]
 estado: borrador
 actualizado: 2026-07-09
 ---
@@ -64,6 +64,14 @@ Y advierte del momento en que las dos primeras categorías se ponen de moda: en 
 > their most attractive level in memory. On those occasions, investors who required a supportive
 > crowd paid dearly for that comfort." — 2011
 
+En 2018 lo comprueba con 77 años de datos. Quien en 1942 hubiera temido la deuda pública y la
+moneda —que en efecto se multiplicó por 400— y hubiera comprado oro con sus 114,75 $, habría
+terminado con 4.200 $: menos del 1% de lo que le habría dado el negocio americano.
+
+> "You would now have an asset worth about $4,200, less than 1% of what would have been realized
+> from a simple unmanaged investment in American business. The magical metal was no match for the
+> American mettle." — 2018
+
 ## Relacionados
 - [[riesgo-no-es-volatilidad]] — el riesgo es perder poder adquisitivo, no fluctuar.
 - [[inflacion-enemigo-del-inversor]] — por qué el activo monetario "seguro" no lo es.
@@ -73,3 +81,4 @@ Y advierte del momento en que las dos primeras categorías se ponen de moda: en 
 
 ## Cartas fuente
 - 2011
+- 2018

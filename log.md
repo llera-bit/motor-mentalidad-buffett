@@ -617,3 +617,17 @@ _Registro append-only. Prefijo por entrada: `## [YYYY-MM-DD] <op> | <detalle>`
   `fortaleza` (2008).
 - **Evolución:** sin disparador en 2017.
 - **Estado:** sin cambios (volatilidad-y-venta-forzada sigue pendiente).
+
+## [2026-07-09] ingest | carta 2018 (lectura completa)
+- **Fuente:** `raw/2018.pdf` ("The American Tailwind").
+- **Páginas creadas:** ninguna.
+- **Páginas enriquecidas:** `tres-categorias-de-activos` (+2018: la prueba empírica a 77 años —114,75 $
+  en oro → 4.200 $, menos del 1% de lo que dio el negocio americano; "the magical metal was no match
+  for the American mettle"), `hiperactividad-del-mercado` (+2018: el coste también compone —un 1%
+  anual parte por la mitad la riqueza a 77 años).
+- **No duplicado:** la política de recompra de 2018 (comprar solo bajo el valor intrínseco; informar
+  al accionista; "blindly buying an overpriced stock is value-destructive") ya está en
+  `recompra-de-acciones` (1999/2011); los beneficios retenidos de participadas, en su página; los
+  "cinco bosquecillos" son una guía de valoración de Berkshire, no un concepto transferible.
+- **Evolución:** sin disparador en 2018.
+- **Estado:** borrador.
