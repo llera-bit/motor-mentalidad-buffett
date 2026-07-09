@@ -1,7 +1,7 @@
 ---
 concepto: Errores de omisión
 domain: psicologia
-years: [1991]
+years: [1991, 2007]
 estado: borrador
 actualizado: 2026-07-09
 ---
@@ -30,6 +30,14 @@ frustración y vendió lo poco que tenía. El coste de esa parálisis fue enorme
 > "What I can give you is an estimate as of yearend 1991 of the approximate gain that Berkshire
 > didn't make because of your Chairman's mistake: about $1.4 billion." — 1991
 
+En 2007 añade otro caso de manual: rechazó la estación de TV de Dallas-Fort Worth —un negocio
+"tipo See's" que apenas exigía capital, ofrecida por su amigo Tom Murphy—. Desde entonces habría
+ganado más de 1.000 M.
+
+> "In 2006, the station earned $73 million pre-tax, bringing its total earnings since I turned
+> down the deal to at least $1 billion... Why did I say 'no'? The only explanation is that my
+> brain had gone on vacation and forgot to notify me." — 2007
+
 ## Relacionados
 - [[circulo-de-competencia]] — el error no es salirse del círculo, sino no actuar dentro de él.
 - [[disciplina-de-no-actuar]] — la otra cara: la contención ante el mal precio, no la parálisis
@@ -38,3 +46,4 @@ frustración y vendió lo poco que tenía. El coste de esa parálisis fue enorme
 
 ## Cartas fuente
 - 1991
+- 2007

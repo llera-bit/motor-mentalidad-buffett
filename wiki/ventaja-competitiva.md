@@ -1,9 +1,9 @@
 ---
 concepto: Ventaja competitiva duradera
 domain: modelos-mentales
-years: [1980, 1982, 1986, 1993, 1995, 2005]
+years: [1980, 1982, 1986, 1993, 1995, 2005, 2007]
 estado: borrador
-actualizado: 2026-07-08
+actualizado: 2026-07-09
 ---
 
 # Ventaja competitiva duradera
@@ -75,9 +75,25 @@ beneficio a corto plazo.
 > actions, we describe the phenomenon as 'widening the moat.'... when short-term and long-term
 > conflict, widening the moat must take precedence." — 2005
 
+En 2007 refina qué hace válido a un foso: debe ser duradero —no algo que haya que reconstruir sin
+cesar— y no puede depender de una sola persona. Los fosos ilusorios son "Roman Candles".
+
+> "A truly great business must have an enduring 'moat' that protects excellent returns on invested
+> capital... a formidable barrier such as a company's being the low-cost producer (GEICO, Costco)
+> or possessing a powerful world-wide brand (Coca-Cola, Gillette, American Express) is essential...
+> Business history is filled with 'Roman Candles,' companies whose moats proved illusory." — 2007
+
+> "A moat that must be continuously rebuilt will eventually be no moat at all." — 2007
+
+> "if a business requires a superstar to produce great results, the business itself cannot be
+> deemed great... The partnership's moat will go when the surgeon goes. You can count, though, on
+> the moat of the Mayo Clinic to endure, even though you can't name its CEO." — 2007
+
 ## Relacionados
 - [[buen-negocio-a-precio-justo]] — la ventaja duradera es lo que hace "bueno" a un negocio.
 - [[vientos-a-favor-vs-en-contra]] — es el viento a favor estructural.
+- [[negocio-grande-bueno-pesimo]] — el foso es el requisito del gran negocio.
+- [[predecibilidad]] — el foso debe ser duradero, en una industria estable.
 
 ## Cartas fuente
 - 1980
@@ -86,3 +102,4 @@ beneficio a corto plazo.
 - 1993
 - 1995
 - 2005
+- 2007

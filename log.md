@@ -420,3 +420,18 @@ _Registro append-only. Prefijo por entrada: `## [YYYY-MM-DD] <op> | <detalle>`
   discrepancias en `check_years.py` tras cada commit. `mr-market` pasó de estable a pendiente.
 - **Siguiente:** reanudar la ingesta hacia delante en 2007 (autónoma, resumen cada 5, commit por
   carta, lectura completa).
+
+## [2026-07-09] ingest | carta 2007 (lectura completa)
+- **Fuente:** `raw/2007.pdf` ("The Great, the Good and the Gruesome"). Ingesta hacia delante.
+- **Páginas creadas:** `negocio-grande-bueno-pesimo` (economía del capital reinvertido: el gran
+  negocio —See's— crece sin devorar capital; el bueno —FlightSafety, utilities— exige reinversión;
+  el pésimo —aerolíneas— engulle capital y no gana; las tres cuentas de ahorro).
+- **Páginas enriquecidas:** `ventaja-competitiva` (+2007: el foso debe ser duradero, no
+  reconstruible sin cesar, ni depender de una estrella; "Roman Candles"; Mayo Clinic),
+  `emitir-acciones-solo-a-su-valor` (+2007: Dexter cuantificado —400 M → 3.500 M por pagar con
+  acciones—, su peor operación), `errores-de-omision` (+2007: rechazar la estación de TV
+  Dallas-Fort Worth, negocio "tipo See's", >1.000 M perdidos).
+- **No filado:** "helpers / passive must win" ya en `hiperactividad-del-mercado` (Gotrocks 2005);
+  opciones-expensing y supuestos de pensiones = `candor`/`owner-earnings`; derivados (uso
+  disciplinado: hold the money, sin riesgo de contraparte) y divisas/déficit, macro/operativo.
+- **Estado:** borrador (todas las tocadas).

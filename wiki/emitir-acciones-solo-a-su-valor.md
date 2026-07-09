@@ -1,7 +1,7 @@
 ---
 concepto: Emitir acciones solo a su valor
 domain: valoracion
-years: [1982, 1994, 1997]
+years: [1982, 1994, 1997, 2007]
 estado: borrador
 actualizado: 2026-07-09
 ---
@@ -60,6 +60,14 @@ o si la unión genera más que la suma de las partes.
 > overvalued relative to the acquiree's or b) the two enterprises will earn more combined than
 > they would separately." — 1997
 
+En 2007 cuantifica el error con Dexter, su peor operación: pagar un negocio —que resultó sin
+valor— con acciones de un negocio maravilloso convirtió una pérdida de 400 M en una de 3.500 M.
+
+> "I made an even worse mistake when I said 'yes' to Dexter... By using Berkshire stock, I
+> compounded this error hugely. That move made the cost to Berkshire shareholders not $400
+> million, but rather $3.5 billion. In essence, I gave away 1.6% of a wonderful business... to buy
+> a worthless business." — 2007
+
 ## Relacionados
 - [[locura-de-las-adquisiciones]] — la sed de tamaño que empuja a estas emisiones.
 - [[recompra-de-acciones]] — la cara inversa: recomprar cuando se cotiza bajo el valor.
@@ -69,3 +77,4 @@ o si la unión genera más que la suma de las partes.
 - 1982
 - 1994
 - 1997
+- 2007

@@ -24,7 +24,7 @@ _Páginas de la wiki agrupadas por `domain`. Se actualiza con cada ingesta._
 - [El imperativo institucional](wiki/imperativo-institucional.md) — la fuerza invisible que
   marchita la racionalidad de los gestores; imitación, inercia, gasto por gastar. `[1989, 1990, 2003]`
 - [Errores de omisión](wiki/errores-de-omision.md) — los peores errores son los invisibles: no
-  comprar lo que se entendía y era atractivo (chuparse el pulgar). `[1991]`
+  comprar lo que se entendía y era atractivo (chuparse el pulgar). `[1991, 2007]`
 
 ## riesgo
 - [Volatilidad y venta forzada](wiki/volatilidad-y-venta-forzada.md) — la volatilidad
@@ -54,7 +54,7 @@ _Páginas de la wiki agrupadas por `domain`. Se actualiza con cada ingesta._
 - [Buen negocio a precio justo](wiki/buen-negocio-a-precio-justo.md) — los turnarounds rara
   vez giran; mejor buen negocio a precio justo que malo a precio de ganga. `[1979, 1980, 1989]`
 - [Ventaja competitiva duradera](wiki/ventaja-competitiva.md) — una ventaja importante y
-  difícil de duplicar (GEICO, bajo coste) unida a buena gestión; el foso. `[1980, 1982, 1986, 1993, 1995, 2005]`
+  difícil de duplicar (GEICO, bajo coste) unida a buena gestión; el foso. `[1980, 1982, 1986, 1993, 1995, 2005, 2007]`
 - [Contra el mercado eficiente](wiki/contra-el-mercado-eficiente.md) — precio y valor
   divergen; la ventaja es la actitud, no el pronóstico (Washington Post). `[1985, 1988, 1992]`
 - [Incentivos alineados](wiki/incentivos-alineados.md) — las opciones premian retener, no
@@ -67,6 +67,8 @@ _Páginas de la wiki agrupadas por `domain`. Se actualiza con cada ingesta._
   tolera mala gestión; el negocio puede morir por ella. `[1991, 1995, 2006]`
 - [Predecibilidad (los Inevitables)](wiki/predecibilidad.md) — preferir la certeza de un buen
   resultado a la esperanza de uno grande; negocios que apenas cambian. `[1996]`
+- [El gran negocio, el bueno y el pésimo](wiki/negocio-grande-bueno-pesimo.md) — clasificar por la
+  economía del capital: el gran negocio crece sin devorar capital; el pésimo lo engulle. `[2007]`
 
 ## valoracion
 - [Beneficios retenidos de participadas](wiki/beneficios-retenidos-participadas.md) — la
@@ -76,7 +78,7 @@ _Páginas de la wiki agrupadas por `domain`. Se actualiza con cada ingesta._
 - [Retener o repartir](wiki/retener-o-repartir.md) — retener solo si el capital rinde más
   dentro que fuera; si no, repartir. `[1981, 1983, 1984]`
 - [Emitir acciones solo a su valor](wiki/emitir-acciones-solo-a-su-valor.md) — no emitir
-  acciones si no se recibe tanto valor intrínseco como el que se entrega. `[1982, 1994, 1997]`
+  acciones si no se recibe tanto valor intrínseco como el que se entrega. `[1982, 1994, 1997, 2007]`
 - [Valor intrínseco](wiki/valor-intrinseco.md) — lo que puede sacarse (flujos futuros
   descontados), no lo que se metió (valor contable). `[1983, 1992, 2000]`
 - [Owner earnings](wiki/owner-earnings.md) — beneficio real del dueño: (a) beneficio + (b)
