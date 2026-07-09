@@ -20,10 +20,9 @@ Toda afirmación de la wiki debe salir de una carta en `raw/`, con cita textual 
 
 ## Perfil del usuario (contexto general)
 Opera mercados de forma sistemática e intradía, con gestión de riesgo estructurada.
-Le interesa la disciplina y psicología de Buffett tanto como su stock-picking.
-Este perfil orienta qué dominios de las cartas priorizar en su cobertura:
-- Núcleo: psicología/disciplina, gestión de riesgo, modelos mentales/checklists.
-- Apoyo: casos de empresas y contabilidad como ilustración, no como fin en sí.
+Este perfil **no** prioriza dominios ni orienta la cobertura de la wiki.
+- Regla de proporcionalidad: extraer proporcionalmente a lo que cada carta enfatiza,
+  sin peso añadido por interés personal del usuario.
 Su aplicación está acotada por el bloque «Alcance del perfil» de abajo.
 
 ## Operaciones (flujo de trabajo)
