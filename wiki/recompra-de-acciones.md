@@ -1,9 +1,9 @@
 ---
 concepto: Recompra de acciones
 domain: valoracion
-years: [1980, 1984]
+years: [1980, 1984, 1999]
 estado: borrador
-actualizado: 2026-07-08
+actualizado: 2026-07-09
 ---
 
 # Recompra de acciones
@@ -47,6 +47,25 @@ acaba premiando.
 > management clearly demonstrates that it is given to actions that enhance the wealth of
 > shareholders, rather than to actions that expand management's domain." — 1984
 
+En 1999, con la recompra ya de moda, marca el reverso: solo tiene sentido con fondos sobrantes y
+con la acción por debajo del valor intrínseco (y habiendo dado al accionista la información para
+estimarlo). Recomprar por encima del valor perjudica al que se queda.
+
+> "There is only one combination of facts that makes it advisable for a company to repurchase its
+> shares: First, the company has available funds... beyond the near-term needs of the business
+> and, second, finds its stock selling in the market below its intrinsic value, conservatively-
+> calculated." — 1999
+
+> "the continuing shareholder is penalized by repurchases above intrinsic value. Buying dollar
+> bills for $1.10 is not good business for those who stick around." — 1999
+
+Y denuncia los motivos espurios: recomprar para inflar o sostener la cotización, o para compensar
+opciones ejercidas —un "compra caro, vende barato" involuntario.
+
+> "companies say they are repurchasing shares to offset the shares issued when stock options
+> granted at much lower prices are exercised. This 'buy high, sell low' strategy is one many
+> unfortunate investors have employed -- but never intentionally!" — 1999
+
 ## Relacionados
 - [[beneficios-retenidos-participadas]] — la recompra es uno de los mejores usos del
   beneficio retenido.
@@ -55,3 +74,4 @@ acaba premiando.
 ## Cartas fuente
 - 1980
 - 1984
+- 1999

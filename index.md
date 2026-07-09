@@ -72,7 +72,7 @@ _Páginas de la wiki agrupadas por `domain`. Se actualiza con cada ingesta._
 - [Beneficios retenidos de participadas](wiki/beneficios-retenidos-participadas.md) — la
   parte no distribuida es valor real para el accionista si se reinvierte bien. `[1978, 1979, 1980, 1991]`
 - [Recompra de acciones](wiki/recompra-de-acciones.md) — recomprar por debajo del valor
-  intrínseco es de los mejores usos del capital. `[1980, 1984]`
+  intrínseco es de los mejores usos del capital. `[1980, 1984, 1999]`
 - [Retener o repartir](wiki/retener-o-repartir.md) — retener solo si el capital rinde más
   dentro que fuera; si no, repartir. `[1981, 1983, 1984]`
 - [Emitir acciones solo a su valor](wiki/emitir-acciones-solo-a-su-valor.md) — no emitir
@@ -88,7 +88,7 @@ _Páginas de la wiki agrupadas por `domain`. Se actualiza con cada ingesta._
 - [Retorno sobre el capital, no BPA](wiki/roe-vs-beneficio-por-accion.md) — juzgar por la
   tasa sobre el capital, no por el crecimiento del beneficio por acción. `[1979]`
 - [Goodwill económico](wiki/goodwill-economico.md) — valor capitalizado del exceso de
-  retorno sobre los activos tangibles; franquicia con el consumidor. `[1983, 1985, 1991, 1994]`
+  retorno sobre los activos tangibles; franquicia con el consumidor. `[1983, 1985, 1991, 1994, 1999]`
 
 ## casos
 - [Float (flotante del seguro)](wiki/float.md) — dinero que se retiene pero no se posee;

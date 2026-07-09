@@ -1,7 +1,7 @@
 ---
 concepto: Goodwill económico
 domain: contabilidad
-years: [1983, 1985, 1991, 1994]
+years: [1983, 1985, 1991, 1994, 1999]
 estado: borrador
 actualizado: 2026-07-09
 ---
@@ -73,6 +73,16 @@ libros a menos de la mitad, el valor intrínseco del negocio crecía.
 > of the business has consistently grown, even though we have just as consistently marked down
 > its carrying value through purchase-premium charges." — 1994
 
+En 1999 remata la distinción: a diferencia de la depreciación —que sí refleja un deterioro real—,
+la amortización del goodwill choca con la realidad, porque el goodwill económico no suele menguar.
+Como la tierra, tiende a crecer con el tiempo (en See's lleva 78 años haciéndolo).
+
+> "economic goodwill does not, in many cases, diminish. Indeed, in a great many instances --
+> perhaps most -- it actually grows in value over time. In character, economic goodwill is much
+> like land: The value of both assets is sure to fluctuate, but the direction in which value is
+> going to go is in no way ordained. At See's, for example, economic goodwill has grown, in an
+> irregular but very substantial manner, for 78 years." — 1999
+
 ## Relacionados
 - [[ventaja-competitiva]] — la franquicia con el consumidor es la fuente del goodwill.
 - [[valor-intrinseco]] — el goodwill económico es parte del valor intrínseco no contable.
@@ -83,3 +93,4 @@ libros a menos de la mitad, el valor intrínseco del negocio crecía.
 - 1985
 - 1991
 - 1994
+- 1999

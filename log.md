@@ -372,3 +372,17 @@ _Registro append-only. Prefijo por entrada: `## [YYYY-MM-DD] <op> | <detalle>`
   (General Re) ya en `riesgo-no-es-volatilidad`; el mandato al gestor (dirigir como dueño a 100
   años) y las adquisiciones GEICO/EJA/General Re son operativos.
 - **Estado:** borrador.
+
+## [2026-07-09] ingest | re-pase carta 1999 (lectura completa)
+- **Fuente:** `raw/1999.pdf` (una de las menos leídas en su día).
+- **Páginas creadas:** ninguna.
+- **Páginas enriquecidas:** `recompra-de-acciones` (+1999: las dos condiciones estrictas; recomprar
+  por encima del valor daña al que se queda, "dollar bills for $1.10"; crítica de recomprar para
+  inflar el precio o compensar opciones), `goodwill-economico` (+1999: el goodwill económico crece
+  como la tierra —See's 78 años—; su amortización choca con la realidad, a diferencia de la
+  depreciación).
+- **No duplicado:** "comfortable business at questionable price" = el 1989 de `buen-negocio-a-precio-
+  justo`; el círculo/tech ("no insights into which tech participants have durable advantage") ya en
+  `circulo-de-competencia` (1999); look-through ya cubierto. La cautela sobre el nivel del mercado
+  (retornos atados al PIB) queda fuera —es una llamada macro puntual, no un principio transferible.
+- **Estado:** borrador (ambas).
