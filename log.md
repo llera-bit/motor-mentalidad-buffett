@@ -600,3 +600,20 @@ _Registro append-only. Prefijo por entrada: `## [YYYY-MM-DD] <op> | <detalle>`
   y Cartas fuente sin cita en el cuerpo. Detectado y corregido antes del commit (es el fallo que
   `check_years.py` existe para atrapar).
 - **Estado:** borrador.
+
+## [2026-07-09] ingest | carta 2017 (lectura completa)
+- **Fuente:** `raw/2017.pdf`
+- **Páginas creadas:** ninguna.
+- **Páginas enriquecidas:** `volatilidad-y-venta-forzada` (+2017: la tabla de las cuatro caídas de
+  Berkshire —59%, 37%, 49%, 51%—; el mecanismo psicológico: aunque la deuda sea pequeña, "an
+  unsettled mind will not make good decisions"; "the light can go from green to red without pausing
+  at yellow"; la caída premia al que no debe nada), `riesgo-no-es-volatilidad` (+2017: el riesgo
+  depende del **horizonte** —a un día la acción es más arriesgada; a largo plazo, menos que el
+  bono—; medir el riesgo por la proporción de bonos es un error grave).
+- **No duplicado:** la máquina de votar/pesar (2017) ya está en `mr-market` (1993); la definición de
+  invertir y de riesgo por poder adquisitivo, en `tres-categorias-de-activos` (2011); la nueva norma
+  GAAP que vuelve "inútil" el beneficio neto reformula `owner-earnings` (1986, "accounting is but an
+  aid") y `candor` (1998) —no aporta idea nueva—; "aversion to leverage... we sleep well" duplica
+  `fortaleza` (2008).
+- **Evolución:** sin disparador en 2017.
+- **Estado:** sin cambios (volatilidad-y-venta-forzada sigue pendiente).

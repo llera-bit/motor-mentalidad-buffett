@@ -1,7 +1,7 @@
 ---
 concepto: Volatilidad y venta forzada
 domain: riesgo
-years: [1987, 2014]
+years: [1987, 2014, 2017]
 estado: pendiente
 actualizado: 2026-07-09
 ---
@@ -51,6 +51,23 @@ La deuda es precisamente el mecanismo que convierte la volatilidad en venta forz
 > a satisfactory holding for investors. But it could well be a disastrous choice for speculators
 > employing leverage." — 2014
 
+En 2017 tabula esas cuatro caídas (−59%, −37%, −49%, −51%) y afina el mecanismo: la venta forzada
+no siempre la impone el acreedor. Basta con que la deuda te desordene la cabeza.
+
+> "This table offers the strongest argument I can muster against ever using borrowed money to own
+> stocks... Even if your borrowings are small and your positions aren't immediately threatened by
+> the plunging market, your mind may well become rattled by scary headlines and breathless
+> commentary. And an unsettled mind will not make good decisions." — 2017
+
+Porque nunca hay aviso previo.
+
+> "The light can at any time go from green to red without pausing at yellow." — 2017
+
+Y ahí está el premio del que no debe nada.
+
+> "When major declines occur, however, they offer extraordinary opportunities to those who are not
+> handicapped by debt." — 2017
+
 ## Relacionados
 - [[mr-market]] — la fuente de las oscilaciones de precio que aquí se convierten en
   riesgo solo bajo venta forzada.
@@ -60,3 +77,4 @@ La deuda es precisamente el mecanismo que convierte la volatilidad en venta forz
 ## Cartas fuente
 - 1987
 - 2014
+- 2017

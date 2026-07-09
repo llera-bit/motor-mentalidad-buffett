@@ -28,7 +28,7 @@ _Páginas de la wiki agrupadas por `domain`. Se actualiza con cada ingesta._
 
 ## riesgo
 - [Volatilidad y venta forzada](wiki/volatilidad-y-venta-forzada.md) — la volatilidad
-  solo daña si te obliga a vender (presión financiera o psicológica); la deuda es el mecanismo. `[1987, 2014]`
+  solo daña si te obliga a vender (presión financiera o psicológica); la deuda es el mecanismo. `[1987, 2014, 2017]`
 - [Inflación, enemigo del inversor](wiki/inflacion-enemigo-del-inversor.md) — la inflación
   puede volver negativo el retorno real; índice de miseria; recelo de los bonos largos. `[1979, 1980, 1981]`
 - [Fortaleza financiera y liquidez](wiki/fortaleza-financiera-y-liquidez.md) — liquidez y
@@ -36,7 +36,7 @@ _Páginas de la wiki agrupadas por `domain`. Se actualiza con cada ingesta._
 - [Margen de seguridad](wiki/margen-de-seguridad.md) — comprar solo con holgura entre valor y
   precio; piedra angular (Graham). `[1990, 1992]`
 - [El riesgo no es la volatilidad](wiki/riesgo-no-es-volatilidad.md) — riesgo = posibilidad de
-  pérdida de poder adquisitivo, no beta; un activo que no fluctúa puede estar cargado de riesgo. `[1990, 1993, 2008, 2011, 2014]`
+  pérdida de poder adquisitivo, no beta; depende del horizonte, no de la volatilidad. `[1990, 1993, 2008, 2011, 2014, 2017]`
 - [Principios de suscripción](wiki/principios-de-suscripcion.md) — solo riesgos que sabes
   evaluar; limitar la agregación/correlación; evitar riesgo moral; exposición, no experiencia;
   la cuarta disciplina: saber retirarse. `[1997, 2001, 2002, 2010]`

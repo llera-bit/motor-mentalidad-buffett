@@ -1,7 +1,7 @@
 ---
 concepto: El riesgo no es la volatilidad
 domain: riesgo
-years: [1990, 1993, 2008, 2011, 2014]
+years: [1990, 1993, 2008, 2011, 2014, 2017]
 estado: borrador
 actualizado: 2026-07-09
 ---
@@ -80,6 +80,18 @@ conducta del inversor.
 > unnecessary fees to managers and advisors, and the use of borrowed money can destroy the decent
 > returns that a life-long owner of equities would otherwise enjoy." — 2014
 
+En 2017 introduce la variable que lo ordena todo: el **horizonte**. A un día, la acción es más
+arriesgada que el bono; a treinta años, lo contrario. Por eso medir el riesgo de una cartera por su
+proporción de bonos es un error grave.
+
+> "in any upcoming day, week or even year, stocks will be riskier - far riskier - than short-term
+> U.S. bonds. As an investor's investment horizon lengthens, however, a diversified portfolio of
+> U.S. equities becomes progressively less risky than bonds." — 2017
+
+> "It is a terrible mistake for investors with long-term horizons... to measure their investment
+> 'risk' by their portfolio's ratio of bonds to stocks. Often, high-grade bonds in an investment
+> portfolio increase its risk." — 2017
+
 ## Relacionados
 - [[tres-categorias-de-activos]] — el marco donde este riesgo se hace visible: el bono "seguro".
 - [[volatilidad-y-venta-forzada]] — la volatilidad solo daña si te obliga a vender.
@@ -93,3 +105,4 @@ conducta del inversor.
 - 2008
 - 2011
 - 2014
+- 2017
