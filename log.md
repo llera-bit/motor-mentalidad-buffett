@@ -569,3 +569,15 @@ _Registro append-only. Prefijo por entrada: `## [YYYY-MM-DD] <op> | <detalle>`
   (2007/2009); See's como gran negocio en `negocio-grande-bueno-pesimo` (2007); "market forecasters
   will fill your ear but never your wallet" reformula `no-predecir-el-mercado`.
 - **Estado:** borrador salvo `volatilidad-y-venta-forzada` (pendiente).
+
+## [2026-07-09] ingest | carta 2015 (lectura completa)
+- **Fuente:** `raw/2015.pdf`
+- **Páginas creadas:** ninguna.
+- **Páginas enriquecidas:** `float` (+2015: el float es un **fondo rotatorio**, no una deuda; deber
+  1 $ que nunca sale de casa no es lo mismo que deber 1 $ que vence mañana, y GAAP los iguala).
+- **Carta ligera, y consta:** la pieza mayor de 2015, "Productivity and Prosperity", es un ensayo
+  macroeconómico y social (ganancias de productividad y sus dislocaciones humanas). Queda fuera de
+  la taxonomía del cerebro; no se fila. La "flexibilidad de asignación de capital" duplica el 2010
+  de `coste-de-oportunidad`; "un negocio excelente a precio demasiado alto es mala inversión"
+  duplica `recompra-de-acciones` (2011) y `buen-negocio-a-precio-justo`.
+- **Estado:** borrador.

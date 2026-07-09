@@ -1,7 +1,7 @@
 ---
 concepto: Float (flotante del seguro)
 domain: casos
-years: [1990, 1995, 1997, 1998]
+years: [1990, 1995, 1997, 1998, 2015]
 estado: borrador
 actualizado: 2026-07-09
 ---
@@ -59,6 +59,16 @@ no es el tamaño del float sino su coste; si sube demasiado, crecer se vuelve un
 > "what really counts is the cost of this item. If that becomes too high, growth in float
 > becomes a curse rather than a blessing." — 1998
 
+En 2015 explica por qué la contabilidad se equivoca al tratarlo como una deuda cualquiera: el float
+es un **fondo rotatorio**. Cada día se pagan siniestros viejos y se suscriben pólizas nuevas que los
+reemplazan; el dólar que se debe nunca sale, de hecho, de casa.
+
+> "to think of float as strictly a liability is incorrect. It should instead be viewed as a
+> revolving fund... Owing $1 that in effect will never leave the premises - because new business is
+> almost certain to deliver a substitute - is worlds different from owing $1 that will go out the
+> door tomorrow and not be replaced. The two types of liabilities, however, are treated as equals
+> under GAAP." — 2015
+
 ## Relacionados
 - [[disciplina-de-no-actuar]] — la disciplina de suscripción es lo que mantiene barato el float.
 - [[fortaleza-financiera-y-liquidez]] — bien gestionado potencia la fortaleza; mal gestionado la amenaza.
@@ -69,3 +79,4 @@ no es el tamaño del float sino su coste; si sube demasiado, crecer se vuelve un
 - 1995
 - 1997
 - 1998
+- 2015

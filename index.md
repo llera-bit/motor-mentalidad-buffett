@@ -99,4 +99,4 @@ _Páginas de la wiki agrupadas por `domain`. Se actualiza con cada ingesta._
 
 ## casos
 - [Float (flotante del seguro)](wiki/float.md) — dinero que se retiene pero no se posee;
-  crea valor si su coste es menor que el de otros fondos. `[1990, 1995, 1997, 1998]`
+  crea valor si su coste es menor que el de otros fondos; es un fondo rotatorio, no una deuda. `[1990, 1995, 1997, 1998, 2015]`
