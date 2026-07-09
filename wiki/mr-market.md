@@ -1,7 +1,7 @@
 ---
 concepto: Mr. Market
 domain: psicologia
-years: [1987, 1993]
+years: [1987, 1993, 1997]
 estado: pendiente
 actualizado: 2026-07-09
 ---
@@ -66,6 +66,17 @@ acción a finales de 1993.
 > requires only money, not intelligence or emotional stability - but in the long-run, the market
 > is a weighing machine." — 1993 (Buffett citando a Ben Graham)
 
+De ahí se sigue una actitud práctica ante las caídas: si vas a seguir comprando, deberías desear
+precios bajos, igual que quien comerá hamburguesas toda la vida —sin ser ganadero— prefiere que
+baje la carne.
+
+> "If you expect to be a net saver during the next five years, should you hope for a higher or
+> lower stock market during that period? Many investors get this one wrong... Prospective
+> purchasers should much prefer sinking prices." — 1997
+
+> "So smile when you read a headline that says 'Investors lose as market falls.' Edit it in your
+> mind to 'Disinvestors lose as market falls -- but investors gain.'" — 1997
+
 ## Relacionados
 - [[volatilidad-y-venta-forzada]] — el mecanismo por el que las emociones del mercado
   llegan a dañarte: la venta forzada.
@@ -75,3 +86,4 @@ acción a finales de 1993.
 ## Cartas fuente
 - 1987
 - 1993
+- 1997

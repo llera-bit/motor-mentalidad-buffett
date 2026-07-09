@@ -1,9 +1,9 @@
 ---
 concepto: Principios de suscripción (riesgo)
 domain: riesgo
-years: [2001, 2002]
+years: [1997, 2001, 2002]
 estado: borrador
-actualizado: 2026-07-08
+actualizado: 2026-07-09
 ---
 
 # Principios de suscripción (riesgo)
@@ -43,11 +43,23 @@ correlaciones ocultas afloran justo en la crisis.
 > "History teaches us that a crisis often causes problems to correlate in a manner undreamed of
 > in more tranquil times." — 2002
 
+Ya en 1997 lo había ilustrado con un ejemplo de dados: quien cobra 1 M al año por pagar 50 M si
+sale un 12 (probabilidad 1/36) está cobrando de menos, pero puede pasar una década sin desembolsar
+un dólar —y aun así acabar arruinado—. La ausencia de pérdidas no valida el precio. Y el "experto"
+que asesora el riesgo cobra por adelantado, acierte o no.
+
+> "There is actually a 75.4% probability that you would go for a decade without paying out a
+> dime. Eventually, however, you would go broke." — 1997
+
+> "The expert puts no money on the table. Instead, he receives an up-front payment that is
+> forever his no matter how inaccurate his predictions." — 1997
+
 ## Relacionados
 - [[riesgo-no-es-volatilidad]] — el riesgo real es la pérdida, no la volatilidad.
 - [[circulo-de-competencia]] — el principio 1: solo lo que sabes evaluar.
 - [[fortaleza-financiera-y-liquidez]] — limitar la exposición preserva la solvencia.
 
 ## Cartas fuente
+- 1997
 - 2001
 - 2002

@@ -347,3 +347,16 @@ _Registro append-only. Prefijo por entrada: `## [YYYY-MM-DD] <op> | <detalle>`
   están en `holding-para-siempre`; el moat de GEICO y el círculo definitivo (1996) ya en sus
   páginas; float 1996 y "lumpy 15%" ya cubiertos.
 - **Estado:** borrador (todas).
+
+## [2026-07-09] ingest | re-pase carta 1997 (lectura completa)
+- **Fuente:** `raw/1997.pdf`
+- **Páginas creadas:** ninguna.
+- **Páginas enriquecidas:** `mr-market` (+1997: la analogía de la hamburguesa; el ahorrador neto
+  debería querer precios bajos; "disinvestors lose, investors gain"), `emitir-acciones-solo-a-su-
+  valor` (+1997: la "Confesión" —emitir acciones costó dinero; ceder un bateador de .380; las dos
+  condiciones para pagar prima), `disciplina-de-no-actuar` (+1997: al inversor no le cantan
+  strikes; la paciencia no se penaliza), `principios-de-suscripcion` (+1997: el ejemplo de los
+  dados —la ausencia de pérdidas no valida el precio; el experto sin dinero en la mesa).
+- **No duplicado:** "cheery consensus / optimism is the enemy of the rational buyer" ya en
+  `miedo-y-codicia` (1990); float 1997 y el círculo/criterios ya cubiertos.
+- **Estado:** sin cambios de estado (mr-market y disciplina siguen pendientes; el resto borrador).

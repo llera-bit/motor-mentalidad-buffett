@@ -1,7 +1,7 @@
 ---
 concepto: Emitir acciones solo a su valor
 domain: valoracion
-years: [1982, 1994]
+years: [1982, 1994, 1997]
 estado: borrador
 actualizado: 2026-07-09
 ---
@@ -44,6 +44,22 @@ adquirente típico entrega más valor del que recibe.
 > "the acquirer typically gives up more intrinsic value than it receives. Do that enough... and
 > 'you are running a chain letter in reverse.'" — 1994 (Buffett citando a John Medlin)
 
+En 1997 lo confiesa sin adornos: sus fusiones pagadas con acciones han costado dinero a los
+accionistas, porque entregar parte de un negocio excelente casi nunca compensa. Es como fichar a
+un bateador de .350 cediendo a cambio uno de .380.
+
+> "when I've issued stock, I've cost you money... trading away a portion of them for something
+> new almost never makes sense... For a baseball team, acquiring a player who can be expected to
+> bat .350 is almost always a wonderful event -- except when the team must trade a .380 hitter to
+> make the deal." — 1997
+
+Y da la regla general: pagar una prima solo tiene sentido si la acción propia está sobrevalorada
+o si la unión genera más que la suma de las partes.
+
+> "Paying a takeover premium does not make sense for any acquirer unless a) its stock is
+> overvalued relative to the acquiree's or b) the two enterprises will earn more combined than
+> they would separately." — 1997
+
 ## Relacionados
 - [[locura-de-las-adquisiciones]] — la sed de tamaño que empuja a estas emisiones.
 - [[recompra-de-acciones]] — la cara inversa: recomprar cuando se cotiza bajo el valor.
@@ -52,3 +68,4 @@ adquirente típico entrega más valor del que recibe.
 ## Cartas fuente
 - 1982
 - 1994
+- 1997

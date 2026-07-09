@@ -4,9 +4,9 @@ _Páginas de la wiki agrupadas por `domain`. Se actualiza con cada ingesta._
 
 ## psicologia
 - [Mr. Market](wiki/mr-market.md) — el mercado te da precios, no juicio; sírvete de su
-  bolsillo, no de su sabiduría. `[1987, 1993]`
+  bolsillo, no de su sabiduría. `[1987, 1993, 1997]`
 - [Disciplina de no actuar](wiki/disciplina-de-no-actuar.md) — aceptar menos volumen
-  antes que operar a precios malos; esperar la pelota en la "zona feliz". `[1977, 1979, 1984, 1994, 1996]`
+  antes que operar a precios malos; esperar la pelota en la "zona feliz". `[1977, 1979, 1984, 1994, 1996, 1997]`
 - [No predecir el mercado](wiki/no-predecir-el-mercado.md) — nadie puede predecir el
   precio a corto plazo; ignorar la macro; orientación al largo plazo del negocio. `[1978, 1980, 1992, 1994]`
 - [La locura de las adquisiciones](wiki/locura-de-las-adquisiciones.md) — espíritus
@@ -38,7 +38,7 @@ _Páginas de la wiki agrupadas por `domain`. Se actualiza con cada ingesta._
 - [El riesgo no es la volatilidad](wiki/riesgo-no-es-volatilidad.md) — riesgo = posibilidad de
   pérdida de poder adquisitivo, no beta; cinco factores. `[1990, 1993]`
 - [Principios de suscripción](wiki/principios-de-suscripcion.md) — solo riesgos que sabes
-  evaluar; limitar la agregación/correlación; evitar riesgo moral; exposición, no experiencia. `[2001, 2002]`
+  evaluar; limitar la agregación/correlación; evitar riesgo moral; exposición, no experiencia. `[1997, 2001, 2002]`
 - [Derivados](wiki/derivados.md) — bombas de relojería; riesgo de contraparte, mark-to-myth,
   linkage sistémico; "armas financieras de destrucción masiva". `[2002]`
 
@@ -76,7 +76,7 @@ _Páginas de la wiki agrupadas por `domain`. Se actualiza con cada ingesta._
 - [Retener o repartir](wiki/retener-o-repartir.md) — retener solo si el capital rinde más
   dentro que fuera; si no, repartir. `[1981, 1983, 1984]`
 - [Emitir acciones solo a su valor](wiki/emitir-acciones-solo-a-su-valor.md) — no emitir
-  acciones si no se recibe tanto valor intrínseco como el que se entrega. `[1982, 1994]`
+  acciones si no se recibe tanto valor intrínseco como el que se entrega. `[1982, 1994, 1997]`
 - [Valor intrínseco](wiki/valor-intrinseco.md) — lo que puede sacarse (flujos futuros
   descontados), no lo que se metió (valor contable). `[1983, 1992, 2000]`
 - [Owner earnings](wiki/owner-earnings.md) — beneficio real del dueño: (a) beneficio + (b)

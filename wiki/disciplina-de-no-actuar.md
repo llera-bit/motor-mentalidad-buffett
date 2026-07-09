@@ -1,9 +1,9 @@
 ---
 concepto: Disciplina de no actuar
 domain: psicologia
-years: [1977, 1979, 1984, 1994, 1996]
+years: [1977, 1979, 1984, 1994, 1996, 1997]
 estado: pendiente
-actualizado: 2026-07-08
+actualizado: 2026-07-09
 ---
 
 # Disciplina de no actuar
@@ -60,6 +60,14 @@ participaciones minoritarias?
 
 > "We continue to make more money when snoring than when active." — 1996
 
+En 1997, con los precios altos, añade la asimetría que hace posible esa paciencia: a diferencia
+del bateador, al inversor no le cantan strikes por dejar pasar pelotas. No hay penalización por
+esperar (aunque reconoce que quedarse quieto tampoco es divertido).
+
+> "Unlike Ted, we can't be called out if we resist three pitches that are barely in the strike
+> zone; nevertheless, just standing there, day after day, with my bat on my shoulder is not my
+> idea of fun." — 1997
+
 ## Relacionados
 - [[criterios-de-seleccion]] — el filtro de precio que esta disciplina hace cumplir.
 - [[mr-market]] — ignorar al mercado cuando su oferta no interesa (1987).
@@ -70,3 +78,4 @@ participaciones minoritarias?
 - 1984
 - 1994
 - 1996
+- 1997
