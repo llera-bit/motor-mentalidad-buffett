@@ -581,3 +581,22 @@ _Registro append-only. Prefijo por entrada: `## [YYYY-MM-DD] <op> | <detalle>`
   de `coste-de-oportunidad`; "un negocio excelente a precio demasiado alto es mala inversión"
   duplica `recompra-de-acciones` (2011) y `buen-negocio-a-precio-justo`.
 - **Estado:** borrador.
+
+## [2026-07-09] ingest | carta 2016 (lectura completa)
+- **Fuente:** `raw/2016.pdf` ("The Bet").
+- **Páginas creadas:** ninguna.
+- **Páginas enriquecidas:** `hiperactividad-del-mercado` (+2016: la aritmética irrefutable —activos y
+  pasivos poseen el mismo mercado, luego rinden igual antes de costes; gana el de menor coste—; la
+  apuesta a 10 años como prueba empírica; el ~60% de las ganancias desviado a los gestores; "Fees
+  never sleep").
+- **No duplicado:** "washtubs, not teaspoons" (2016) es la **misma metáfora** que "a bucket, not a
+  thimble" ya filada en `miedo-y-codicia` (2009): no se duplica. Los mil monos que aciertan reformulan
+  los lanzadores de moneda de `valor-y-crecimiento` (2013); el fondo índice en `circulo-de-competencia`.
+- **Evolución (no se dispara):** Apple aparece en 2016 **solo en la tabla de posiciones**, sin una
+  sola línea que discuta la tensión con "no invierto en tecnología" (1999/2007). Por la regla de rigor,
+  lo que no está en las cartas no se escribe: no hay contradicción textual que registrar. Sigo vigilando
+  2017–2024.
+- **Incidente de proceso:** un Edit de cuerpo falló por ancla desajustada dejando `2016` en frontmatter
+  y Cartas fuente sin cita en el cuerpo. Detectado y corregido antes del commit (es el fallo que
+  `check_years.py` existe para atrapar).
+- **Estado:** borrador.

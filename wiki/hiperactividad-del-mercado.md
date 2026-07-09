@@ -1,9 +1,9 @@
 ---
 concepto: Hiperactividad del mercado
 domain: psicologia
-years: [1983, 1986, 2004, 2005]
+years: [1983, 1986, 2004, 2005, 2016]
 estado: borrador
-actualizado: 2026-07-08
+actualizado: 2026-07-09
 ---
 
 # Hiperactividad del mercado
@@ -55,13 +55,35 @@ enriquece al ritmo de los beneficios de sus empresas... hasta que aparecen los "
 > the family's annual gain in wealth diminishes, equaling the earnings of American business minus
 > commissions paid... Activity is their friend." — 2005
 
+En 2016 lo reduce a aritmética irrefutable: activos y pasivos poseen entre todos el mismo mercado,
+luego ambos grupos obtienen la misma rentabilidad **antes** de costes. Gana quien tenga el coste
+más bajo. La inteligencia no salva de las comisiones.
+
+> "If Group A (active investors) and Group B (do-nothing investors) comprise the total investing
+> universe, and B is destined to achieve average results before costs, so, too, must A. Whichever
+> group has the lower costs will win." — 2016
+
+> "A number of smart people are involved in running hedge funds. But to a great extent their efforts
+> are self-neutralizing, and their IQ will not overcome the costs they impose on investors." — 2016
+
+Y lo prueba con su apuesta a diez años: en nueve años el fondo índice acumuló un 85,4% frente al
+2,2% anual medio de cinco fondos de hedge funds. Cerca del 60% de cuanto ganaron esos fondos acabó
+en manos de sus gestores.
+
+> "roughly 60% - gulp! - of all gains achieved by the five funds-of-funds were diverted to the two
+> levels of managers." — 2016
+
+> "As Gordon Gekko might have put it: 'Fees never sleep.'" — 2016
+
 ## Relacionados
 - [[no-predecir-el-mercado]] — la actividad no nace de información, sino de impaciencia.
 - [[analista-de-negocios]] — el foco en resultados del negocio, no en el precio.
 - [[holding-para-siempre]] — la cara opuesta: no rotar es lo que evita el impuesto.
+- [[circulo-de-competencia]] — el reconocer los límites lleva al fondo índice de bajo coste.
 
 ## Cartas fuente
 - 1983
 - 1986
 - 2004
 - 2005
+- 2016
