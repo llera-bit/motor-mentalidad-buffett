@@ -1,9 +1,9 @@
 ---
 concepto: El imperativo institucional
 domain: psicologia
-years: [1989, 1990, 2003]
+years: [1989, 1990, 2003, 2012]
 estado: borrador
-actualizado: 2026-07-08
+actualizado: 2026-07-09
 ---
 
 # El imperativo institucional
@@ -44,6 +44,17 @@ porque el "ambiente de sala de juntas" adormece sus genes fiduciarios.
 > bad people. They're not. But sadly, 'boardroom atmosphere' almost invariably sedates their
 > fiduciary genes." — 2003
 
+En 2012 nombra el mecanismo íntimo del imperativo: no se razona hacia la conclusión, se parte de
+la conclusión deseada y se construye la justificación hacia atrás. Y como el proceso es
+inconsciente, es imparable. Se incluye a sí mismo, con el negocio textil.
+
+> "The usual cause of failure is that they start with the answer they want and then work backwards
+> to find a supporting rationale. Of course, the process is subconscious; that's what makes it so
+> dangerous." — 2012
+
+> "I wanted the business to succeed and wished my way into a series of bad decisions... wishing
+> makes dreams come true only in Disney movies; it's poison in business." — 2012
+
 ## Relacionados
 - [[fallar-convencionalmente]] — el incentivo individual a imitar a la manada.
 - [[locura-de-las-adquisiciones]] — proyectos y compras que aparecen para gastar el dinero.
@@ -53,3 +64,4 @@ porque el "ambiente de sala de juntas" adormece sus genes fiduciarios.
 - 1989
 - 1990
 - 2003
+- 2012

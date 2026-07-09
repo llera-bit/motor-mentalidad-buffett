@@ -518,3 +518,20 @@ _Registro append-only. Prefijo por entrada: `## [YYYY-MM-DD] <op> | <detalle>`
   `mr-market` (1997); el impuesto invisible de la inflación ya en `inflacion-enemigo-del-inversor`
   (1980); la primacía de la fortaleza financiera en `fortaleza`; Lubrizol/BofA/IBM, operativo.
 - **Estado:** borrador (todas).
+
+## [2026-07-09] ingest | carta 2012 (lectura completa)
+- **Fuente:** `raw/2012.pdf`
+- **Páginas creadas:** ninguna.
+- **Páginas enriquecidas:** `retener-o-repartir` (+2012: la jerarquía de usos del capital y la
+  matemática del "sell-off" —más caja anual y más valor que el dividendo—; el dividendo impone una
+  política única a todos; ventaja fiscal), `franquicia-vs-negocio` (+2012: qué queda cuando la
+  franquicia se deshace —el foso residual de la comunidad cohesionada—; "even a valuable product can
+  self-destruct from a faulty business strategy"; solo se entra por precio), `imperativo-institucional`
+  (+2012: el mecanismo íntimo —partir de la respuesta deseada y razonar hacia atrás, de forma
+  inconsciente—; su propio caso textil, "wishing... is poison in business").
+- **Evolución (NO se dispara):** comprar 28 periódicos en 2012 **no** contradice el diagnóstico de
+  1991/2006. Buffett lo reafirma textualmente ("That prediction still holds") y compra solo el foso
+  residual, a múltiplo muy bajo. Registrado como refinamiento, no como contradicción.
+- **No duplicado:** "buying dollar bills for 80¢" ya en `recompra-de-acciones` (1999/2011); "water
+  the flowers, skip the weeds" es el Peter Lynch de `holding-para-siempre` (1988).
+- **Estado:** borrador (todas).

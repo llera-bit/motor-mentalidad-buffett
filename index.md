@@ -22,7 +22,7 @@ _Páginas de la wiki agrupadas por `domain`. Se actualiza con cada ingesta._
 - [Holding para siempre](wiki/holding-para-siempre.md) — el periodo de tenencia favorito es
   "para siempre"; si no lo tendrías 10 años, ni 10 minutos. `[1988, 1996, 1998]`
 - [El imperativo institucional](wiki/imperativo-institucional.md) — la fuerza invisible que
-  marchita la racionalidad de los gestores; imitación, inercia, gasto por gastar. `[1989, 1990, 2003]`
+  marchita la racionalidad de los gestores; imitación, inercia, razonar hacia atrás. `[1989, 1990, 2003, 2012]`
 - [Errores de omisión](wiki/errores-de-omision.md) — los peores errores son los invisibles: no
   comprar lo que se entendía y era atractivo (chuparse el pulgar). `[1991, 2007]`
 
@@ -65,7 +65,7 @@ _Páginas de la wiki agrupadas por `domain`. Se actualiza con cada ingesta._
 - [Círculo de competencia](wiki/circulo-de-competencia.md) — obstáculos de un palmo, no de
   dos metros; agnóstico fuera de lo que se entiende. `[1989, 1990, 1992, 1993, 1994, 1996, 1999]`
 - [Franquicia vs. negocio](wiki/franquicia-vs-negocio.md) — la franquicia (3 condiciones)
-  tolera mala gestión; el negocio puede morir por ella. `[1991, 1995, 2006]`
+  tolera mala gestión; el negocio puede morir por ella; qué queda cuando se deshace. `[1991, 1995, 2006, 2012]`
 - [Predecibilidad (los Inevitables)](wiki/predecibilidad.md) — preferir la certeza de un buen
   resultado a la esperanza de uno grande; negocios que apenas cambian. `[1996, 2009]`
 - [El gran negocio, el bueno y el pésimo](wiki/negocio-grande-bueno-pesimo.md) — clasificar por la
@@ -81,7 +81,7 @@ _Páginas de la wiki agrupadas por `domain`. Se actualiza con cada ingesta._
 - [Recompra de acciones](wiki/recompra-de-acciones.md) — recomprar por debajo del valor
   intrínseco es de los mejores usos del capital; lo listo a un precio es tonto a otro. `[1980, 1984, 1999, 2011]`
 - [Retener o repartir](wiki/retener-o-repartir.md) — retener solo si el capital rinde más
-  dentro que fuera; si no, repartir. `[1981, 1983, 1984]`
+  dentro que fuera; si no, repartir; la matemática del "sell-off" contra el dividendo. `[1981, 1983, 1984, 2012]`
 - [Emitir acciones solo a su valor](wiki/emitir-acciones-solo-a-su-valor.md) — no emitir
   acciones si no se recibe tanto valor intrínseco como el que se entrega. `[1982, 1994, 1997, 2007, 2009]`
 - [Valor intrínseco](wiki/valor-intrinseco.md) — lo que puede sacarse (flujos futuros

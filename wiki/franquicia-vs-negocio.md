@@ -1,7 +1,7 @@
 ---
 concepto: Franquicia vs. negocio
 domain: modelos-mentales
-years: [1991, 1995, 2006]
+years: [1991, 1995, 2006, 2012]
 estado: borrador
 actualizado: 2026-07-09
 ---
@@ -46,6 +46,25 @@ cualquier gestión, se degradan en meros negocios.
 > "fundamentals are definitely eroding in the newspaper industry, a trend that has caused the
 > profits of our Buffalo News to decline." — 2006
 
+En 2012 compra 28 periódicos —sin retractarse del diagnóstico— y precisa qué queda cuando una
+franquicia se deshace: un foso residual allí donde el producto sigue siendo insustituible.
+
+> "I have long told you... that the circulation, advertising and profits of the newspaper industry
+> overall are certain to decline. That prediction still holds." — 2012
+
+> "Wherever there is a pervasive sense of community, a paper that serves the special informational
+> needs of that community will remain indispensable to a significant portion of its residents." — 2012
+
+Con dos condiciones. Una: ni el mejor producto sobrevive a una estrategia suicida (regalar la
+edición digital mientras se cobra la de papel).
+
+> "Even a valuable product, however, can self-destruct from a faulty business strategy." — 2012
+
+Y otra: al negocio en declive solo se entra por precio.
+
+> "At appropriate prices - and that means at a very low multiple of current earnings - we will
+> purchase more papers of the type we like." — 2012
+
 ## Relacionados
 - [[ventaja-competitiva]] — el foso; la franquicia es su forma más fuerte.
 - [[vientos-a-favor-vs-en-contra]] — el negocio de materia prima vive de ser el de menor coste.
@@ -55,3 +74,4 @@ cualquier gestión, se degradan en meros negocios.
 - 1991
 - 1995
 - 2006
+- 2012

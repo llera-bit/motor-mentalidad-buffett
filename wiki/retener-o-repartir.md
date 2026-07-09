@@ -1,9 +1,9 @@
 ---
 concepto: Retener o repartir
 domain: valoracion
-years: [1981, 1983, 1984]
+years: [1981, 1983, 1984, 2012]
 estado: borrador
-actualizado: 2026-07-08
+actualizado: 2026-07-09
 ---
 
 # Retener o repartir
@@ -54,6 +54,28 @@ Y su corolario sobre la rendición de cuentas:
 > "If earnings have been unwisely retained, it is likely that managers, too, have been
 > unwisely retained." — 1984
 
+En 2012 ordena los usos del capital —reinvertir en el negocio, adquirir, recomprar, y solo
+entonces repartir— y demuestra con números por qué Berkshire no paga dividendo. Si el negocio
+rinde 12% sobre fondos propios y cotiza al 125% del valor contable, al accionista le va mejor
+vendiendo cada año un 3,2% de sus acciones ("sell-off") que cobrando un dividendo equivalente:
+acaba con más caja anual **y** más valor.
+
+> "Under this 'sell-off' scenario... the market value of your remaining shares would be
+> $2,804,425, about 4% greater than the value of your shares if we had followed the dividend
+> approach... you would have both more cash to spend annually and more capital value." — 2012
+
+Y dos razones más, ajenas a la aritmética. El dividendo impone a todos los dueños la misma
+política de caja; la venta parcial deja que cada uno elija la suya.
+
+> "dividends impose a specific cash-out policy upon all shareholders. If, say, 40% of earnings is
+> the policy, those who wish 30% or 50% will be thwarted... The sell-off alternative, on the other
+> hand, lets each shareholder make his own choice between cash receipts and capital build-up." — 2012
+
+Y los impuestos: el dividendo tributa entero; la venta, solo por la plusvalía.
+
+> "Under the dividend program, all of the cash received by shareholders each year is taxed whereas
+> the sell-off program results in tax on only the gain portion of the cash receipts." — 2012
+
 ## Relacionados
 - [[beneficios-retenidos-participadas]] — el valor del beneficio retenido depende del uso.
 - [[recompra-de-acciones]] — repartir vía recompra cuando cotiza bajo el valor intrínseco.
@@ -64,3 +86,4 @@ Y su corolario sobre la rendición de cuentas:
 - 1981
 - 1983
 - 1984
+- 2012
