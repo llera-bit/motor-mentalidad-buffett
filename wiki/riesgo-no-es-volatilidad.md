@@ -1,9 +1,9 @@
 ---
 concepto: El riesgo no es la volatilidad
 domain: riesgo
-years: [1993]
+years: [1990, 1993]
 estado: borrador
-actualizado: 2026-07-08
+actualizado: 2026-07-09
 ---
 
 # El riesgo no es la volatilidad
@@ -36,6 +36,17 @@ Para evaluarlo propone cinco factores, imprecisos pero útiles ("lo reconoces cu
 > the shareholders rather than to itself; 4) The purchase price of the business; 5) The levels
 > of taxation and inflation that will be experienced..." — 1993
 
+Ya en 1990 había extraído el corolario práctico: la irregularidad de los resultados no es un
+riesgo a evitar. Prefiere un retorno alto pero desigual a uno suave pero mediocre, y acepta que
+su negocio de super-catástrofes concentre el riesgo y arroje algún año pésimo, siempre que la
+expectativa a largo plazo lo compense.
+
+> "Charlie and I always have preferred a lumpy 15% return to a smooth 12%." — 1990
+
+> "we believe that Berkshire shareholders, if properly informed, can handle unusual volatility
+> in profits so long as the swings carry with them the prospect of superior long-term
+> results." — 1990
+
 ## Relacionados
 - [[volatilidad-y-venta-forzada]] — la volatilidad solo daña si te obliga a vender.
 - [[mr-market]] — el verdadero inversor da la bienvenida a la volatilidad.
@@ -43,4 +54,5 @@ Para evaluarlo propone cinco factores, imprecisos pero útiles ("lo reconoces cu
 - [[circulo-de-competencia]] — los factores 1-3 exigen entender el negocio.
 
 ## Cartas fuente
+- 1990
 - 1993

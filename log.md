@@ -254,3 +254,18 @@ _Registro append-only. Prefijo por entrada: `## [YYYY-MM-DD] <op> | <detalle>`
   al mejor gestor; "get into a good business"), `franquicia-vs-negocio` (+2006: los periódicos,
   antaño franquicias, se degradan en negocios — la predicción de 1991 cumpliéndose).
 - **Estado:** borrador salvo `vientos-a-favor-vs-en-contra` (pendiente).
+
+## [2026-07-09] ingest | re-pase carta 1990 (lectura completa)
+- **Motivo:** re-pase de las cartas 1990–2001, leídas en su día en fracciones, para rescatar
+  complementos que no se extrajeron. Sin duplicar contenido ya presente.
+- **Fuente:** `raw/1990.pdf`
+- **Páginas creadas:** ninguna.
+- **Páginas enriquecidas:** `float` (+1990: medir el coste por el ratio pérdida/float, no por el
+  combined ratio; "low cost = good business"; GEICO con coste negativo), `margen-de-seguridad`
+  (+1990: el motto de Graham en su origen, invocado contra la manía del apalancamiento),
+  `fortaleza-financiera-y-liquidez` (+1990: la daga en el volante; "plan que exige esquivar
+  todos los baches es un plan para el desastre"), `riesgo-no-es-volatilidad` (+1990: "lumpy 15%
+  vs smooth 12%"; aceptar resultados desiguales si la expectativa a largo plazo es superior),
+  `vientos-a-favor-vs-en-contra` (+1990: en un commodity, "impossible to be smarter than your
+  dumbest competitor").
+- **Estado:** sin cambios (borrador salvo `vientos-a-favor-vs-en-contra`, que sigue pendiente).

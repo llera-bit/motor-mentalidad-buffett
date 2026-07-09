@@ -1,9 +1,9 @@
 ---
 concepto: Margen de seguridad
 domain: riesgo
-years: [1992]
+years: [1990, 1992]
 estado: borrador
-actualizado: 2026-07-08
+actualizado: 2026-07-09
 ---
 
 # Margen de seguridad
@@ -17,10 +17,21 @@ un margen de seguridad en el precio de compra. Si el valor apenas supera al prec
 > interested in buying. We believe this margin-of-safety principle, so strongly emphasized by
 > Ben Graham, to be the cornerstone of investment success." — 1992
 
+El principio es de Graham. Ya en 1990, frente a la manía del apalancamiento que dejó pérdidas
+descomunales, Buffett lo invocó como las tres palabras que destilan toda la inversión sensata,
+tomadas del capítulo final de *The Intelligent Investor*.
+
+> "In the final chapter of The Intelligent Investor Ben Graham forcefully rejected the dagger
+> thesis: 'Confronted with a challenge to distill the secret of sound investment into three
+> words, we venture the motto, Margin of Safety.' Forty-two years after reading that, I still
+> think those are the right three words." — 1990
+
 ## Relacionados
 - [[valor-intrinseco]] — el margen se mide contra el valor intrínseco estimado.
 - [[circulo-de-competencia]] — la primera defensa contra el error; el margen es la segunda.
 - [[criterios-de-seleccion]] — el cuarto filtro (precio muy atractivo) es este margen.
+- [[fortaleza-financiera-y-liquidez]] — en 1990 el margen se invoca contra la manía de la deuda.
 
 ## Cartas fuente
+- 1990
 - 1992

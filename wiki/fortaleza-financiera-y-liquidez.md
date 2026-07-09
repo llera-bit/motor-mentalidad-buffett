@@ -1,9 +1,9 @@
 ---
 concepto: Fortaleza financiera y liquidez
 domain: riesgo
-years: [1980, 1983, 1989]
+years: [1980, 1983, 1989, 1990]
 estado: borrador
-actualizado: 2026-07-08
+actualizado: 2026-07-09
 ---
 
 # Fortaleza financiera y liquidez
@@ -47,11 +47,24 @@ con una gran posibilidad de retorno extra.
 > extra returns. If your actions are sensible, you are certain to get good results; in most
 > such cases, leverage just moves things along faster." — 1989
 
+En 1990, ante el colapso de los bonos basura, ridiculiza la tesis de que la deuda enorme
+disciplina al gestor: sería como montar una daga en el volante. El conductor iría atentísimo,
+pero un solo bache bastaría para matarlo, y los caminos del negocio están llenos de baches.
+
+> "Huge debt, we were told, would cause operating managers to focus their efforts as never
+> before, much as a dagger mounted on the steering wheel of a car could be expected to make its
+> driver proceed with intensified care... But another certain consequence would be a deadly -
+> and unnecessary - accident if the car hit even the tiniest pothole or sliver of ice. The
+> roads of business are riddled with potholes; a plan that requires dodging them all is a plan
+> for disaster." — 1990
+
 ## Relacionados
 - [[disciplina-de-no-actuar]] — la liquidez permite esperar sin verse forzado.
 - [[volatilidad-y-venta-forzada]] — la fortaleza evita la venta forzada por presión.
+- [[margen-de-seguridad]] — en 1990 Buffett opone la daga del apalancamiento al lema de Graham.
 
 ## Cartas fuente
 - 1980
 - 1983
 - 1989
+- 1990

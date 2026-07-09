@@ -1,9 +1,9 @@
 ---
 concepto: Float (flotante del seguro)
 domain: casos
-years: [1995, 1997, 1998]
+years: [1990, 1995, 1997, 1998]
 estado: borrador
-actualizado: 2026-07-08
+actualizado: 2026-07-09
 ---
 
 # Float (flotante del seguro)
@@ -31,6 +31,21 @@ la práctica como fondos propios que no hay que aportar.
 
 > "why float wonderfully benefits a business - if it is obtained at a low cost." — 1995
 
+Ya en 1990 Buffett había formalizado cómo medir ese coste: no por el combined ratio, sino por
+la relación entre la pérdida técnica y el float generado a lo largo de los años. Un coste bajo
+delata un buen negocio; uno alto, uno malo.
+
+> "We believe a better measure, however, to be a comparison of underwriting loss to float
+> developed... A low cost of funds signifies a good business; a high cost translates into a
+> poor business." — 1990
+
+El caso extremo es GEICO, cuyo coste del float es negativo: en la práctica son los asegurados
+quienes pagan interés a la compañía por retener sus fondos.
+
+> "GEICO's growth has generated an ever-larger amount of funds for investment that have an
+> effective cost of considerably less than zero. Essentially, GEICO's policyholders, in
+> aggregate, pay the company interest on the float rather than the other way around." — 1990
+
 En 1997 remata la ironía contable: el float figura como pasivo, pero ha valido más que unos
 fondos propios equivalentes, porque no solo no ha costado nada, sino que ha dado dinero.
 
@@ -50,6 +65,7 @@ no es el tamaño del float sino su coste; si sube demasiado, crecer se vuelve un
 - [[ventaja-competitiva]] — el bajo coste de suscripción (GEICO) abarata el float.
 
 ## Cartas fuente
+- 1990
 - 1995
 - 1997
 - 1998

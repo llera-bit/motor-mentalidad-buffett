@@ -1,9 +1,9 @@
 ---
 concepto: Vientos a favor vs. en contra
 domain: modelos-mentales
-years: [1977, 1978, 1982, 1985, 2006]
+years: [1977, 1978, 1982, 1985, 1990, 2006]
 estado: pendiente
-actualizado: 2026-07-08
+actualizado: 2026-07-09
 ---
 
 # Vientos a favor vs. en contra
@@ -63,6 +63,13 @@ racional en solitario, pero colectivamente se anulan.
 > (just as happens when each person watching a parade decides he can see a little better if he
 > stands on tiptoes)." — 1985
 
+En 1990, con las guerras de precios de las aerolíneas, condensa la economía del producto
+indiferenciado en una sola frase: por mucho que te esfuerces, tu rentabilidad la fija el más
+torpe de tus competidores.
+
+> "In a business selling a commodity-type product, it's impossible to be a lot smarter than
+> your dumbest competitor." — 1990
+
 En 2006, con el declive de los periódicos, lo reafirma: la economía en erosión acaba venciendo
 al mejor gestor.
 
@@ -81,4 +88,5 @@ al mejor gestor.
 - 1978
 - 1982
 - 1985
+- 1990
 - 2006
