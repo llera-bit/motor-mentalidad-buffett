@@ -307,3 +307,18 @@ _Registro append-only. Prefijo por entrada: `## [YYYY-MM-DD] <op> | <detalle>`
 - **No filado:** el largo tratado sobre gobierno corporativo (tres tipos de consejo) y la
   política de filantropía quedan fuera de la taxonomía del cerebro; contenido ya cubierto de
   1993 (riesgo≠volatilidad, concentración, foso, círculo) no se re-toca.
+
+## [2026-07-09] ingest | re-pase carta 1994 (lectura completa)
+- **Fuente:** `raw/1994.pdf` (una de las menos leídas en su día).
+- **Páginas creadas:** ninguna.
+- **Páginas enriquecidas:** `emitir-acciones-solo-a-su-valor` (+1994: rechazar deals que suben
+  el BPA pero bajan el valor intrínseco por acción; "chain letter in reverse"), `circulo-de-
+  competencia` (+1994: "degree-of-difficulty doesn't count"; lo difícil no se premia),
+  `incentivos-alineados` (+1994: alineamiento = socio en ambas direcciones; "heads I win, tails
+  you lose"), `goodwill-economico` (+1994: Scott Fetzer, la amortización del premio no es coste
+  económico; el valor intrínseco crece mientras baja el valor en libros).
+- **No duplicado:** la definición de valor intrínseco y la analogía de la educación ya están en
+  `valor-intrinseco` (1983/1992); el float de 1994 es idéntico al 1995 ya en `float`; el "fear
+  is the foe of the faddist" es el 1994 ya en `miedo-y-codicia`; la macro-agnosia, en
+  `no-predecir-el-mercado`.
+- **Estado:** borrador (todas las tocadas).

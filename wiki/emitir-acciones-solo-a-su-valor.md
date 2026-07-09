@@ -1,9 +1,9 @@
 ---
 concepto: Emitir acciones solo a su valor
 domain: valoracion
-years: [1982]
+years: [1982, 1994]
 estado: borrador
-actualizado: 2026-07-08
+actualizado: 2026-07-09
 ---
 
 # Emitir acciones solo a su valor
@@ -34,6 +34,16 @@ Y el criterio de fondo: no confundir actividad con progreso, ni tamaño con riqu
 
 > "We will not equate activity with progress or corporate size with owner-wealth." — 1982
 
+En 1994 aplica la misma disciplina a las adquisiciones: rechaza operaciones que elevarían el
+beneficio por acción a corto plazo pero reducirían el valor intrínseco por acción. El
+adquirente típico entrega más valor del que recibe.
+
+> "At Berkshire, we have rejected many merger and purchase opportunities that would have boosted
+> current and near-term earnings but that would have reduced per-share intrinsic value." — 1994
+
+> "the acquirer typically gives up more intrinsic value than it receives. Do that enough... and
+> 'you are running a chain letter in reverse.'" — 1994 (Buffett citando a John Medlin)
+
 ## Relacionados
 - [[locura-de-las-adquisiciones]] — la sed de tamaño que empuja a estas emisiones.
 - [[recompra-de-acciones]] — la cara inversa: recomprar cuando se cotiza bajo el valor.
@@ -41,3 +51,4 @@ Y el criterio de fondo: no confundir actividad con progreso, ni tamaño con riqu
 
 ## Cartas fuente
 - 1982
+- 1994

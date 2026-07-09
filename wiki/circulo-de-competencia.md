@@ -1,9 +1,9 @@
 ---
 concepto: Círculo de competencia
 domain: modelos-mentales
-years: [1989, 1990, 1992, 1993, 1996, 1999]
+years: [1989, 1990, 1992, 1993, 1994, 1996, 1999]
 estado: borrador
-actualizado: 2026-07-08
+actualizado: 2026-07-09
 ---
 
 # Círculo de competencia
@@ -51,6 +51,15 @@ En 1993 añade el corolario para quien no tiene círculo propio: reconocer los l
 > actually out-perform most investment professionals. Paradoxically, when 'dumb' money
 > acknowledges its limitations, it ceases to be dumb." — 1993
 
+En 1994 añade que la dificultad no se premia: acertar en un negocio simple y comprensible paga
+igual que acertar en uno endiabladamente complejo, así que no hay razón para salir del círculo.
+
+> "Investors should remember that their scorecard is not computed using Olympic-diving methods:
+> Degree-of-difficulty doesn't count. If you are right about a business whose value is largely
+> dependent on a single key factor that is both easy to understand and enduring, the payoff is
+> the same as if you had correctly analyzed an investment alternative characterized by many
+> constantly shifting and complex variables." — 1994
+
 En 1996 lo formula de forma definitiva: el tamaño del círculo importa poco; conocer sus
 límites lo es todo.
 
@@ -80,5 +89,6 @@ perímetro del círculo, y no cambiar la razón por la esperanza.
 - 1990
 - 1992
 - 1993
+- 1994
 - 1996
 - 1999

@@ -1,7 +1,7 @@
 ---
 concepto: Goodwill económico
 domain: contabilidad
-years: [1983, 1985, 1991]
+years: [1983, 1985, 1991, 1994]
 estado: borrador
 actualizado: 2026-07-09
 ---
@@ -64,6 +64,15 @@ fijación de precios sin explotar.
 > "In our See's purchase, Charlie and I had one important insight: We saw that the business had
 > untapped pricing power." — 1991
 
+En 1994, con Scott Fetzer, muestra el reverso contable: la amortización del premio pagado sobre
+el valor contable no es un coste económico real. Mientras la contabilidad rebajaba el valor en
+libros a menos de la mitad, el valor intrínseco del negocio crecía.
+
+> "These charges have no effect on cash or the taxes we pay, and are not, in our view, an
+> economic cost (though many accountants would disagree with us)... Clearly, the intrinsic value
+> of the business has consistently grown, even though we have just as consistently marked down
+> its carrying value through purchase-premium charges." — 1994
+
 ## Relacionados
 - [[ventaja-competitiva]] — la franquicia con el consumidor es la fuente del goodwill.
 - [[valor-intrinseco]] — el goodwill económico es parte del valor intrínseco no contable.
@@ -73,3 +82,4 @@ fijación de precios sin explotar.
 - 1983
 - 1985
 - 1991
+- 1994

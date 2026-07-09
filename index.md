@@ -58,11 +58,11 @@ _Páginas de la wiki agrupadas por `domain`. Se actualiza con cada ingesta._
 - [Contra el mercado eficiente](wiki/contra-el-mercado-eficiente.md) — precio y valor
   divergen; la ventaja es la actitud, no el pronóstico (Washington Post). `[1985, 1988, 1992]`
 - [Incentivos alineados](wiki/incentivos-alineados.md) — las opciones premian retener, no
-  la habilidad; atar el premio a lo controlable; caminar en los zapatos del dueño. `[1985, 1991, 2002, 2003]`
+  la habilidad; atar el premio a lo controlable; caminar en los zapatos del dueño. `[1985, 1991, 1994, 2002, 2003]`
 - [Arbitraje](wiki/arbitraje.md) — cuatro preguntas para evaluar una operación anunciada;
   pocas, grandes y públicas. `[1988]`
 - [Círculo de competencia](wiki/circulo-de-competencia.md) — obstáculos de un palmo, no de
-  dos metros; agnóstico fuera de lo que se entiende. `[1989, 1990, 1992, 1993, 1996, 1999]`
+  dos metros; agnóstico fuera de lo que se entiende. `[1989, 1990, 1992, 1993, 1994, 1996, 1999]`
 - [Franquicia vs. negocio](wiki/franquicia-vs-negocio.md) — la franquicia (3 condiciones)
   tolera mala gestión; el negocio puede morir por ella. `[1991, 2006]`
 
@@ -74,7 +74,7 @@ _Páginas de la wiki agrupadas por `domain`. Se actualiza con cada ingesta._
 - [Retener o repartir](wiki/retener-o-repartir.md) — retener solo si el capital rinde más
   dentro que fuera; si no, repartir. `[1981, 1983, 1984]`
 - [Emitir acciones solo a su valor](wiki/emitir-acciones-solo-a-su-valor.md) — no emitir
-  acciones si no se recibe tanto valor intrínseco como el que se entrega. `[1982]`
+  acciones si no se recibe tanto valor intrínseco como el que se entrega. `[1982, 1994]`
 - [Valor intrínseco](wiki/valor-intrinseco.md) — lo que puede sacarse (flujos futuros
   descontados), no lo que se metió (valor contable). `[1983, 1992, 2000]`
 - [Owner earnings](wiki/owner-earnings.md) — beneficio real del dueño: (a) beneficio + (b)
@@ -86,7 +86,7 @@ _Páginas de la wiki agrupadas por `domain`. Se actualiza con cada ingesta._
 - [Retorno sobre el capital, no BPA](wiki/roe-vs-beneficio-por-accion.md) — juzgar por la
   tasa sobre el capital, no por el crecimiento del beneficio por acción. `[1979]`
 - [Goodwill económico](wiki/goodwill-economico.md) — valor capitalizado del exceso de
-  retorno sobre los activos tangibles; franquicia con el consumidor. `[1983, 1985, 1991]`
+  retorno sobre los activos tangibles; franquicia con el consumidor. `[1983, 1985, 1991, 1994]`
 
 ## casos
 - [Float (flotante del seguro)](wiki/float.md) — dinero que se retiene pero no se posee;

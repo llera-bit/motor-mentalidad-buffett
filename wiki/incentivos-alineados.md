@@ -1,7 +1,7 @@
 ---
 concepto: Incentivos alineados
 domain: modelos-mentales
-years: [1985, 1991, 2002, 2003]
+years: [1985, 1991, 1994, 2002, 2003]
 estado: borrador
 actualizado: 2026-07-09
 ---
@@ -45,6 +45,14 @@ el capital empleado. Así el gestor no puede tratar el capital propio como si fu
 > systems that are long on carrots but short on sticks (and that almost invariably treat equity
 > capital as if it were cost-free)." — 1991
 
+En 1994 define qué es el alineamiento de verdad: ser socio en las dos direcciones, no solo en la
+de subida. La mayoría de los planes "de alineamiento" son en realidad "cara gano yo, cruz
+pierdes tú".
+
+> "In our book, alignment means being a partner in both directions, not just on the upside. Many
+> 'alignment' plans flunk this basic test, being artful forms of 'heads I win, tails you
+> lose.'" — 1994
+
 En 2002 muestra la cara perversa con los derivados: los errores de valoración no fueron
 simétricos, sino que favorecieron al trader que buscaba su bonus y al CEO que quería
 beneficios impresionantes —y cobraba en opciones.
@@ -68,5 +76,6 @@ les unta el pan, y las prácticas más ávidas se replican de empresa en empresa
 ## Cartas fuente
 - 1985
 - 1991
+- 1994
 - 2002
 - 2003
