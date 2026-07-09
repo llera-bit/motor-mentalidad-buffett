@@ -1,9 +1,9 @@
 ---
 concepto: Mr. Market
 domain: psicologia
-years: [1987]
-estado: estable
-actualizado: 2026-07-07
+years: [1987, 1993]
+estado: pendiente
+actualizado: 2026-07-09
 ---
 
 # Mr. Market
@@ -57,6 +57,15 @@ mercado.
 > insulate his thoughts and behavior from the super-contagious emotions that swirl about
 > the marketplace." — 1987
 
+Graham lo resumió en otra imagen que Buffett cita en 1993: a corto plazo el mercado vota
+(emoción), a largo plazo pesa (valor). Coca-Cola, que salió a bolsa a 40 $ en 1919 y un año
+después cotizaba a 19,50 $ (−50%), valía con dividendos reinvertidos más de 2,1 millones por
+acción a finales de 1993.
+
+> "In the short-run, the market is a voting machine - reflecting a voter-registration test that
+> requires only money, not intelligence or emotional stability - but in the long-run, the market
+> is a weighing machine." — 1993 (Buffett citando a Ben Graham)
+
 ## Relacionados
 - [[volatilidad-y-venta-forzada]] — el mecanismo por el que las emociones del mercado
   llegan a dañarte: la venta forzada.
@@ -65,3 +74,4 @@ mercado.
 
 ## Cartas fuente
 - 1987
+- 1993

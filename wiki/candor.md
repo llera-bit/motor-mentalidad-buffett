@@ -1,7 +1,7 @@
 ---
 concepto: Candor
 domain: psicologia
-years: [1983, 1992]
+years: [1983, 1992, 1993]
 estado: borrador
 actualizado: 2026-07-09
 ---
@@ -33,6 +33,13 @@ contable convierta un coste en un no-coste.
 > "How many legs does a dog have if you call his tail a leg? ... Four, because calling a tail a
 > leg does not make it a leg." — 1992 (Buffett citando a Abraham Lincoln)
 
+La misma honestidad se aplica a las metas: se niega a la práctica de disparar primero y pintar
+la diana después, y se compromete a fijar el objetivo por adelantado.
+
+> "we've criticized the managerial practice of shooting the arrow of performance and then
+> painting the target, centering it on whatever point the arrow happened to hit. We will instead
+> risk embarrassment by painting first and shooting later." — 1993
+
 ## Relacionados
 - [[analista-de-negocios]] — la honestidad en el reporte permite valorar el negocio de verdad.
 - [[incentivos-alineados]] — negar que las opciones sean un coste es el ejemplo de 1992.
@@ -40,3 +47,4 @@ contable convierta un coste en un no-coste.
 ## Cartas fuente
 - 1983
 - 1992
+- 1993

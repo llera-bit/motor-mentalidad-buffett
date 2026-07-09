@@ -295,3 +295,15 @@ _Registro append-only. Prefijo por entrada: `## [YYYY-MM-DD] <op> | <detalle>`
 - **No duplicado:** JBW/DCF y "define what you don't know" ya en `valor-intrinseco` y
   `circulo-de-competencia`; margen de seguridad y valor/crecimiento, en sus páginas.
 - **Estado:** borrador (todas las tocadas).
+
+## [2026-07-09] ingest | re-pase carta 1993 (lectura completa)
+- **Fuente:** `raw/1993.pdf`
+- **Páginas creadas:** ninguna.
+- **Páginas enriquecidas:** `mr-market` (+1993: la máquina de votar/pesar de Graham; Coca-Cola
+  1919→1920 −50% → 2,1 M/acción), `candor` (+1993: no disparar y luego pintar la diana; fijar el
+  objetivo por adelantado).
+- **Cambio de estado:** `mr-market` pasa de `estable` a `pendiente` (era la única página estable
+  y se ha modificado; queda pendiente de re-revisión).
+- **No filado:** el largo tratado sobre gobierno corporativo (tres tipos de consejo) y la
+  política de filantropía quedan fuera de la taxonomía del cerebro; contenido ya cubierto de
+  1993 (riesgo≠volatilidad, concentración, foso, círculo) no se re-toca.

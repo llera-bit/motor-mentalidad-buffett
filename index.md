@@ -4,7 +4,7 @@ _Páginas de la wiki agrupadas por `domain`. Se actualiza con cada ingesta._
 
 ## psicologia
 - [Mr. Market](wiki/mr-market.md) — el mercado te da precios, no juicio; sírvete de su
-  bolsillo, no de su sabiduría. `[1987]`
+  bolsillo, no de su sabiduría. `[1987, 1993]`
 - [Disciplina de no actuar](wiki/disciplina-de-no-actuar.md) — aceptar menos volumen
   antes que operar a precios malos; esperar la pelota en la "zona feliz". `[1977, 1979, 1984, 1994, 1996]`
 - [No predecir el mercado](wiki/no-predecir-el-mercado.md) — nadie puede predecir el
@@ -12,7 +12,7 @@ _Páginas de la wiki agrupadas por `domain`. Se actualiza con cada ingesta._
 - [La locura de las adquisiciones](wiki/locura-de-las-adquisiciones.md) — espíritus
   animales, culto al tamaño y exceso de optimismo (sapos y princesas). `[1981, 1982, 1992]`
 - [Candor](wiki/candor.md) — informar con franqueza; engañar en público acaba engañándote
-  a ti mismo en privado. `[1983, 1992]`
+  a ti mismo en privado. `[1983, 1992, 1993]`
 - [Hiperactividad del mercado](wiki/hiperactividad-del-mercado.md) — la rotación es un
   impuesto que el inversor se impone; "pickpocket of enterprise"; Gotrocks. `[1983, 1986, 2004, 2005]`
 - [Fallar convencionalmente](wiki/fallar-convencionalmente.md) — el incentivo del gestor a
