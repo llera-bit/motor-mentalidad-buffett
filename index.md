@@ -59,7 +59,7 @@ _Páginas de la wiki agrupadas por `domain`. Se actualiza con cada ingesta._
 - [Contra el mercado eficiente](wiki/contra-el-mercado-eficiente.md) — precio y valor
   divergen; la ventaja es la actitud, no el pronóstico (Washington Post). `[1985, 1988, 1992]`
 - [Incentivos alineados](wiki/incentivos-alineados.md) — las opciones premian retener, no
-  la habilidad; atar el premio a lo controlable; caminar en los zapatos del dueño. `[1985, 1991, 1994, 2002, 2003, 2010]`
+  la habilidad; atar el premio a lo controlable; el cocker spaniel, no el pit bull. `[1985, 1991, 1994, 2002, 2003, 2010, 2019]`
 - [Arbitraje](wiki/arbitraje.md) — cuatro preguntas para evaluar una operación anunciada;
   pocas, grandes y públicas. `[1988]`
 - [Círculo de competencia](wiki/circulo-de-competencia.md) — obstáculos de un palmo, no de
@@ -77,7 +77,7 @@ _Páginas de la wiki agrupadas por `domain`. Se actualiza con cada ingesta._
 
 ## valoracion
 - [Beneficios retenidos de participadas](wiki/beneficios-retenidos-participadas.md) — la
-  parte no distribuida es valor real para el accionista si se reinvierte bien. `[1978, 1979, 1980, 1991]`
+  parte no distribuida es valor real para el accionista si se reinvierte bien (Smith y Keynes). `[1978, 1979, 1980, 1991, 2019]`
 - [Recompra de acciones](wiki/recompra-de-acciones.md) — recomprar por debajo del valor
   intrínseco es de los mejores usos del capital; lo listo a un precio es tonto a otro. `[1980, 1984, 1999, 2011]`
 - [Retener o repartir](wiki/retener-o-repartir.md) — retener solo si el capital rinde más

@@ -1,7 +1,7 @@
 ---
 concepto: Incentivos alineados
 domain: modelos-mentales
-years: [1985, 1991, 1994, 2002, 2003, 2010]
+years: [1985, 1991, 1994, 2002, 2003, 2010, 2019]
 estado: borrador
 actualizado: 2026-07-09
 ---
@@ -85,6 +85,23 @@ las bajadas—, que él corrige con diferimientos y arrastre de pérdidas.
 > occurred, have walked away rich, with their limited partners losing back their earlier gains...
 > Investors who put money with such managers should be labeled patsies, not partners." — 2010
 
+En 2019 desmonta la "independencia" de los consejeros ajenos: cobrar 250.000–300.000 $ por seis
+reuniones al año convierte la retribución en un factor subconsciente, y el que aspira a un segundo
+consejo necesita que su CEO actual lo recomiende. La selección premia la mansedumbre.
+
+> "When seeking directors, CEOs don't look for pit bulls. It's the cocker spaniel that gets taken
+> home." — 2019
+
+De ahí la paradoja: se llama "independiente" al consejero que necesita los honorarios, y no
+independiente al que tiene su fortuna atada a la empresa.
+
+> "the director for whom fees are important - indeed, craved - is almost universally classified as
+> 'independent' while many directors possessing fortunes very substantially linked to the welfare of
+> the corporation are deemed lacking in independence." — 2019
+
+> "I feel better when directors of our portfolio companies have had the experience of purchasing
+> shares with their savings, rather than simply having been the recipients of grants." — 2019
+
 ## Relacionados
 - [[retener-o-repartir]] — las opciones premian retener, aunque el capital rinda poco.
 - [[fallar-convencionalmente]] — actuar como dueño, no como gestor a sueldo.
@@ -96,3 +113,4 @@ las bajadas—, que él corrige con diferimientos y arrastre de pérdidas.
 - 2002
 - 2003
 - 2010
+- 2019

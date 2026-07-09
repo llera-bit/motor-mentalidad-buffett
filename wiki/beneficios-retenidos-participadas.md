@@ -1,9 +1,9 @@
 ---
 concepto: Beneficios retenidos de participadas
 domain: valoracion
-years: [1978, 1979, 1980, 1991]
+years: [1978, 1979, 1980, 1991, 2019]
 estado: borrador
-actualizado: 2026-07-08
+actualizado: 2026-07-09
 ---
 
 # Beneficios retenidos de participadas
@@ -73,6 +73,17 @@ al marcador.
 > be determined by future earnings. In investing, just as in baseball, to put runs on the
 > scoreboard one must watch the playing field, not the scoreboard." — 1991
 
+En 2019 recupera el origen intelectual de la idea: el libro de Edgar Lawrence Smith (1924), y la
+reseña con la que Keynes lo consagró. La empresa que retiene parte de su beneficio y lo reinvierte
+introduce en la inversión un motor de interés compuesto, al margen del dividendo.
+
+> "Well-managed industrial companies do not, as a rule, distribute to the shareholders the whole of
+> their earned profits. In good years, if not in all years, they retain a part of their profits and
+> put them back into the business. Thus there is an element of compound interest operating in favour
+> of a sound industrial investment. Over a period of years, the real value of the property of a sound
+> industrial is increasing at compound interest, quite apart from the dividends paid out to the
+> shareholders." — 2019 (Buffett citando a John Maynard Keynes sobre Edgar Lawrence Smith)
+
 ## Relacionados
 - [[analista-de-negocios]] — juzgar por el poder de generación de beneficios subyacente,
   no por lo reportado.
@@ -82,3 +93,4 @@ al marcador.
 - 1979
 - 1980
 - 1991
+- 2019

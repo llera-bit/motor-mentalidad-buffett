@@ -631,3 +631,17 @@ _Registro append-only. Prefijo por entrada: `## [YYYY-MM-DD] <op> | <detalle>`
   "cinco bosquecillos" son una guía de valoración de Berkshire, no un concepto transferible.
 - **Evolución:** sin disparador en 2018.
 - **Estado:** borrador.
+
+## [2026-07-09] ingest | carta 2019 (lectura completa)
+- **Fuente:** `raw/2019.pdf` ("The Power of Retained Earnings"; la sección sobre consejeros).
+- **Páginas creadas:** ninguna.
+- **Páginas enriquecidas:** `beneficios-retenidos-participadas` (+2019: el origen intelectual —Edgar
+  Lawrence Smith, 1924, y la reseña de Keynes: "an element of compound interest operating in favour
+  of a sound industrial investment"), `incentivos-alineados` (+2019: por qué la "independencia" del
+  consejero es una ficción —los honorarios como factor subconsciente; "CEOs don't look for pit bulls.
+  It's the cocker spaniel that gets taken home"; la paradoja de llamar independiente al que necesita
+  la paga y no al que tiene su fortuna en la empresa).
+- **No duplicado:** "don't ask the barber whether you need a haircut" (2019) ya está en
+  `emitir-acciones-solo-a-su-valor` (2009).
+- **Evolución:** sin disparador en 2019.
+- **Estado:** borrador.
