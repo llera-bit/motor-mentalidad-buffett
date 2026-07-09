@@ -1,7 +1,7 @@
 ---
 concepto: Círculo de competencia
 domain: modelos-mentales
-years: [1989, 1990, 1992, 1993, 1994, 1996, 1999]
+years: [1989, 1990, 1992, 1993, 1994, 1996, 1999, 2013]
 estado: borrador
 actualizado: 2026-07-09
 ---
@@ -79,6 +79,16 @@ perímetro del círculo, y no cambiar la razón por la esperanza.
 > If we stray, we will have done so inadvertently, not because we got restless and substituted
 > hope for rationality." — 1999
 
+En 2013 saca la conclusión que iguala a profesionales e ignorantes: lo que decide no es cuánto
+sabes, sino si eres honesto sobre lo que no sabes. Y pone su dinero donde pone la boca: a su
+viuda le deja un 90% en un fondo índice de bajo coste y un 10% en bonos a corto.
+
+> "the unsophisticated investor who is realistic about his shortcomings is likely to obtain better
+> long-term results than the knowledgeable professional who is blind to even a single weakness." — 2013
+
+> "My advice to the trustee could not be more simple: Put 10% of the cash in short-term government
+> bonds and 90% in a very low-cost S&P 500 index fund." — 2013
+
 ## Relacionados
 - [[criterios-de-seleccion]] — el primer filtro: un negocio que podamos entender.
 - [[no-predecir-el-mercado]] — fuera del círculo, no se pronostica.
@@ -94,3 +104,4 @@ perímetro del círculo, y no cambiar la razón por la esperanza.
 - 1994
 - 1996
 - 1999
+- 2013

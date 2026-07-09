@@ -1,7 +1,7 @@
 ---
 concepto: Valor y crecimiento
 domain: valoracion
-years: [1991, 1992, 2000]
+years: [1991, 1992, 2000, 2013]
 estado: borrador
 actualizado: 2026-07-09
 ---
@@ -50,6 +50,16 @@ el siguiente, no lo que el activo producirá.
 
 > "speculation is most dangerous when it looks easiest." — 2000
 
+En 2013 fija la frontera con un test operativo —¿piensas en lo que el activo producirá o en lo que
+valdrá?— y desarma el argumento del impulso: que algo haya subido no es razón para comprarlo.
+
+> "If you instead focus on the prospective price change of a contemplated purchase, you are
+> speculating... And the fact that a given asset has appreciated in the recent past is never a
+> reason to buy it." — 2013
+
+> "Half of all coin-flippers will win their first toss; none of those winners has an expectation of
+> profit if he continues to play the game." — 2013
+
 ## Relacionados
 - [[valor-intrinseco]] — el crecimiento es un componente del valor intrínseco, no su rival.
 - [[retener-o-repartir]] — crecer solo compensa si el capital rinde sobre la alternativa.
@@ -60,3 +70,4 @@ el siguiente, no lo que el activo producirá.
 - 1991
 - 1992
 - 2000
+- 2013

@@ -535,3 +535,19 @@ _Registro append-only. Prefijo por entrada: `## [YYYY-MM-DD] <op> | <detalle>`
 - **No duplicado:** "buying dollar bills for 80¢" ya en `recompra-de-acciones` (1999/2011); "water
   the flowers, skip the weeds" es el Peter Lynch de `holding-para-siempre` (1988).
 - **Estado:** borrador (todas).
+
+## [2026-07-09] ingest | carta 2013 (lectura completa)
+- **Fuente:** `raw/2013.pdf` ("Some Thoughts About Investing": la granja de Nebraska y el local de NYU).
+- **Páginas creadas:** ninguna.
+- **Páginas enriquecidas:** `mr-market` (+2013: el vecino gritón que ofrece un precio distinto cada
+  día por la granja; la cotización diaria como ventaja que se vuelve maldición —"liquidity is
+  transformed from the unqualified benefit it should be to a curse"—; un flash crash no puede
+  dañarte más que un vecino bocazas), `circulo-de-competencia` (+2013: el ignorante realista sobre
+  sus límites bate al profesional ciego a una sola debilidad; el 90/10 de su testamento),
+  `valor-y-crecimiento` (+2013: el test de la especulación —¿lo que producirá o lo que valdrá?—;
+  que algo haya subido nunca es razón para comprarlo; los lanzadores de moneda).
+- **No duplicado:** "focus on the playing field, not the scoreboard" ya en `beneficios-retenidos-
+  participadas` (1991); "macro predictions are a waste of time" en `no-predecir-el-mercado`; los
+  costes de fricción en `hiperactividad-del-mercado` (Gotrocks); "a climate of fear is your friend"
+  en `miedo-y-codicia` (2009).
+- **Estado:** sin cambios (mr-market sigue pendiente; el resto borrador).

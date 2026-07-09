@@ -1,7 +1,7 @@
 ---
 concepto: Mr. Market
 domain: psicologia
-years: [1987, 1993, 1997]
+years: [1987, 1993, 1997, 2013]
 estado: pendiente
 actualizado: 2026-07-09
 ---
@@ -77,6 +77,21 @@ baje la carne.
 > "So smile when you read a headline that says 'Investors lose as market falls.' Edit it in your
 > mind to 'Disinvestors lose as market falls -- but investors gain.'" — 1997
 
+En 2013 lo reescribe fuera de la bolsa: si el vecino de su granja le gritara cada día un precio
+distinto según su humor, solo podría beneficiarse de ello. La cotización diaria —que debería ser
+una ventaja— se vuelve maldición para quien no sabe ignorarla.
+
+> "if a moody fellow with a farm bordering my property yelled out a price every day to me at which
+> he would either buy my farm or sell me his... how in the world could I be other than benefited by
+> his erratic behavior?" — 2013
+
+> "Those people who can sit quietly for decades when they own a farm or apartment house too often
+> become frenetic when they are exposed to a stream of stock quotations... For these investors,
+> liquidity is transformed from the unqualified benefit it should be to a curse." — 2013
+
+> "A 'flash crash' or some other extreme market fluctuation can't hurt an investor any more than an
+> erratic and mouthy neighbor can hurt my farm investment." — 2013
+
 ## Relacionados
 - [[volatilidad-y-venta-forzada]] — el mecanismo por el que las emociones del mercado
   llegan a dañarte: la venta forzada.
@@ -89,3 +104,4 @@ baje la carne.
 - 1987
 - 1993
 - 1997
+- 2013

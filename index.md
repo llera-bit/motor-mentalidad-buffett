@@ -4,7 +4,7 @@ _Páginas de la wiki agrupadas por `domain`. Se actualiza con cada ingesta._
 
 ## psicologia
 - [Mr. Market](wiki/mr-market.md) — el mercado te da precios, no juicio; sírvete de su
-  bolsillo, no de su sabiduría. `[1987, 1993, 1997]`
+  bolsillo, no de su sabiduría; la liquidez diaria, ventaja o maldición. `[1987, 1993, 1997, 2013]`
 - [Disciplina de no actuar](wiki/disciplina-de-no-actuar.md) — aceptar menos volumen
   antes que operar a precios malos; esperar la pelota en la "zona feliz". `[1977, 1979, 1984, 1994, 1996, 1997]`
 - [No predecir el mercado](wiki/no-predecir-el-mercado.md) — nadie puede predecir el
@@ -63,7 +63,7 @@ _Páginas de la wiki agrupadas por `domain`. Se actualiza con cada ingesta._
 - [Arbitraje](wiki/arbitraje.md) — cuatro preguntas para evaluar una operación anunciada;
   pocas, grandes y públicas. `[1988]`
 - [Círculo de competencia](wiki/circulo-de-competencia.md) — obstáculos de un palmo, no de
-  dos metros; agnóstico fuera de lo que se entiende. `[1989, 1990, 1992, 1993, 1994, 1996, 1999]`
+  dos metros; agnóstico fuera de lo que se entiende. `[1989, 1990, 1992, 1993, 1994, 1996, 1999, 2013]`
 - [Franquicia vs. negocio](wiki/franquicia-vs-negocio.md) — la franquicia (3 condiciones)
   tolera mala gestión; el negocio puede morir por ella; qué queda cuando se deshace. `[1991, 1995, 2006, 2012]`
 - [Predecibilidad (los Inevitables)](wiki/predecibilidad.md) — preferir la certeza de un buen
@@ -89,7 +89,7 @@ _Páginas de la wiki agrupadas por `domain`. Se actualiza con cada ingesta._
 - [Owner earnings](wiki/owner-earnings.md) — beneficio real del dueño: (a) beneficio + (b)
   cargas no monetarias − (c) capex de mantenimiento; falacia del cash flow. `[1986, 1989]`
 - [Valor y crecimiento](wiki/valor-y-crecimiento.md) — no son opuestos: el crecimiento es un
-  componente del valor; "value investing" es redundante. `[1991, 1992, 2000]`
+  componente del valor; "value investing" es redundante. `[1991, 1992, 2000, 2013]`
 
 ## contabilidad
 - [Retorno sobre el capital, no BPA](wiki/roe-vs-beneficio-por-accion.md) — juzgar por la
