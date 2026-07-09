@@ -360,3 +360,15 @@ _Registro append-only. Prefijo por entrada: `## [YYYY-MM-DD] <op> | <detalle>`
 - **No duplicado:** "cheery consensus / optimism is the enemy of the rational buyer" ya en
   `miedo-y-codicia` (1990); float 1997 y el círculo/criterios ya cubiertos.
 - **Estado:** sin cambios de estado (mr-market y disciplina siguen pendientes; el resto borrador).
+
+## [2026-07-09] ingest | re-pase carta 1998 (lectura completa)
+- **Fuente:** `raw/1998.pdf` (una de las menos leídas en su día).
+- **Páginas creadas:** ninguna.
+- **Páginas enriquecidas:** `candor` (+1998: integridad contable ante la manipulación —"rather
+  disappoint with earnings than accounting"; "think about what counts, not how it will be
+  counted"; las opciones como coste, el ejemplo de pagar la publicidad con opciones).
+- **No filado / no duplicado:** el error de vender McDonald's ya en `holding-para-siempre`; el
+  float 1998 ("si el coste sube, el crecimiento es una maldición") ya en `float`; "lumpy 15%"
+  (General Re) ya en `riesgo-no-es-volatilidad`; el mandato al gestor (dirigir como dueño a 100
+  años) y las adquisiciones GEICO/EJA/General Re son operativos.
+- **Estado:** borrador.

@@ -1,7 +1,7 @@
 ---
 concepto: Candor
 domain: psicologia
-years: [1983, 1992, 1993]
+years: [1983, 1992, 1993, 1998]
 estado: borrador
 actualizado: 2026-07-09
 ---
@@ -40,6 +40,22 @@ la diana después, y se compromete a fijar el objetivo por adelantado.
 > painting the target, centering it on whatever point the arrow happened to hit. We will instead
 > risk embarrassment by painting first and shooting later." — 1993
 
+En 1998, ante la epidemia de manipulación contable (restructuring charges, "big baths"), fija la
+integridad de Berkshire: si hay que decepcionar, que sea con los beneficios, no con la
+contabilidad. Y a sus gestores les pide pensar en lo que importa, no en cómo se contabilizará.
+
+> "If we are to disappoint you, we would rather it be with our earnings than with our
+> accounting." — 1998
+
+> "We want our managers to think about what counts, not how it will be counted." — 1998
+
+Vuelve sobre las opciones como coste real con un ejemplo demoledor: pagar la publicidad con
+opciones no la volvería gratis.
+
+> "Suppose that instead of paying cash for our ads, we paid the media in ten-year, at-the-market
+> Berkshire options. Would anyone then care to argue that Berkshire had not borne a cost for
+> advertising, or should not be charged this cost on its books?" — 1998
+
 ## Relacionados
 - [[analista-de-negocios]] — la honestidad en el reporte permite valorar el negocio de verdad.
 - [[incentivos-alineados]] — negar que las opciones sean un coste es el ejemplo de 1992.
@@ -48,3 +64,4 @@ la diana después, y se compromete a fijar el objetivo por adelantado.
 - 1983
 - 1992
 - 1993
+- 1998
