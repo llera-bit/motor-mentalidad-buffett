@@ -69,6 +69,7 @@ grande, no con timidez.
 - [[mr-market]] — el socio maníaco-depresivo cuyo estado de ánimo aprovechar.
 - [[no-predecir-el-mercado]] — no se anticipa el brote; se responde a él.
 - [[volatilidad-y-venta-forzada]] — el pánico es oportunidad si no te obliga a vender.
+- [[tres-categorias-de-activos]] — "cash is king" y el oro triunfan justo en los picos de miedo.
 
 ## Cartas fuente
 - 1986

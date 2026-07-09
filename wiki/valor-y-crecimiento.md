@@ -54,6 +54,7 @@ el siguiente, no lo que el activo producirá.
 - [[valor-intrinseco]] — el crecimiento es un componente del valor intrínseco, no su rival.
 - [[retener-o-repartir]] — crecer solo compensa si el capital rinde sobre la alternativa.
 - [[vientos-a-favor-vs-en-contra]] — crecer en un mal negocio agrava el daño.
+- [[tres-categorias-de-activos]] — el activo improductivo (oro, tulipanes) es especulación pura.
 
 ## Cartas fuente
 - 1991

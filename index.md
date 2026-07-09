@@ -36,7 +36,7 @@ _Páginas de la wiki agrupadas por `domain`. Se actualiza con cada ingesta._
 - [Margen de seguridad](wiki/margen-de-seguridad.md) — comprar solo con holgura entre valor y
   precio; piedra angular (Graham). `[1990, 1992]`
 - [El riesgo no es la volatilidad](wiki/riesgo-no-es-volatilidad.md) — riesgo = posibilidad de
-  pérdida de poder adquisitivo, no beta; cinco factores; "beware of geeks bearing formulas". `[1990, 1993, 2008]`
+  pérdida de poder adquisitivo, no beta; un activo que no fluctúa puede estar cargado de riesgo. `[1990, 1993, 2008, 2011]`
 - [Principios de suscripción](wiki/principios-de-suscripcion.md) — solo riesgos que sabes
   evaluar; limitar la agregación/correlación; evitar riesgo moral; exposición, no experiencia;
   la cuarta disciplina: saber retirarse. `[1997, 2001, 2002, 2010]`
@@ -72,12 +72,14 @@ _Páginas de la wiki agrupadas por `domain`. Se actualiza con cada ingesta._
   economía del capital: el gran negocio crece sin devorar capital; el pésimo lo engulle. `[2007]`
 - [Coste de oportunidad](wiki/coste-de-oportunidad.md) — cada decisión de capital se mide contra la
   mejor alternativa; no reinvertir donde se ganó por costumbre. `[1995, 2007, 2010]`
+- [Las tres categorías de activos](wiki/tres-categorias-de-activos.md) — monetarios (peligrosos),
+  improductivos (oro, especulación) y productivos (las vacas que dan leche). `[2011]`
 
 ## valoracion
 - [Beneficios retenidos de participadas](wiki/beneficios-retenidos-participadas.md) — la
   parte no distribuida es valor real para el accionista si se reinvierte bien. `[1978, 1979, 1980, 1991]`
 - [Recompra de acciones](wiki/recompra-de-acciones.md) — recomprar por debajo del valor
-  intrínseco es de los mejores usos del capital. `[1980, 1984, 1999]`
+  intrínseco es de los mejores usos del capital; lo listo a un precio es tonto a otro. `[1980, 1984, 1999, 2011]`
 - [Retener o repartir](wiki/retener-o-repartir.md) — retener solo si el capital rinde más
   dentro que fuera; si no, repartir. `[1981, 1983, 1984]`
 - [Emitir acciones solo a su valor](wiki/emitir-acciones-solo-a-su-valor.md) — no emitir

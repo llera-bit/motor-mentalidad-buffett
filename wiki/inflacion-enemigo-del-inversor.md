@@ -56,6 +56,7 @@ su ración de capital pase lo que pase con la salud del negocio.
 
 ## Relacionados
 - [[analista-de-negocios]] — el objetivo último es el patrimonio real, no el nominal.
+- [[tres-categorias-de-activos]] — por eso el activo monetario "seguro" es de los más peligrosos.
 
 ## Cartas fuente
 - 1979

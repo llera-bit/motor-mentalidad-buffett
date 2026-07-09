@@ -1,7 +1,7 @@
 ---
 concepto: El riesgo no es la volatilidad
 domain: riesgo
-years: [1990, 1993, 2008]
+years: [1990, 1993, 2008, 2011]
 estado: borrador
 actualizado: 2026-07-09
 ---
@@ -56,7 +56,17 @@ volatilidad pasada nada dice del rango de valores futuro.
 > look impressive. Too often, though, investors forget to examine the assumptions behind the
 > symbols. Our advice: Beware of geeks bearing formulas." — 2008
 
+En 2011 cierra el argumento con el contraejemplo que lo demuestra: un activo que no fluctúa nada
+—efectivo, bonos— puede estar cargado de riesgo, y uno muy volátil puede no tenerlo.
+
+> "The riskiness of an investment is not measured by beta... but rather by the probability - the
+> reasoned probability - of that investment causing its owner a loss of purchasing-power over his
+> contemplated holding period. Assets can fluctuate greatly in price and not be risky as long as
+> they are reasonably certain to deliver increased purchasing power over their holding period. And
+> as we will see, a non-fluctuating asset can be laden with risk." — 2011
+
 ## Relacionados
+- [[tres-categorias-de-activos]] — el marco donde este riesgo se hace visible: el bono "seguro".
 - [[volatilidad-y-venta-forzada]] — la volatilidad solo daña si te obliga a vender.
 - [[mr-market]] — el verdadero inversor da la bienvenida a la volatilidad.
 - [[margen-de-seguridad]] — el precio (factor 4) y su colchón.
@@ -66,3 +76,4 @@ volatilidad pasada nada dice del rango de valores futuro.
 - 1990
 - 1993
 - 2008
+- 2011

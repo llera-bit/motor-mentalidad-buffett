@@ -500,3 +500,21 @@ _Registro append-only. Prefijo por entrada: `## [YYYY-MM-DD] <op> | <detalle>`
   not previously observed" en `riesgo-no-es-volatilidad`; beneficios retenidos ≈ ganancias de mercado
   en `beneficios-retenidos-participadas` (1979).
 - **Estado:** borrador (todas).
+
+## [2026-07-09] ingest | carta 2011 (lectura completa)
+- **Fuente:** `raw/2011.pdf`
+- **Páginas creadas:** `tres-categorias-de-activos` ("The Basic Choices for Investors": invertir es
+  renunciar a consumir hoy para consumir más mañana; 1) monetarios —"safe... in truth among the most
+  dangerous"; "return-free risk"—, 2) improductivos —el oro, el cubo que no responde; "what the wise
+  man does in the beginning, the fool does in the end"—, 3) productivos —las vacas que dan leche;
+  "the runaway winner... and by far the safest"—). Creada con enlaces entrantes desde
+  `riesgo-no-es-volatilidad`, `inflacion-enemigo-del-inversor`, `valor-y-crecimiento` y `miedo-y-codicia`.
+- **Páginas enriquecidas:** `riesgo-no-es-volatilidad` (+2011: el contraejemplo definitivo —un activo
+  que no fluctúa puede estar cargado de riesgo; beta cero, riesgo enorme), `recompra-de-acciones`
+  (+2011: la primera ley de la asignación de capital, "what is smart at one price is dumb at
+  another"; y el corolario de IBM —al accionista de largo plazo le conviene que la acción languidezca
+  si la empresa recompra).
+- **No duplicado:** la analogía de la hamburguesa (comprador neto quiere precios bajos) ya en
+  `mr-market` (1997); el impuesto invisible de la inflación ya en `inflacion-enemigo-del-inversor`
+  (1980); la primacía de la fortaleza financiera en `fortaleza`; Lubrizol/BofA/IBM, operativo.
+- **Estado:** borrador (todas).

@@ -1,7 +1,7 @@
 ---
 concepto: Recompra de acciones
 domain: valoracion
-years: [1980, 1984, 1999]
+years: [1980, 1984, 1999, 2011]
 estado: borrador
 actualizado: 2026-07-09
 ---
@@ -66,6 +66,21 @@ opciones ejercidas —un "compra caro, vende barato" involuntario.
 > granted at much lower prices are exercised. This 'buy high, sell low' strategy is one many
 > unfortunate investors have employed -- but never intentionally!" — 1999
 
+En 2011 lo eleva a ley general de la asignación de capital, válida igual para recomprar que para
+adquirir: no hay operaciones buenas o malas, hay precios.
+
+> "The first law of capital allocation - whether the money is slated for acquisitions or share
+> repurchases - is that what is smart at one price is dumb at another." — 2011
+
+Y saca el corolario contraintuitivo con IBM: si una participada va a recomprar durante años, al
+accionista de largo plazo le conviene que la acción **languidezca**, porque cada dólar recompra
+más participación.
+
+> "We should wish for IBM's stock price to languish throughout the five years... If you are going
+> to be a net buyer of stocks in the future, either directly with your own money or indirectly
+> (through your ownership of a company that is repurchasing shares), you are hurt when stocks
+> rise. You benefit when stocks swoon." — 2011
+
 ## Relacionados
 - [[beneficios-retenidos-participadas]] — la recompra es uno de los mejores usos del
   beneficio retenido.
@@ -76,3 +91,4 @@ opciones ejercidas —un "compra caro, vende barato" involuntario.
 - 1980
 - 1984
 - 1999
+- 2011
