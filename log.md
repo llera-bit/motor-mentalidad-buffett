@@ -334,3 +334,16 @@ _Registro append-only. Prefijo por entrada: `## [YYYY-MM-DD] <op> | <detalle>`
   de GEICO ya en `ventaja-competitiva`; la candor de la Class B (avisar de que la acción está
   cara, no explotar al comprador poco sofisticado) ya cubierta por `candor`.
 - **Estado:** borrador (ambas).
+
+## [2026-07-09] ingest | re-pase carta 1996 (lectura completa)
+- **Fuente:** `raw/1996.pdf` (una de las menos leídas en su día).
+- **Páginas creadas:** `predecibilidad` (los Inevitables: certeza de lo bueno sobre esperanza de
+  lo grande; negocios que apenas cambian; Impostors; la pérdida de foco como mayor amenaza).
+- **Páginas enriquecidas:** `fortaleza-financiera-y-liquidez` (+1996: "reverse engineer" /
+  máxima invertida de Munger, "where I'm going to die so I'll never go there"; no plantar
+  semillas de lo intolerable → no deuda grande), `concentracion` (+1996: la concentración surge
+  al dejar correr a los ganadores; no traspasar a Michael Jordan).
+- **No duplicado:** "if you aren't willing to own for ten years..." y el goal del inversor ya
+  están en `holding-para-siempre`; el moat de GEICO y el círculo definitivo (1996) ya en sus
+  páginas; float 1996 y "lumpy 15%" ya cubiertos.
+- **Estado:** borrador (todas).

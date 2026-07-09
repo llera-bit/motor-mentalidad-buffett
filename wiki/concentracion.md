@@ -1,7 +1,7 @@
 ---
 concepto: Concentración
 domain: modelos-mentales
-years: [1978, 1981, 1984, 1988, 1991, 1993]
+years: [1978, 1981, 1984, 1988, 1991, 1993, 1996]
 estado: borrador
 actualizado: 2026-07-09
 ---
@@ -59,6 +59,16 @@ diversificar en exceso hace daño.
 > conventional diversification makes no sense for you. It is apt simply to hurt your results and
 > increase your risk." — 1993
 
+En 1996 muestra la otra cara: la concentración también surge de forma natural al dejar correr a
+los ganadores. Vender una posición excelente solo porque ha crecido hasta dominar la cartera es
+como que los Bulls traspasaran a Michael Jordan por haberse vuelto demasiado importante.
+
+> "an investment strategy of that type will often result in its practitioner owning a few
+> securities that will come to represent a very large portion of his portfolio... To suggest
+> that this investor should sell off portions of his most successful investments simply because
+> they have come to dominate his portfolio is akin to suggesting that the Bulls trade Michael
+> Jordan because he has become so important to the team." — 1996
+
 ## Relacionados
 - [[criterios-de-seleccion]] — solo se concentra cuando se cumplen los cuatro filtros.
 - [[disciplina-de-no-actuar]] — la otra cara: no actuar cuando el entusiasmo es tibio.
@@ -70,3 +80,4 @@ diversificar en exceso hace daño.
 - 1988
 - 1991
 - 1993
+- 1996

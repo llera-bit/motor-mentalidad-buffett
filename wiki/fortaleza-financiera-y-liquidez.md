@@ -1,7 +1,7 @@
 ---
 concepto: Fortaleza financiera y liquidez
 domain: riesgo
-years: [1980, 1983, 1989, 1990]
+years: [1980, 1983, 1989, 1990, 1996]
 estado: borrador
 actualizado: 2026-07-09
 ---
@@ -58,6 +58,15 @@ pero un solo bache bastaría para matarlo, y los caminos del negocio están llen
 > roads of business are riddled with potholes; a plan that requires dodging them all is a plan
 > for disaster." — 1990
 
+En 1996 da la lógica de fondo, con la máxima invertida de Munger: identificar dónde está la ruina
+para no ir nunca allí. Si una consecuencia es intolerable —por remota que sea—, no se plantan sus
+semillas; de ahí que no se endeude en grande.
+
+> "we try to 'reverse engineer' our future at Berkshire, bearing in mind Charlie's dictum: 'All
+> I want to know is where I'm going to die so I'll never go there.'... If we can't tolerate a
+> possible consequence, remote though it may be, we steer clear of planting its seeds. That is
+> why we don't borrow big amounts." — 1996
+
 ## Relacionados
 - [[disciplina-de-no-actuar]] — la liquidez permite esperar sin verse forzado.
 - [[volatilidad-y-venta-forzada]] — la fortaleza evita la venta forzada por presión.
@@ -68,3 +77,4 @@ pero un solo bache bastaría para matarlo, y los caminos del negocio están llen
 - 1983
 - 1989
 - 1990
+- 1996

@@ -32,7 +32,7 @@ _Páginas de la wiki agrupadas por `domain`. Se actualiza con cada ingesta._
 - [Inflación, enemigo del inversor](wiki/inflacion-enemigo-del-inversor.md) — la inflación
   puede volver negativo el retorno real; índice de miseria; recelo de los bonos largos. `[1979, 1980, 1981]`
 - [Fortaleza financiera y liquidez](wiki/fortaleza-financiera-y-liquidez.md) — liquidez y
-  deuda moderada; capacidad de aguante y opciones; potencia de fuego. `[1980, 1983, 1989, 1990]`
+  deuda moderada; capacidad de aguante y opciones; potencia de fuego. `[1980, 1983, 1989, 1990, 1996]`
 - [Margen de seguridad](wiki/margen-de-seguridad.md) — comprar solo con holgura entre valor y
   precio; piedra angular (Graham). `[1990, 1992]`
 - [El riesgo no es la volatilidad](wiki/riesgo-no-es-volatilidad.md) — riesgo = posibilidad de
@@ -48,7 +48,7 @@ _Páginas de la wiki agrupadas por `domain`. Se actualiza con cada ingesta._
 - [Criterios de selección (cuatro filtros)](wiki/criterios-de-seleccion.md) — entender,
   perspectivas a largo plazo, gente honesta y competente, precio atractivo. `[1977, 1978, 1997]`
 - [Concentración](wiki/concentracion.md) — concentrar en alta convicción; nada tibio;
-  comprar cantidades significativas. `[1978, 1981, 1984, 1988, 1991, 1993]`
+  comprar cantidades significativas. `[1978, 1981, 1984, 1988, 1991, 1993, 1996]`
 - [Vientos a favor vs. en contra](wiki/vientos-a-favor-vs-en-contra.md) — la economía
   del negocio domina sobre el esfuerzo del gestor. `[1977, 1978, 1982, 1985, 1990, 2006]`
 - [Buen negocio a precio justo](wiki/buen-negocio-a-precio-justo.md) — los turnarounds rara
@@ -65,6 +65,8 @@ _Páginas de la wiki agrupadas por `domain`. Se actualiza con cada ingesta._
   dos metros; agnóstico fuera de lo que se entiende. `[1989, 1990, 1992, 1993, 1994, 1996, 1999]`
 - [Franquicia vs. negocio](wiki/franquicia-vs-negocio.md) — la franquicia (3 condiciones)
   tolera mala gestión; el negocio puede morir por ella. `[1991, 1995, 2006]`
+- [Predecibilidad (los Inevitables)](wiki/predecibilidad.md) — preferir la certeza de un buen
+  resultado a la esperanza de uno grande; negocios que apenas cambian. `[1996]`
 
 ## valoracion
 - [Beneficios retenidos de participadas](wiki/beneficios-retenidos-participadas.md) — la
