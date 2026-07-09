@@ -1,0 +1,40 @@
+---
+concepto: Errores de omisión
+domain: psicologia
+years: [1991]
+estado: borrador
+actualizado: 2026-07-09
+---
+
+# Errores de omisión
+
+Los peores errores de Buffett no son las compras equivocadas (comisión), sino las compras que
+no hizo (omisión): invisibles en las cuentas, pero igual de caros.
+
+> "Typically, our most egregious mistakes fall in the omission, rather than the commission,
+> category. That may spare Charlie and me some embarrassment, since you don't see these errors;
+> but their invisibility does not reduce their cost." — 1991
+
+No se refiere a haber dejado pasar negocios que nunca habría entendido (una invención esotérica,
+alta tecnología), sino a situaciones que sí entendía y que eran claramente atractivas, ante las
+que se quedó "chupándose el pulgar".
+
+> "I am not talking about missing out on some company that depends upon an esoteric invention
+> (such as Xerox), high-technology (Apple)... Instead I refer to business situations that Charlie
+> and I can understand and that seem clearly attractive - but in which we nevertheless end up
+> sucking our thumbs rather than buying." — 1991
+
+Su ejemplo de 1991: Fannie Mae. Empezó a comprar, el precio subió, dejó de comprar por
+frustración y vendió lo poco que tenía. El coste de esa parálisis fue enorme.
+
+> "What I can give you is an estimate as of yearend 1991 of the approximate gain that Berkshire
+> didn't make because of your Chairman's mistake: about $1.4 billion." — 1991
+
+## Relacionados
+- [[circulo-de-competencia]] — el error no es salirse del círculo, sino no actuar dentro de él.
+- [[disciplina-de-no-actuar]] — la otra cara: la contención ante el mal precio, no la parálisis
+  ante la buena oportunidad.
+- [[candor]] — confesar en público los errores para no repetirlos.
+
+## Cartas fuente
+- 1991

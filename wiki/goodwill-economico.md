@@ -1,9 +1,9 @@
 ---
 concepto: Goodwill económico
 domain: contabilidad
-years: [1983, 1985]
+years: [1983, 1985, 1991]
 estado: borrador
-actualizado: 2026-07-08
+actualizado: 2026-07-09
 ---
 
 # Goodwill económico
@@ -48,6 +48,22 @@ por una montaña de activos tangibles.
 > tangible assets that not too many years ago, under different competitive conditions, was able
 > to employ over 1,000 people." — 1985
 
+En 1991, a los veinte años de comprar See's, el goodwill económico se ve en los números: un
+negocio con muy pocos activos tangibles produce beneficios enormes. La clave para valorarlo es
+comparar el crecimiento del beneficio con el capital incremental que exigió.
+
+> "For an increase in profits to be evaluated properly, it must be compared with the incremental
+> capital investment required to produce it. On this score, See's has been astounding: The
+> company now operates comfortably with only $25 million of net worth, which means that our
+> beginning base of $7 million has had to be supplemented by only $18 million of reinvested
+> earnings." — 1991
+
+El origen de ese exceso de retorno fue la única intuición importante de la compra: un poder de
+fijación de precios sin explotar.
+
+> "In our See's purchase, Charlie and I had one important insight: We saw that the business had
+> untapped pricing power." — 1991
+
 ## Relacionados
 - [[ventaja-competitiva]] — la franquicia con el consumidor es la fuente del goodwill.
 - [[valor-intrinseco]] — el goodwill económico es parte del valor intrínseco no contable.
@@ -56,3 +72,4 @@ por una montaña de activos tangibles.
 ## Cartas fuente
 - 1983
 - 1985
+- 1991

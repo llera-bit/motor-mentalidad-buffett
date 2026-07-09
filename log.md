@@ -269,3 +269,16 @@ _Registro append-only. Prefijo por entrada: `## [YYYY-MM-DD] <op> | <detalle>`
   `vientos-a-favor-vs-en-contra` (+1990: en un commodity, "impossible to be smarter than your
   dumbest competitor").
 - **Estado:** sin cambios (borrador salvo `vientos-a-favor-vs-en-contra`, que sigue pendiente).
+
+## [2026-07-09] ingest | re-pase carta 1991 (lectura completa)
+- **Fuente:** `raw/1991.pdf`
+- **Páginas creadas:** `errores-de-omision` (los peores errores son de omisión, no de comisión;
+  Fannie Mae, ~$1.4 B no ganados; chuparse el pulgar ante lo entendido y atractivo).
+- **Páginas enriquecidas:** `incentivos-alineados` (+1991: comp de H.H. Brown = salario simbólico
+  + % del beneficio tras un cargo por capital; no tratar el capital como gratis), `concentracion`
+  (+1991: la cita de Keynes de 1934), `goodwill-economico` (+1991: See's a 20 años; comparar el
+  beneficio con el capital incremental; "untapped pricing power"), `valor-y-crecimiento` (+1991:
+  la matemática bob-around, de 25x a 10x al revisar la expectativa de crecimiento).
+- **No duplicado:** el look-through del propio inversor y "watch the field, not the scoreboard"
+  ya estaban en `beneficios-retenidos-participadas`; la franquicia vs. negocio, en su página.
+- **Estado:** borrador (todas las tocadas).

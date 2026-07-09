@@ -1,9 +1,9 @@
 ---
 concepto: Concentración
 domain: modelos-mentales
-years: [1978, 1981, 1984, 1988, 1993]
+years: [1978, 1981, 1984, 1988, 1991, 1993]
 estado: borrador
-actualizado: 2026-07-08
+actualizado: 2026-07-09
 ---
 
 # Concentración
@@ -36,6 +36,16 @@ convicción a largo plazo.
 > understand well... when we find such a business, we want to participate in a meaningful way.
 > We agree with Mae West: 'Too much of a good thing can be wonderful.'" — 1988
 
+En 1991 respalda su política con Keynes, cuyo talento como inversor igualaba al intelectual:
+concentrar en lo que uno conoce reduce el riesgo, no lo aumenta.
+
+> "As time goes on, I get more and more convinced that the right method in investment is to put
+> fairly large sums into enterprises which one thinks one knows something about and in the
+> management of which one thoroughly believes. It is a mistake to think that one limits one's
+> risk by spreading too much between enterprises about which one knows little... there are seldom
+> more than two or three enterprises at any given time in which I personally feel myself entitled
+> to put full confidence." — 1991 (Buffett citando a Keynes, 1934)
+
 En 1993 añade el argumento de riesgo: concentrar puede reducirlo, porque obliga a pensar más y
 a exigir más comodidad con el negocio antes de comprar. Para el inversor que entiende,
 diversificar en exceso hace daño.
@@ -58,4 +68,5 @@ diversificar en exceso hace daño.
 - 1981
 - 1984
 - 1988
+- 1991
 - 1993

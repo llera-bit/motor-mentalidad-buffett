@@ -1,9 +1,9 @@
 ---
 concepto: Valor y crecimiento
 domain: valoracion
-years: [1992, 2000]
+years: [1991, 1992, 2000]
 estado: borrador
-actualizado: 2026-07-08
+actualizado: 2026-07-09
 ---
 
 # Valor y crecimiento
@@ -30,6 +30,17 @@ un negocio de bajo retorno, crecer destruye valor.
 > that are enticing... In the case of a low-return business requiring incremental funds, growth
 > hurts the investor." — 1992
 
+Ya en 1991 lo había demostrado con números, al explicar el desplome del valor de los medios: un
+dólar de beneficio vale mucho más si se espera que crezca sin consumir capital que si solo "bota"
+alrededor de una cifra. Al revisar esa expectativa de crecimiento, la valoración de una misma
+corriente de beneficios cae de 25 a 10 veces.
+
+> "Dollars are dollars whether they are derived from the operation of media properties or of
+> steel mills. What in the past caused buyers to value a dollar of earnings from media far higher
+> than a dollar from steel was that the earnings of a media property were expected to constantly
+> grow (without the business requiring much additional capital)... valuations must change
+> dramatically when expectations are revised." — 1991
+
 En 2000, en plena burbuja puntocom, afila la frontera con la especulación: mirar lo que pagará
 el siguiente, no lo que el activo producirá.
 
@@ -45,5 +56,6 @@ el siguiente, no lo que el activo producirá.
 - [[vientos-a-favor-vs-en-contra]] — crecer en un mal negocio agrava el daño.
 
 ## Cartas fuente
+- 1991
 - 1992
 - 2000

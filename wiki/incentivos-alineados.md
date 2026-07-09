@@ -1,9 +1,9 @@
 ---
 concepto: Incentivos alineados
 domain: modelos-mentales
-years: [1985, 2002, 2003]
+years: [1985, 1991, 2002, 2003]
 estado: borrador
-actualizado: 2026-07-08
+actualizado: 2026-07-09
 ---
 
 # Incentivos alineados
@@ -33,6 +33,18 @@ El alineamiento real llega cuando el gestor compra acciones y asume su riesgo y 
 > "By accepting both the risks and the carrying costs that go with outright purchases, these
 > managers truly walk in the shoes of owners." — 1985
 
+En 1991, con la compra de H.H. Brown, describe un sistema de compensación que le "calienta el
+corazón": salario simbólico más un porcentaje del beneficio *después* de descontar un cargo por
+el capital empleado. Así el gestor no puede tratar el capital propio como si fuera gratis.
+
+> "A number of key managers are paid an annual salary of $7,800, to which is added a designated
+> percentage of the profits of the company after these are reduced by a charge for capital
+> employed. These managers therefore truly stand in the shoes of owners." — 1991
+
+> "most managers talk the talk but don't walk the walk, choosing instead to employ compensation
+> systems that are long on carrots but short on sticks (and that almost invariably treat equity
+> capital as if it were cost-free)." — 1991
+
 En 2002 muestra la cara perversa con los derivados: los errores de valoración no fueron
 simétricos, sino que favorecieron al trader que buscaba su bonus y al CEO que quería
 beneficios impresionantes —y cobraba en opciones.
@@ -55,5 +67,6 @@ les unta el pan, y las prácticas más ávidas se replican de empresa en empresa
 
 ## Cartas fuente
 - 1985
+- 1991
 - 2002
 - 2003

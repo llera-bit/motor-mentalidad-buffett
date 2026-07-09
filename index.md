@@ -23,6 +23,8 @@ _Páginas de la wiki agrupadas por `domain`. Se actualiza con cada ingesta._
   "para siempre"; si no lo tendrías 10 años, ni 10 minutos. `[1988, 1996, 1998]`
 - [El imperativo institucional](wiki/imperativo-institucional.md) — la fuerza invisible que
   marchita la racionalidad de los gestores; imitación, inercia, gasto por gastar. `[1989, 1990, 2003]`
+- [Errores de omisión](wiki/errores-de-omision.md) — los peores errores son los invisibles: no
+  comprar lo que se entendía y era atractivo (chuparse el pulgar). `[1991]`
 
 ## riesgo
 - [Volatilidad y venta forzada](wiki/volatilidad-y-venta-forzada.md) — la volatilidad
@@ -46,7 +48,7 @@ _Páginas de la wiki agrupadas por `domain`. Se actualiza con cada ingesta._
 - [Criterios de selección (cuatro filtros)](wiki/criterios-de-seleccion.md) — entender,
   perspectivas a largo plazo, gente honesta y competente, precio atractivo. `[1977, 1978, 1997]`
 - [Concentración](wiki/concentracion.md) — concentrar en alta convicción; nada tibio;
-  comprar cantidades significativas. `[1978, 1981, 1984, 1988, 1993]`
+  comprar cantidades significativas. `[1978, 1981, 1984, 1988, 1991, 1993]`
 - [Vientos a favor vs. en contra](wiki/vientos-a-favor-vs-en-contra.md) — la economía
   del negocio domina sobre el esfuerzo del gestor. `[1977, 1978, 1982, 1985, 1990, 2006]`
 - [Buen negocio a precio justo](wiki/buen-negocio-a-precio-justo.md) — los turnarounds rara
@@ -56,7 +58,7 @@ _Páginas de la wiki agrupadas por `domain`. Se actualiza con cada ingesta._
 - [Contra el mercado eficiente](wiki/contra-el-mercado-eficiente.md) — precio y valor
   divergen; la ventaja es la actitud, no el pronóstico (Washington Post). `[1985, 1988]`
 - [Incentivos alineados](wiki/incentivos-alineados.md) — las opciones premian retener, no
-  la habilidad; atar el premio a lo controlable; caminar en los zapatos del dueño. `[1985, 2002, 2003]`
+  la habilidad; atar el premio a lo controlable; caminar en los zapatos del dueño. `[1985, 1991, 2002, 2003]`
 - [Arbitraje](wiki/arbitraje.md) — cuatro preguntas para evaluar una operación anunciada;
   pocas, grandes y públicas. `[1988]`
 - [Círculo de competencia](wiki/circulo-de-competencia.md) — obstáculos de un palmo, no de
@@ -78,13 +80,13 @@ _Páginas de la wiki agrupadas por `domain`. Se actualiza con cada ingesta._
 - [Owner earnings](wiki/owner-earnings.md) — beneficio real del dueño: (a) beneficio + (b)
   cargas no monetarias − (c) capex de mantenimiento; falacia del cash flow. `[1986, 1989]`
 - [Valor y crecimiento](wiki/valor-y-crecimiento.md) — no son opuestos: el crecimiento es un
-  componente del valor; "value investing" es redundante. `[1992, 2000]`
+  componente del valor; "value investing" es redundante. `[1991, 1992, 2000]`
 
 ## contabilidad
 - [Retorno sobre el capital, no BPA](wiki/roe-vs-beneficio-por-accion.md) — juzgar por la
   tasa sobre el capital, no por el crecimiento del beneficio por acción. `[1979]`
 - [Goodwill económico](wiki/goodwill-economico.md) — valor capitalizado del exceso de
-  retorno sobre los activos tangibles; franquicia con el consumidor. `[1983, 1985]`
+  retorno sobre los activos tangibles; franquicia con el consumidor. `[1983, 1985, 1991]`
 
 ## casos
 - [Float (flotante del seguro)](wiki/float.md) — dinero que se retiene pero no se posee;
