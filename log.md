@@ -645,3 +645,18 @@ _Registro append-only. Prefijo por entrada: `## [YYYY-MM-DD] <op> | <detalle>`
   `emitir-acciones-solo-a-su-valor` (2009).
 - **Evolución:** sin disparador en 2019.
 - **Estado:** borrador.
+
+## [2026-07-09] ingest | carta 2020 (lectura completa)
+- **Fuente:** `raw/2020.pdf` (COVID; la depreciación de Precision Castparts).
+- **Páginas creadas:** ninguna.
+- **Páginas enriquecidas:** `margen-de-seguridad` (+2020: contra qué protege exactamente —en PCC
+  acertó sobre la calidad del negocio y erró sobre el nivel de beneficios futuros, y por tanto sobre
+  el precio; "no one misled me... I was simply too optimistic"), `tres-categorias-de-activos` (+2020:
+  con el bono al 0,93%, la tentación de bajar la calidad del deudor; "risky loans are not the answer
+  to inadequate interest rates" —así se destruyó la industria de savings & loans).
+- **No duplicado:** la lógica de la recompra de Apple (poseer más sin pagar) es el corolario de IBM
+  ya filado en `recompra-de-acciones` (2011); "CEOs recompran más cuando el precio ha subido" es el
+  reverso ya recogido en 1999.
+- **Evolución:** sin disparador. Apple se discute en 2020 **solo como inversión y por sus recompras**;
+  ni una línea sobre la tensión con "no invierto en tecnología" (1999/2007).
+- **Estado:** borrador.

@@ -34,7 +34,7 @@ _Páginas de la wiki agrupadas por `domain`. Se actualiza con cada ingesta._
 - [Fortaleza financiera y liquidez](wiki/fortaleza-financiera-y-liquidez.md) — liquidez y
   deuda moderada; capacidad de aguante y opciones; el efectivo es oxígeno. `[1980, 1983, 1989, 1990, 1996, 2008, 2014]`
 - [Margen de seguridad](wiki/margen-de-seguridad.md) — comprar solo con holgura entre valor y
-  precio; piedra angular (Graham). `[1990, 1992]`
+  precio; piedra angular (Graham); protege del error de estimación, no del de juicio. `[1990, 1992, 2020]`
 - [El riesgo no es la volatilidad](wiki/riesgo-no-es-volatilidad.md) — riesgo = posibilidad de
   pérdida de poder adquisitivo, no beta; depende del horizonte, no de la volatilidad. `[1990, 1993, 2008, 2011, 2014, 2017]`
 - [Principios de suscripción](wiki/principios-de-suscripcion.md) — solo riesgos que sabes
@@ -73,7 +73,7 @@ _Páginas de la wiki agrupadas por `domain`. Se actualiza con cada ingesta._
 - [Coste de oportunidad](wiki/coste-de-oportunidad.md) — cada decisión de capital se mide contra la
   mejor alternativa; no reinvertir donde se ganó por costumbre. `[1995, 2007, 2010]`
 - [Las tres categorías de activos](wiki/tres-categorias-de-activos.md) — monetarios (peligrosos),
-  improductivos (oro, especulación) y productivos (las vacas que dan leche). `[2011, 2018]`
+  improductivos (oro, especulación) y productivos (las vacas que dan leche). `[2011, 2018, 2020]`
 
 ## valoracion
 - [Beneficios retenidos de participadas](wiki/beneficios-retenidos-participadas.md) — la

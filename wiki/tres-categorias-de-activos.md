@@ -1,7 +1,7 @@
 ---
 concepto: Las tres categorías de activos
 domain: modelos-mentales
-years: [2011, 2018]
+years: [2011, 2018, 2020]
 estado: borrador
 actualizado: 2026-07-09
 ---
@@ -72,6 +72,15 @@ terminado con 4.200 $: menos del 1% de lo que le habría dado el negocio america
 > from a simple unmanaged investment in American business. The magical metal was no match for the
 > American mettle." — 2018
 
+En 2020, con el bono a diez años al 0,93%, avisa de la tentación que nace de la categoría 1 cuando
+no renta: bajar la calidad del deudor para arañar cupón. Ese no es el remedio.
+
+> "Fixed-income investors worldwide - whether pension funds, insurance companies or retirees - face
+> a bleak future." — 2020
+
+> "Risky loans, however, are not the answer to inadequate interest rates. Three decades ago, the
+> once-mighty savings and loan industry destroyed itself, partly by ignoring that maxim." — 2020
+
 ## Relacionados
 - [[riesgo-no-es-volatilidad]] — el riesgo es perder poder adquisitivo, no fluctuar.
 - [[inflacion-enemigo-del-inversor]] — por qué el activo monetario "seguro" no lo es.
@@ -82,3 +91,4 @@ terminado con 4.200 $: menos del 1% de lo que le habría dado el negocio america
 ## Cartas fuente
 - 2011
 - 2018
+- 2020

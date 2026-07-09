@@ -1,7 +1,7 @@
 ---
 concepto: Margen de seguridad
 domain: riesgo
-years: [1990, 1992]
+years: [1990, 1992, 2020]
 estado: borrador
 actualizado: 2026-07-09
 ---
@@ -26,6 +26,18 @@ tomadas del capítulo final de *The Intelligent Investor*.
 > words, we venture the motto, Margin of Safety.' Forty-two years after reading that, I still
 > think those are the right three words." — 1990
 
+En 2020 muestra con Precision Castparts exactamente contra qué protege el margen. No se equivocó
+sobre la calidad del negocio —acertó—, sino sobre el nivel de beneficios futuros. Y por tanto sobre
+el precio. Nadie lo engañó: fue optimismo propio.
+
+> "No one misled me in any way - I was simply too optimistic about PCC's normalized profit
+> potential." — 2020
+
+> "I believe I was right in concluding that PCC would, over time, earn good returns on the net
+> tangible assets deployed in its operations. I was wrong, however, in judging the average amount of
+> future earnings and, consequently, wrong in my calculation of the proper price to pay for the
+> business." — 2020
+
 ## Relacionados
 - [[valor-intrinseco]] — el margen se mide contra el valor intrínseco estimado.
 - [[circulo-de-competencia]] — la primera defensa contra el error; el margen es la segunda.
@@ -35,3 +47,4 @@ tomadas del capítulo final de *The Intelligent Investor*.
 ## Cartas fuente
 - 1990
 - 1992
+- 2020
