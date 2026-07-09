@@ -1,7 +1,7 @@
 ---
 concepto: Emitir acciones solo a su valor
 domain: valoracion
-years: [1982, 1994, 1997, 2007]
+years: [1982, 1994, 1997, 2007, 2009]
 estado: borrador
 actualizado: 2026-07-09
 ---
@@ -68,6 +68,22 @@ valor— con acciones de un negocio maravilloso convirtió una pérdida de 400 M
 > million, but rather $3.5 billion. In essence, I gave away 1.6% of a wonderful business... to buy
 > a worthless business." — 2007
 
+En 2009, al pagar en parte con acciones la compra de BNSF, da el test definitivo: si no venderías
+la empresa entera a su precio de mercado, tampoco deberías "venderla" a trozos emitiendo acciones
+a ese precio. Y el reverso: con la acción sobrevalorada, emitir es pagar con "dinero falso".
+
+> "If we wouldn't dream of selling Berkshire in its entirety at the current market price, why in
+> the world should we 'sell' a significant part of the company at that same inadequate price by
+> issuing our stock in a merger?" — 2009
+
+> "If an acquirer's stock is overvalued... Using it as a currency works to the acquirer's
+> advantage... they can afford to overpay because they are, in effect, using counterfeit money." — 2009
+
+Y denuncia el sesgo de los asesores: valoran lo que se compra, nunca lo que se entrega.
+
+> "never have I heard the investment bankers (or management!) discuss the true value of what is
+> being given... 'Don't ask the barber whether you need a haircut.'" — 2009
+
 ## Relacionados
 - [[locura-de-las-adquisiciones]] — la sed de tamaño que empuja a estas emisiones.
 - [[recompra-de-acciones]] — la cara inversa: recomprar cuando se cotiza bajo el valor.
@@ -78,3 +94,4 @@ valor— con acciones de un negocio maravilloso convirtió una pérdida de 400 M
 - 1994
 - 1997
 - 2007
+- 2009

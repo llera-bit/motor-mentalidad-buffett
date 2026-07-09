@@ -1,7 +1,7 @@
 ---
 concepto: Predecibilidad (los Inevitables)
 domain: modelos-mentales
-years: [1996]
+years: [1996, 2009]
 estado: borrador
 actualizado: 2026-07-09
 ---
@@ -42,6 +42,16 @@ descuide el gran negocio base para comprar otros mediocres.
 > worse... Loss of focus is what most worries Charlie and me when we contemplate investing in
 > businesses that in general look outstanding." — 1996
 
+En 2009 lo prueba con la historia: ver el crecimiento de una industria no basta, porque la
+competencia diezma a casi todos los que entran. Lo obvio en 1910 (autos), 1930 (aviones) o 1950
+(televisores) no evitó la carnicería para el inversor.
+
+> "it required no brilliance for people to foresee the fabulous growth that awaited such
+> industries as autos (in 1910), aircraft (in 1930) and television sets (in 1950). But the future
+> then also included competitive dynamics that would decimate almost all of the companies entering
+> those industries... At Berkshire we will stick with businesses whose profit picture for decades
+> to come seems reasonably predictable." — 2009
+
 ## Relacionados
 - [[ventaja-competitiva]] — el foso duradero es lo que hace posible la inevitabilidad.
 - [[circulo-de-competencia]] — la predecibilidad es lo que permite evaluar el negocio.
@@ -50,3 +60,4 @@ descuide el gran negocio base para comprar otros mediocres.
 
 ## Cartas fuente
 - 1996
+- 2009

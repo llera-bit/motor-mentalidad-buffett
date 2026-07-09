@@ -451,3 +451,17 @@ _Registro append-only. Prefijo por entrada: `## [YYYY-MM-DD] <op> | <detalle>`
   "pessimism is your friend" en `miedo-y-codicia`; el error de ConocoPhillips/bancos irlandeses y el
   análisis Clayton/hipotecas (HPA, "borrowers who shouldn't have borrowed") son casos/macro.
 - **Estado:** borrador (todas las tocadas).
+
+## [2026-07-09] ingest | carta 2009 (lectura completa)
+- **Fuente:** `raw/2009.pdf` (compra de BNSF).
+- **Páginas creadas:** ninguna.
+- **Páginas enriquecidas:** `predecibilidad` (+2009: autos 1910 / aviones 1930 / TV 1950 —ver el
+  crecimiento no basta; la competencia diezma a casi todos los que entran), `miedo-y-codicia`
+  (+2009: "when it's raining gold, reach for a bucket, not a thimble"; "a climate of fear is your
+  best friend"), `emitir-acciones-solo-a-su-valor` (+2009: BNSF —si no venderías la empresa entera
+  a ese precio, no la vendas a trozos; la acción sobrevalorada = "counterfeit money"; los asesores
+  nunca valoran lo que se entrega, "don't ask the barber").
+- **No duplicado:** "invert, always invert" / kindness of strangers ya en `fortaleza` (1996/2008);
+  "CEO must own risk control" en `derivados` (2008); el giro a negocios intensivos en capital
+  "buenos" ya en `negocio-grande-bueno-pesimo` (2007); Clayton/hipotecas y NetJets, casos.
+- **Estado:** borrador (todas las tocadas).

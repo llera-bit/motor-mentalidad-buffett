@@ -18,7 +18,7 @@ _Páginas de la wiki agrupadas por `domain`. Se actualiza con cada ingesta._
 - [Fallar convencionalmente](wiki/fallar-convencionalmente.md) — el incentivo del gestor a
   seguir a la manada; actuar como dueño libera de él; no buscar el aplauso. `[1984, 2008]`
 - [Miedo y codicia](wiki/miedo-y-codicia.md) — dos enfermedades súper-contagiosas; ser
-  temeroso cuando otros son codiciosos y viceversa. `[1986, 1990, 1994, 2000]`
+  temeroso cuando otros son codiciosos y viceversa. `[1986, 1990, 1994, 2000, 2009]`
 - [Holding para siempre](wiki/holding-para-siempre.md) — el periodo de tenencia favorito es
   "para siempre"; si no lo tendrías 10 años, ni 10 minutos. `[1988, 1996, 1998]`
 - [El imperativo institucional](wiki/imperativo-institucional.md) — la fuerza invisible que
@@ -66,7 +66,7 @@ _Páginas de la wiki agrupadas por `domain`. Se actualiza con cada ingesta._
 - [Franquicia vs. negocio](wiki/franquicia-vs-negocio.md) — la franquicia (3 condiciones)
   tolera mala gestión; el negocio puede morir por ella. `[1991, 1995, 2006]`
 - [Predecibilidad (los Inevitables)](wiki/predecibilidad.md) — preferir la certeza de un buen
-  resultado a la esperanza de uno grande; negocios que apenas cambian. `[1996]`
+  resultado a la esperanza de uno grande; negocios que apenas cambian. `[1996, 2009]`
 - [El gran negocio, el bueno y el pésimo](wiki/negocio-grande-bueno-pesimo.md) — clasificar por la
   economía del capital: el gran negocio crece sin devorar capital; el pésimo lo engulle. `[2007]`
 
@@ -78,7 +78,7 @@ _Páginas de la wiki agrupadas por `domain`. Se actualiza con cada ingesta._
 - [Retener o repartir](wiki/retener-o-repartir.md) — retener solo si el capital rinde más
   dentro que fuera; si no, repartir. `[1981, 1983, 1984]`
 - [Emitir acciones solo a su valor](wiki/emitir-acciones-solo-a-su-valor.md) — no emitir
-  acciones si no se recibe tanto valor intrínseco como el que se entrega. `[1982, 1994, 1997, 2007]`
+  acciones si no se recibe tanto valor intrínseco como el que se entrega. `[1982, 1994, 1997, 2007, 2009]`
 - [Valor intrínseco](wiki/valor-intrinseco.md) — lo que puede sacarse (flujos futuros
   descontados), no lo que se metió (valor contable). `[1983, 1992, 2000]`
 - [Owner earnings](wiki/owner-earnings.md) — beneficio real del dueño: (a) beneficio + (b)

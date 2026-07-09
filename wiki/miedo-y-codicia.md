@@ -1,7 +1,7 @@
 ---
 concepto: Miedo y codicia
 domain: psicologia
-years: [1986, 1990, 1994, 2000]
+years: [1986, 1990, 1994, 2000, 2009]
 estado: borrador
 actualizado: 2026-07-09
 ---
@@ -56,6 +56,15 @@ una sala cuyos relojes no tienen agujas.
 > the giddy participants all plan to leave just seconds before midnight. There's a problem,
 > though: They are dancing in a room in which the clocks have no hands." — 2000
 
+En 2009, tras la crisis, da el reverso activo: cuando el miedo abarata todo, hay que actuar en
+grande, no con timidez.
+
+> "Big opportunities come infrequently. When it's raining gold, reach for a bucket, not a
+> thimble." — 2009
+
+> "A climate of fear is their best friend. Those who invest only when commentators are upbeat end
+> up paying a heavy price for meaningless reassurance." — 2009
+
 ## Relacionados
 - [[mr-market]] — el socio maníaco-depresivo cuyo estado de ánimo aprovechar.
 - [[no-predecir-el-mercado]] — no se anticipa el brote; se responde a él.
@@ -66,3 +75,4 @@ una sala cuyos relojes no tienen agujas.
 - 1990
 - 1994
 - 2000
+- 2009
