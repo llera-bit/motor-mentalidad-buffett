@@ -18,7 +18,7 @@ _Páginas de la wiki agrupadas por `domain`. Se actualiza con cada ingesta._
 - [Fallar convencionalmente](wiki/fallar-convencionalmente.md) — el incentivo del gestor a
   seguir a la manada; actuar como dueño libera de él. `[1984]`
 - [Miedo y codicia](wiki/miedo-y-codicia.md) — dos enfermedades súper-contagiosas; ser
-  temeroso cuando otros son codiciosos y viceversa. `[1986, 1990, 1994]`
+  temeroso cuando otros son codiciosos y viceversa. `[1986, 1990, 1994, 2000]`
 - [Holding para siempre](wiki/holding-para-siempre.md) — el periodo de tenencia favorito es
   "para siempre"; si no lo tendrías 10 años, ni 10 minutos. `[1988, 1996, 1998]`
 - [El imperativo institucional](wiki/imperativo-institucional.md) — la fuerza invisible que

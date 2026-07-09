@@ -386,3 +386,17 @@ _Registro append-only. Prefijo por entrada: `## [YYYY-MM-DD] <op> | <detalle>`
   `circulo-de-competencia` (1999); look-through ya cubierto. La cautela sobre el nivel del mercado
   (retornos atados al PIB) queda fuera —es una llamada macro puntual, no un principio transferible.
 - **Estado:** borrador (ambas).
+
+## [2026-07-09] ingest | re-pase carta 2000 (lectura completa)
+- **Fuente:** `raw/2000.pdf`
+- **Páginas creadas:** ninguna.
+- **Páginas enriquecidas:** `miedo-y-codicia` (+2000: la psicología de la burbuja/codicia —"nothing
+  sedates rationality like large doses of effortless money"; Cenicienta; bailar donde los relojes
+  no tienen agujas; su lado de la codicia estaba poco desarrollado).
+- **No duplicado:** Esopo "bird in the hand" (3 preguntas) ya en `valor-intrinseco` (2000);
+  "speculation... not a game we play" / "most dangerous when it looks easiest" ya en
+  `valor-y-crecimiento` (2000); la crítica al EBITDA ("tooth fairy pays for capex") y la
+  depreciación como coste real reformulan el 1989 de `owner-earnings`; el mea culpa de Dexter
+  (pagar con acciones) es el principio de `emitir-acciones` (1997) ya cubierto; adquisiciones,
+  operativo.
+- **Estado:** borrador.

@@ -1,9 +1,9 @@
 ---
 concepto: Miedo y codicia
 domain: psicologia
-years: [1986, 1990, 1994]
+years: [1986, 1990, 1994, 2000]
 estado: borrador
-actualizado: 2026-07-08
+actualizado: 2026-07-09
 ---
 
 # Miedo y codicia
@@ -46,6 +46,16 @@ evento macro estaba en su punto máximo.
 > "we have usually made our best purchases when apprehensions about some macro event were at a
 > peak. Fear is the foe of the faddist, but the friend of the fundamentalist." — 1994
 
+En 2000, en plena burbuja puntocom, retrata la otra enfermedad —la codicia— y cómo el dinero
+fácil anestesia la razón. Todos creen que sabrán salir a tiempo, como Cenicienta, pero bailan en
+una sala cuyos relojes no tienen agujas.
+
+> "Nothing sedates rationality like large doses of effortless money. After a heady experience of
+> that kind, normally sensible people drift into behavior akin to that of Cinderella at the
+> ball... they nevertheless hate to miss a single minute of what is one helluva party. Therefore,
+> the giddy participants all plan to leave just seconds before midnight. There's a problem,
+> though: They are dancing in a room in which the clocks have no hands." — 2000
+
 ## Relacionados
 - [[mr-market]] — el socio maníaco-depresivo cuyo estado de ánimo aprovechar.
 - [[no-predecir-el-mercado]] — no se anticipa el brote; se responde a él.
@@ -55,3 +65,4 @@ evento macro estaba en su punto máximo.
 - 1986
 - 1990
 - 1994
+- 2000
