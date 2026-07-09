@@ -8,11 +8,11 @@ _Páginas de la wiki agrupadas por `domain`. Se actualiza con cada ingesta._
 - [Disciplina de no actuar](wiki/disciplina-de-no-actuar.md) — aceptar menos volumen
   antes que operar a precios malos; esperar la pelota en la "zona feliz". `[1977, 1979, 1984, 1994, 1996]`
 - [No predecir el mercado](wiki/no-predecir-el-mercado.md) — nadie puede predecir el
-  precio a corto plazo; ignorar la macro; orientación al largo plazo del negocio. `[1978, 1980, 1994]`
+  precio a corto plazo; ignorar la macro; orientación al largo plazo del negocio. `[1978, 1980, 1992, 1994]`
 - [La locura de las adquisiciones](wiki/locura-de-las-adquisiciones.md) — espíritus
-  animales, culto al tamaño y exceso de optimismo (sapos y princesas). `[1981, 1982]`
+  animales, culto al tamaño y exceso de optimismo (sapos y princesas). `[1981, 1982, 1992]`
 - [Candor](wiki/candor.md) — informar con franqueza; engañar en público acaba engañándote
-  a ti mismo en privado. `[1983]`
+  a ti mismo en privado. `[1983, 1992]`
 - [Hiperactividad del mercado](wiki/hiperactividad-del-mercado.md) — la rotación es un
   impuesto que el inversor se impone; "pickpocket of enterprise"; Gotrocks. `[1983, 1986, 2004, 2005]`
 - [Fallar convencionalmente](wiki/fallar-convencionalmente.md) — el incentivo del gestor a
@@ -56,7 +56,7 @@ _Páginas de la wiki agrupadas por `domain`. Se actualiza con cada ingesta._
 - [Ventaja competitiva duradera](wiki/ventaja-competitiva.md) — una ventaja importante y
   difícil de duplicar (GEICO, bajo coste) unida a buena gestión; el foso. `[1980, 1982, 1986, 1993, 1995, 2005]`
 - [Contra el mercado eficiente](wiki/contra-el-mercado-eficiente.md) — precio y valor
-  divergen; la ventaja es la actitud, no el pronóstico (Washington Post). `[1985, 1988]`
+  divergen; la ventaja es la actitud, no el pronóstico (Washington Post). `[1985, 1988, 1992]`
 - [Incentivos alineados](wiki/incentivos-alineados.md) — las opciones premian retener, no
   la habilidad; atar el premio a lo controlable; caminar en los zapatos del dueño. `[1985, 1991, 2002, 2003]`
 - [Arbitraje](wiki/arbitraje.md) — cuatro preguntas para evaluar una operación anunciada;

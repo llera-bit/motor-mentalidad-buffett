@@ -1,9 +1,9 @@
 ---
 concepto: La locura de las adquisiciones
 domain: psicologia
-years: [1981, 1982]
+years: [1981, 1982, 1992]
 estado: borrador
-actualizado: 2026-07-08
+actualizado: 2026-07-09
 ---
 
 # La locura de las adquisiciones
@@ -48,6 +48,16 @@ Y recurre a Pascal para nombrar el fondo del problema.
 > "It has struck me that all men's misfortunes spring from the single cause that they are
 > unable to stay quietly in one room." — 1982 (Buffett citando a Pascal)
 
+En 1992 describe el desenlace del ciclo del sapo: cuando el gestor optimista al fin se rinde
+ante los sapos que no despiertan, anuncia un enorme "restructuring charge". Y confiesa que él
+mismo cayó en la trampa.
+
+> "Standing knee-deep in unresponsive toads, he then announces an enormous 'restructuring'
+> charge. In this corporate equivalent of a Head Start program, the CEO receives the education
+> but the stockholders pay the tuition." — 1992
+
+> "In my early days as a manager I, too, dated a few toads... I kissed and they croaked." — 1992
+
 ## Relacionados
 - [[disciplina-de-no-actuar]] — la disciplina de no pagar de más ni actuar por actuar.
 - [[buen-negocio-a-precio-justo]] — comprar un príncipe que ya lo era, no un sapo a besar.
@@ -55,3 +65,4 @@ Y recurre a Pascal para nombrar el fondo del problema.
 ## Cartas fuente
 - 1981
 - 1982
+- 1992

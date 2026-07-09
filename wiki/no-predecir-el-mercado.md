@@ -1,9 +1,9 @@
 ---
 concepto: No predecir el mercado
 domain: psicologia
-years: [1978, 1980, 1994]
+years: [1978, 1980, 1992, 1994]
 estado: borrador
-actualizado: 2026-07-08
+actualizado: 2026-07-09
 ---
 
 # No predecir el mercado
@@ -30,6 +30,14 @@ más del pronosticador que del futuro.
 > "We believe that short-term forecasts of stock or bond prices are useless. The forecasts
 > may tell you a great deal about the forecaster; they tell you nothing about the future." — 1980
 
+En 1992 lo lleva a su forma más mordaz, incluso mientras admite a regañadientes que el retorno
+futuro del mercado será menor: el pronóstico a corto plazo es veneno.
+
+> "We've long felt that the only value of stock forecasters is to make fortune tellers look
+> good. Even now, Charlie and I continue to believe that short-term market forecasts are poison
+> and should be kept locked up in a safe place, away from children and also from grown-ups who
+> behave in the market like children." — 1992
+
 En 1994 lo extiende a la macro: ignora los pronósticos políticos y económicos, un lujo caro.
 Ni la guerra de Vietnam, ni los shocks del petróleo, ni la caída de la URSS hicieron mella en
 los principios de Graham.
@@ -47,4 +55,5 @@ los principios de Graham.
 ## Cartas fuente
 - 1978
 - 1980
+- 1992
 - 1994

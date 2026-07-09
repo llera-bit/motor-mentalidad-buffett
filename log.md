@@ -282,3 +282,16 @@ _Registro append-only. Prefijo por entrada: `## [YYYY-MM-DD] <op> | <detalle>`
 - **No duplicado:** el look-through del propio inversor y "watch the field, not the scoreboard"
   ya estaban en `beneficios-retenidos-participadas`; la franquicia vs. negocio, en su página.
 - **Estado:** borrador (todas las tocadas).
+
+## [2026-07-09] ingest | re-pase carta 1992 (lectura completa)
+- **Fuente:** `raw/1992.pdf`
+- **Páginas creadas:** ninguna.
+- **Páginas enriquecidas:** `no-predecir-el-mercado` (+1992: "forecasts are poison"; los
+  pronosticadores hacen quedar bien a los adivinos), `contra-el-mercado-eficiente` (+1992:
+  mercado secundario gobernado por la locura colectiva, x por 1/2x; nueva emisión la controla
+  el vendedor), `locura-de-las-adquisiciones` (+1992: el "restructuring charge"; el CEO recibe
+  la educación y el accionista paga la matrícula; su propio mea culpa), `candor` (+1992: las
+  opciones son un coste real; "calling a tail a leg does not make it a leg").
+- **No duplicado:** JBW/DCF y "define what you don't know" ya en `valor-intrinseco` y
+  `circulo-de-competencia`; margen de seguridad y valor/crecimiento, en sus páginas.
+- **Estado:** borrador (todas las tocadas).

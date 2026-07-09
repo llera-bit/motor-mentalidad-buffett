@@ -1,9 +1,9 @@
 ---
 concepto: Contra el mercado eficiente
 domain: modelos-mentales
-years: [1985, 1988]
+years: [1985, 1988, 1992]
 estado: borrador
-actualizado: 2026-07-08
+actualizado: 2026-07-09
 ---
 
 # Contra el mercado eficiente
@@ -43,6 +43,19 @@ Y señala la ventaja competitiva de tener rivales a los que enseñaron que es in
 > "In any sort of a contest - financial, mental, or physical - it's an enormous advantage to
 > have opponents who have been taught that it's useless to even try." — 1988
 
+En 1992 explica de dónde salen esas oportunidades: el mercado secundario, gobernado a ratos por
+la locura colectiva, fija sin cesar un precio de "liquidación" que puede alejarse mucho del
+valor —a veces la mitad o menos—. El mercado de nuevas emisiones, en cambio, lo controla quien
+vende, que elige el momento y no regala nada.
+
+> "The secondary market, which is periodically ruled by mass folly, is constantly setting a
+> 'clearing' price. No matter how foolish that price may be, it's what counts for the holder of
+> a stock or bond who needs or wishes to sell... In many instances, shares worth x in business
+> value have sold in the market for 1/2x or less." — 1992
+
+> "an intelligent investor in common stocks will do better in the secondary market than he will
+> do buying new issues." — 1992
+
 ## Relacionados
 - [[valor-intrinseco]] — precio y valor divergen; ahí está la oportunidad.
 - [[mr-market]] — el mercado ofrece precios irracionales que se pueden aprovechar.
@@ -51,3 +64,4 @@ Y señala la ventaja competitiva de tener rivales a los que enseñaron que es in
 ## Cartas fuente
 - 1985
 - 1988
+- 1992
