@@ -1,9 +1,9 @@
 ---
 concepto: Buen negocio a precio justo
 domain: modelos-mentales
-years: [1979, 1980, 1989]
+years: [1979, 1980, 1989, 2014]
 estado: borrador
-actualizado: 2026-07-08
+actualizado: 2026-07-09
 ---
 
 # Buen negocio a precio justo
@@ -47,6 +47,21 @@ un mal negocio nunca vienen solos.
 > "In a difficult business, no sooner is one problem solved than another surfaces - never is
 > there just one cockroach in the kitchen." — 1989
 
+En 2014 cuenta el origen de la regla y por qué abandonó la "colilla de puro" de Graham: comprar
+negocios mediocres a precio de ganga no escala con dinero grande, y es mal cimiento para algo
+duradero.
+
+> "Cigar-butt investing was scalable only to a point. With large sums, it would never work well...
+> though marginal businesses purchased at cheap prices may be attractive as short-term investments,
+> they are the wrong foundation on which to build a large and enduring enterprise. Selecting a
+> marriage partner clearly requires more demanding criteria than does dating." — 2014
+
+Y atribuye el giro a Munger, en una sola frase.
+
+> "The blueprint he gave me was simple: Forget what you know about buying fair businesses at
+> wonderful prices; instead, buy wonderful businesses at fair prices." — 2014 (Buffett citando a
+> Charlie Munger)
+
 ## Relacionados
 - [[vientos-a-favor-vs-en-contra]] — por qué el negocio malo, aun barato, sigue rindiendo mal.
 - [[criterios-de-seleccion]] — matiza el filtro de precio: barato no basta si el negocio es pobre.
@@ -57,3 +72,4 @@ un mal negocio nunca vienen solos.
 - 1979
 - 1980
 - 1989
+- 2014

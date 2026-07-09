@@ -28,15 +28,15 @@ _Páginas de la wiki agrupadas por `domain`. Se actualiza con cada ingesta._
 
 ## riesgo
 - [Volatilidad y venta forzada](wiki/volatilidad-y-venta-forzada.md) — la volatilidad
-  solo daña si te obliga a vender (presión financiera o psicológica). `[1987]`
+  solo daña si te obliga a vender (presión financiera o psicológica); la deuda es el mecanismo. `[1987, 2014]`
 - [Inflación, enemigo del inversor](wiki/inflacion-enemigo-del-inversor.md) — la inflación
   puede volver negativo el retorno real; índice de miseria; recelo de los bonos largos. `[1979, 1980, 1981]`
 - [Fortaleza financiera y liquidez](wiki/fortaleza-financiera-y-liquidez.md) — liquidez y
-  deuda moderada; capacidad de aguante y opciones; potencia de fuego. `[1980, 1983, 1989, 1990, 1996, 2008]`
+  deuda moderada; capacidad de aguante y opciones; el efectivo es oxígeno. `[1980, 1983, 1989, 1990, 1996, 2008, 2014]`
 - [Margen de seguridad](wiki/margen-de-seguridad.md) — comprar solo con holgura entre valor y
   precio; piedra angular (Graham). `[1990, 1992]`
 - [El riesgo no es la volatilidad](wiki/riesgo-no-es-volatilidad.md) — riesgo = posibilidad de
-  pérdida de poder adquisitivo, no beta; un activo que no fluctúa puede estar cargado de riesgo. `[1990, 1993, 2008, 2011]`
+  pérdida de poder adquisitivo, no beta; un activo que no fluctúa puede estar cargado de riesgo. `[1990, 1993, 2008, 2011, 2014]`
 - [Principios de suscripción](wiki/principios-de-suscripcion.md) — solo riesgos que sabes
   evaluar; limitar la agregación/correlación; evitar riesgo moral; exposición, no experiencia;
   la cuarta disciplina: saber retirarse. `[1997, 2001, 2002, 2010]`
@@ -53,7 +53,7 @@ _Páginas de la wiki agrupadas por `domain`. Se actualiza con cada ingesta._
 - [Vientos a favor vs. en contra](wiki/vientos-a-favor-vs-en-contra.md) — la economía
   del negocio domina sobre el esfuerzo del gestor. `[1977, 1978, 1982, 1985, 1990, 2006]`
 - [Buen negocio a precio justo](wiki/buen-negocio-a-precio-justo.md) — los turnarounds rara
-  vez giran; mejor buen negocio a precio justo que malo a precio de ganga. `[1979, 1980, 1989]`
+  vez giran; mejor buen negocio a precio justo que malo a precio de ganga (el plano de Munger). `[1979, 1980, 1989, 2014]`
 - [Ventaja competitiva duradera](wiki/ventaja-competitiva.md) — una ventaja importante y
   difícil de duplicar (GEICO, bajo coste) unida a buena gestión; el foso. `[1980, 1982, 1986, 1993, 1995, 2005, 2007]`
 - [Contra el mercado eficiente](wiki/contra-el-mercado-eficiente.md) — precio y valor

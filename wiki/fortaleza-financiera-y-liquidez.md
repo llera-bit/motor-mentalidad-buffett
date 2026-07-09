@@ -1,7 +1,7 @@
 ---
 concepto: Fortaleza financiera y liquidez
 domain: riesgo
-years: [1980, 1983, 1989, 1990, 1996, 2008]
+years: [1980, 1983, 1989, 1990, 1996, 2008, 2014]
 estado: borrador
 actualizado: 2026-07-09
 ---
@@ -75,6 +75,19 @@ cambiar el sueño por un beneficio extra.
 > tomorrow's obligations. When forced to choose, I will not trade even a night's sleep for the
 > chance of extra profits." — 2008
 
+En 2014 lo sistematiza en tres condiciones, y señala cuál se ignora siempre: la tercera. Muchos
+CEOs rentables dan por hecho que podrán refinanciar cualquier vencimiento, por grande que sea.
+
+> "Financial staying power requires a company to maintain three strengths under all circumstances:
+> (1) a large and reliable stream of earnings; (2) massive liquid assets and (3) no significant
+> near-term cash requirements. Ignoring that last necessity is what usually leads companies to
+> experience unexpected problems." — 2014
+
+Y su imagen para el efectivo, que en los buenos tiempos parece un lastre:
+
+> "Cash, though, is to a business as oxygen is to an individual: never thought about when it is
+> present, the only thing in mind when it is absent." — 2014
+
 ## Relacionados
 - [[disciplina-de-no-actuar]] — la liquidez permite esperar sin verse forzado.
 - [[volatilidad-y-venta-forzada]] — la fortaleza evita la venta forzada por presión.
@@ -88,3 +101,4 @@ cambiar el sueño por un beneficio extra.
 - 1990
 - 1996
 - 2008
+- 2014

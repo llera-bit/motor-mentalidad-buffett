@@ -1,9 +1,9 @@
 ---
 concepto: Volatilidad y venta forzada
 domain: riesgo
-years: [1987]
-estado: estable
-actualizado: 2026-07-07
+years: [1987, 2014]
+estado: pendiente
+actualizado: 2026-07-09
 ---
 
 # Volatilidad y venta forzada
@@ -42,6 +42,15 @@ nada más.
 > sold as prices decline. The strategy says nothing else matters: A downtick of a given
 > magnitude automatically produces a huge sell order." — 1987
 
+En 2014 lo aplica a su propia acción: ha caído cerca de un 50% en tres ocasiones desde 1965, y
+volverá a hacerlo. Para el dueño paciente eso es irrelevante; para el que usa deuda, es la ruina.
+La deuda es precisamente el mecanismo que convierte la volatilidad en venta forzada.
+
+> "Berkshire shares should not be purchased with borrowed money. There have been three times since
+> 1965 when our stock has fallen about 50% from its high point... Berkshire will almost certainly be
+> a satisfactory holding for investors. But it could well be a disastrous choice for speculators
+> employing leverage." — 2014
+
 ## Relacionados
 - [[mr-market]] — la fuente de las oscilaciones de precio que aquí se convierten en
   riesgo solo bajo venta forzada.
@@ -50,3 +59,4 @@ nada más.
 
 ## Cartas fuente
 - 1987
+- 2014

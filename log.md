@@ -551,3 +551,21 @@ _Registro append-only. Prefijo por entrada: `## [YYYY-MM-DD] <op> | <detalle>`
   costes de fricción en `hiperactividad-del-mercado` (Gotrocks); "a climate of fear is your friend"
   en `miedo-y-codicia` (2009).
 - **Estado:** sin cambios (mr-market sigue pendiente; el resto borrador).
+
+## [2026-07-09] ingest | carta 2014 (lectura completa)
+- **Fuente:** `raw/2014.pdf` (50 aniversario; la más larga, 2.139 líneas).
+- **Páginas creadas:** ninguna.
+- **Páginas enriquecidas:** `buen-negocio-a-precio-justo` (+2014: el origen —por qué abandonó la
+  colilla de puro: no escala y es mal cimiento; "marriage vs dating"— y el plano de Munger, "buy
+  wonderful businesses at fair prices"), `riesgo-no-es-volatilidad` (+2014: "Volatility is far from
+  synonymous with risk"; temer la volatilidad empuja a hacer cosas de verdad arriesgadas; el riesgo
+  lo fabrica también la conducta del inversor), `fortaleza-financiera-y-liquidez` (+2014: las tres
+  condiciones del aguante financiero —la tercera, no tener vencimientos próximos, es la que se
+  ignora—; el efectivo como oxígeno), `volatilidad-y-venta-forzada` (+2014: la acción de Berkshire
+  ha caído ~50% tres veces; la deuda es el mecanismo que convierte volatilidad en venta forzada).
+- **Cambio de estado:** `volatilidad-y-venta-forzada` pasa de `estable` a `pendiente` (segunda
+  página estable modificada, tras `mr-market`).
+- **No duplicado:** Dexter y la regla de dar menos valor del que se recibe ya en `emitir-acciones`
+  (2007/2009); See's como gran negocio en `negocio-grande-bueno-pesimo` (2007); "market forecasters
+  will fill your ear but never your wallet" reformula `no-predecir-el-mercado`.
+- **Estado:** borrador salvo `volatilidad-y-venta-forzada` (pendiente).

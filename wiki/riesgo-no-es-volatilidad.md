@@ -1,7 +1,7 @@
 ---
 concepto: El riesgo no es la volatilidad
 domain: riesgo
-years: [1990, 1993, 2008, 2011]
+years: [1990, 1993, 2008, 2011, 2014]
 estado: borrador
 actualizado: 2026-07-09
 ---
@@ -65,6 +65,21 @@ En 2011 cierra el argumento con el contraejemplo que lo demuestra: un activo que
 > they are reasonably certain to deliver increased purchasing power over their holding period. And
 > as we will see, a non-fluctuating asset can be laden with risk." — 2011
 
+En 2014 lo declara error de enseñanza, y añade la vuelta de tuerca: temer la volatilidad empuja a
+hacer cosas de verdad arriesgadas. El riesgo, además, no es solo del activo —lo fabrica también la
+conducta del inversor.
+
+> "volatility is almost universally used as a proxy for risk. Though this pedagogic assumption makes
+> for easy teaching, it is dead wrong: Volatility is far from synonymous with risk." — 2014
+
+> "If the investor, instead, fears price volatility, erroneously viewing it as a measure of risk, he
+> may, ironically, end up doing some very risky things." — 2014
+
+> "Investors, of course, can, by their own behavior, make stock ownership highly risky... Active
+> trading, attempts to 'time' market movements, inadequate diversification, the payment of high and
+> unnecessary fees to managers and advisors, and the use of borrowed money can destroy the decent
+> returns that a life-long owner of equities would otherwise enjoy." — 2014
+
 ## Relacionados
 - [[tres-categorias-de-activos]] — el marco donde este riesgo se hace visible: el bono "seguro".
 - [[volatilidad-y-venta-forzada]] — la volatilidad solo daña si te obliga a vender.
@@ -77,3 +92,4 @@ En 2011 cierra el argumento con el contraejemplo que lo demuestra: un activo que
 - 1993
 - 2008
 - 2011
+- 2014
