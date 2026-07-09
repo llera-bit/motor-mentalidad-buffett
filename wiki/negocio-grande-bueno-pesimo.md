@@ -52,6 +52,7 @@ muchas veces es un error hacerlo.
 - [[valor-y-crecimiento]] — crecer solo crea valor si el capital incremental rinde bien.
 - [[goodwill-economico]] — See's: poquísimo activo tangible, retornos enormes.
 - [[buen-negocio-a-precio-justo]] — el "buen negocio" que merece esfuerzo y capital.
+- [[coste-de-oportunidad]] — dónde desplegar el exceso de caja que el gran negocio no puede absorber.
 
 ## Cartas fuente
 - 2007

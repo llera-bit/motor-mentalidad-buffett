@@ -1,9 +1,9 @@
 ---
 concepto: Valor intrínseco
 domain: valoracion
-years: [1983, 1992, 2000]
+years: [1983, 1992, 2000, 2010]
 estado: borrador
-actualizado: 2026-07-08
+actualizado: 2026-07-09
 ---
 
 # Valor intrínseco
@@ -54,7 +54,18 @@ ciento volando". Valorar es responder tres preguntas.
 > these three questions, you will know the maximum value of the bush... And, of course, don't
 > literally think birds. Think dollars." — 2000
 
+En 2010 añade un tercer pilar, subjetivo pero decisivo: no basta con "lo que hay ahora", hay que
+juzgar qué hará la dirección con los beneficios que retenga. Unos convertirán cada dólar retenido
+en cincuenta céntimos; otros, en dos dólares.
+
+> "Some companies will turn these retained dollars into fifty-cent pieces, others into two-dollar
+> bills. This 'what-will-they-do-with-the-money' factor must always be evaluated along with the
+> 'what-do-we-have-now' calculation... A dollar of then-value in the hands of Sears Roebuck's or
+> Montgomery Ward's CEOs in the late 1960s had a far different destiny than did a dollar entrusted
+> to Sam Walton." — 2010
+
 ## Relacionados
+- [[coste-de-oportunidad]] — el valor depende de contra qué se mide cada dólar reinvertido.
 - [[analista-de-negocios]] — valorar el negocio (lo que puede sacarse), no la cotización.
 - [[goodwill-economico]] — el exceso de valor intrínseco sobre los activos tangibles.
 - [[criterios-de-seleccion]] — comprar por debajo del valor intrínseco.
@@ -63,3 +74,4 @@ ciento volando". Valorar es responder tres preguntas.
 - 1983
 - 1992
 - 2000
+- 2010

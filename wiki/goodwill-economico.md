@@ -1,7 +1,7 @@
 ---
 concepto: Goodwill económico
 domain: contabilidad
-years: [1983, 1985, 1991, 1994, 1999]
+years: [1983, 1985, 1991, 1994, 1999, 2010]
 estado: borrador
 actualizado: 2026-07-09
 ---
@@ -83,6 +83,16 @@ Como la tierra, tiende a crecer con el tiempo (en See's lleva 78 años haciéndo
 > going to go is in no way ordained. At See's, for example, economic goodwill has grown, in an
 > irregular but very substantial manner, for 78 years." — 1999
 
+En 2010 lo cuantifica con GEICO y desnuda la asimetría contable: el goodwill se rebaja en libros
+si su valor económico cae, pero jamás se sube si crece. Por eso el valor en libros subestima
+sistemáticamente el valor intrínseco.
+
+> "Today, premium volume is $14.3 billion and growing. Yet we carry the goodwill of GEICO on our
+> books at only $1.4 billion... (Under accounting rules, you write down the carrying value of
+> goodwill if its economic value decreases, but leave it unchanged if economic value increases.)
+> Using the 97%-of-premium-volume yardstick we applied to our 1996 purchase, the real value today
+> of GEICO's economic goodwill is about $14 billion." — 2010
+
 ## Relacionados
 - [[ventaja-competitiva]] — la franquicia con el consumidor es la fuente del goodwill.
 - [[valor-intrinseco]] — el goodwill económico es parte del valor intrínseco no contable.
@@ -94,3 +104,4 @@ Como la tierra, tiende a crecer con el tiempo (en See's lleva 78 años haciéndo
 - 1991
 - 1994
 - 1999
+- 2010

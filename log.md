@@ -480,3 +480,23 @@ _Registro append-only. Prefijo por entrada: `## [YYYY-MM-DD] <op> | <detalle>`
 - **Estado:** sin cambios (añadir un enlace en "Relacionados" es cambio trivial).
 - **Deuda abierta:** `check_years.py` sigue fuera del repo (en `/tmp`); 35 páginas en `borrador`
   nunca revisadas.
+
+## [2026-07-09] ingest | carta 2010 (lectura completa)
+- **Fuente:** `raw/2010.pdf`
+- **Páginas creadas:** `coste-de-oportunidad` (concepto nombrado en la taxonomía del CLAUDE.md y
+  nunca filado; consolida 1995 —comparar adquisiciones contra inversiones pasivas—, 2007 —"no rule
+  that you have to invest money where you've earned it"— y 2010 —el universo diminuto del propio
+  sector; medir contra bonos y acciones; el error textil—). Creada ya con enlaces entrantes desde
+  `negocio-grande-bueno-pesimo`, `retener-o-repartir`, `disciplina-de-no-actuar` y `valor-intrinseco`.
+- **Páginas enriquecidas:** `valor-intrinseco` (+2010: el tercer pilar, "what-will-they-do-with-the-
+  money"; billetes de 50 céntimos vs. de 2 dólares; Sears/Ward vs. Sam Walton), `principios-de-
+  suscripcion` (+2010: las cuatro disciplinas; casi todos incumplen la cuarta, saber retirarse),
+  `incentivos-alineados` (+2010: consejeros sin seguro de responsabilidad —si arruinan tu dinero
+  arruinan el suyo—; la asimetría del hedge fund, "patsies, not partners"), `goodwill-economico`
+  (+2010: GEICO —1.400 M en libros vs. ~14.000 M reales—; la contabilidad rebaja el goodwill si cae
+  pero nunca lo sube si crece).
+- **No duplicado:** "time is the friend of the wonderful business" ya en `buen-negocio-a-precio-justo`
+  (1989); "shoot the arrow then paint the bull's-eye" en `candor` (1993); beta rechazado y "scenarios
+  not previously observed" en `riesgo-no-es-volatilidad`; beneficios retenidos ≈ ganancias de mercado
+  en `beneficios-retenidos-participadas` (1979).
+- **Estado:** borrador (todas).

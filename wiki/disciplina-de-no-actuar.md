@@ -73,6 +73,7 @@ esperar (aunque reconoce que quedarse quieto tampoco es divertido).
 - [[mr-market]] — ignorar al mercado cuando su oferta no interesa (1987).
 - [[errores-de-omision]] — el límite: contención ante el mal precio, no parálisis ante la buena
   oportunidad.
+- [[coste-de-oportunidad]] — no actuar es correcto cuando nada supera a la alternativa disponible.
 
 ## Cartas fuente
 - 1977

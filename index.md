@@ -38,7 +38,8 @@ _Páginas de la wiki agrupadas por `domain`. Se actualiza con cada ingesta._
 - [El riesgo no es la volatilidad](wiki/riesgo-no-es-volatilidad.md) — riesgo = posibilidad de
   pérdida de poder adquisitivo, no beta; cinco factores; "beware of geeks bearing formulas". `[1990, 1993, 2008]`
 - [Principios de suscripción](wiki/principios-de-suscripcion.md) — solo riesgos que sabes
-  evaluar; limitar la agregación/correlación; evitar riesgo moral; exposición, no experiencia. `[1997, 2001, 2002]`
+  evaluar; limitar la agregación/correlación; evitar riesgo moral; exposición, no experiencia;
+  la cuarta disciplina: saber retirarse. `[1997, 2001, 2002, 2010]`
 - [Derivados](wiki/derivados.md) — bombas de relojería; riesgo de contraparte, mark-to-myth,
   linkage sistémico; "armas financieras de destrucción masiva". `[2002, 2008]`
 
@@ -58,7 +59,7 @@ _Páginas de la wiki agrupadas por `domain`. Se actualiza con cada ingesta._
 - [Contra el mercado eficiente](wiki/contra-el-mercado-eficiente.md) — precio y valor
   divergen; la ventaja es la actitud, no el pronóstico (Washington Post). `[1985, 1988, 1992]`
 - [Incentivos alineados](wiki/incentivos-alineados.md) — las opciones premian retener, no
-  la habilidad; atar el premio a lo controlable; caminar en los zapatos del dueño. `[1985, 1991, 1994, 2002, 2003]`
+  la habilidad; atar el premio a lo controlable; caminar en los zapatos del dueño. `[1985, 1991, 1994, 2002, 2003, 2010]`
 - [Arbitraje](wiki/arbitraje.md) — cuatro preguntas para evaluar una operación anunciada;
   pocas, grandes y públicas. `[1988]`
 - [Círculo de competencia](wiki/circulo-de-competencia.md) — obstáculos de un palmo, no de
@@ -69,6 +70,8 @@ _Páginas de la wiki agrupadas por `domain`. Se actualiza con cada ingesta._
   resultado a la esperanza de uno grande; negocios que apenas cambian. `[1996, 2009]`
 - [El gran negocio, el bueno y el pésimo](wiki/negocio-grande-bueno-pesimo.md) — clasificar por la
   economía del capital: el gran negocio crece sin devorar capital; el pésimo lo engulle. `[2007]`
+- [Coste de oportunidad](wiki/coste-de-oportunidad.md) — cada decisión de capital se mide contra la
+  mejor alternativa; no reinvertir donde se ganó por costumbre. `[1995, 2007, 2010]`
 
 ## valoracion
 - [Beneficios retenidos de participadas](wiki/beneficios-retenidos-participadas.md) — la
@@ -80,7 +83,7 @@ _Páginas de la wiki agrupadas por `domain`. Se actualiza con cada ingesta._
 - [Emitir acciones solo a su valor](wiki/emitir-acciones-solo-a-su-valor.md) — no emitir
   acciones si no se recibe tanto valor intrínseco como el que se entrega. `[1982, 1994, 1997, 2007, 2009]`
 - [Valor intrínseco](wiki/valor-intrinseco.md) — lo que puede sacarse (flujos futuros
-  descontados), no lo que se metió (valor contable). `[1983, 1992, 2000]`
+  descontados), no lo que se metió (valor contable); tercer pilar: qué harán con el dinero. `[1983, 1992, 2000, 2010]`
 - [Owner earnings](wiki/owner-earnings.md) — beneficio real del dueño: (a) beneficio + (b)
   cargas no monetarias − (c) capex de mantenimiento; falacia del cash flow. `[1986, 1989]`
 - [Valor y crecimiento](wiki/valor-y-crecimiento.md) — no son opuestos: el crecimiento es un
@@ -90,7 +93,7 @@ _Páginas de la wiki agrupadas por `domain`. Se actualiza con cada ingesta._
 - [Retorno sobre el capital, no BPA](wiki/roe-vs-beneficio-por-accion.md) — juzgar por la
   tasa sobre el capital, no por el crecimiento del beneficio por acción. `[1979]`
 - [Goodwill económico](wiki/goodwill-economico.md) — valor capitalizado del exceso de
-  retorno sobre los activos tangibles; franquicia con el consumidor. `[1983, 1985, 1991, 1994, 1999]`
+  retorno sobre los activos tangibles; franquicia con el consumidor. `[1983, 1985, 1991, 1994, 1999, 2010]`
 
 ## casos
 - [Float (flotante del seguro)](wiki/float.md) — dinero que se retiene pero no se posee;

@@ -1,7 +1,7 @@
 ---
 concepto: Incentivos alineados
 domain: modelos-mentales
-years: [1985, 1991, 1994, 2002, 2003]
+years: [1985, 1991, 1994, 2002, 2003, 2010]
 estado: borrador
 actualizado: 2026-07-09
 ---
@@ -69,6 +69,22 @@ les unta el pan, y las prácticas más ávidas se replican de empresa en empresa
 > consultant commented: 'There are two classes of clients you don't want to offend - actual and
 > potential.'" — 2003
 
+En 2010 extiende el principio al consejo: sus consejeros cobran una cantidad simbólica, sin
+opciones ni acciones restringidas, y **sin seguro de responsabilidad**. Si arruinan tu dinero,
+arruinan el suyo.
+
+> "They receive token compensation: no options, no restricted stock and, for that matter,
+> virtually no cash. We do not provide them directors and officers liability insurance, a given at
+> almost every other large public company. If they mess up with your money, they will lose their
+> money as well." — 2010
+
+Y describe la asimetría del mundo de los hedge funds —cobrar en las subidas y marcharse rico tras
+las bajadas—, que él corrige con diferimientos y arrastre de pérdidas.
+
+> "general partners who have received huge payouts on the upside and who then, when bad results
+> occurred, have walked away rich, with their limited partners losing back their earlier gains...
+> Investors who put money with such managers should be labeled patsies, not partners." — 2010
+
 ## Relacionados
 - [[retener-o-repartir]] — las opciones premian retener, aunque el capital rinda poco.
 - [[fallar-convencionalmente]] — actuar como dueño, no como gestor a sueldo.
@@ -79,3 +95,4 @@ les unta el pan, y las prácticas más ávidas se replican de empresa en empresa
 - 1994
 - 2002
 - 2003
+- 2010

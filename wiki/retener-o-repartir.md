@@ -58,6 +58,7 @@ Y su corolario sobre la rendición de cuentas:
 - [[beneficios-retenidos-participadas]] — el valor del beneficio retenido depende del uso.
 - [[recompra-de-acciones]] — repartir vía recompra cuando cotiza bajo el valor intrínseco.
 - [[roe-vs-beneficio-por-accion]] — el retorno sobre el capital decide si retener crea valor.
+- [[coste-de-oportunidad]] — "dentro o fuera" es una comparación contra la mejor alternativa.
 
 ## Cartas fuente
 - 1981

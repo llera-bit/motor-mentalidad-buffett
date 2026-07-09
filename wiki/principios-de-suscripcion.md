@@ -1,7 +1,7 @@
 ---
 concepto: Principios de suscripción (riesgo)
 domain: riesgo
-years: [1997, 2001, 2002]
+years: [1997, 2001, 2002, 2010]
 estado: borrador
 actualizado: 2026-07-09
 ---
@@ -60,6 +60,18 @@ que asesora el riesgo cobra por adelantado, acierte o no.
 > "The expert puts no money on the table. Instead, he receives an up-front payment that is
 > forever his no matter how inaccurate his predictions." — 1997
 
+En 2010 los reformula como cuatro disciplinas, y señala cuál es la que casi todos incumplen: la
+última, la de retirarse cuando no se puede cobrar la prima adecuada.
+
+> "a sound insurance operation requires four disciplines: (1) An understanding of all exposures...
+> (2) A conservative evaluation of the likelihood of any exposure actually causing a loss...
+> (3) The setting of a premium that will deliver a profit... and (4) The willingness to walk away
+> if the appropriate premium can't be obtained. Many insurers pass the first three tests and flunk
+> the fourth." — 2010
+
+> "'The other guy is doing it so we must as well' spells trouble in any business, but none more so
+> than insurance." — 2010
+
 ## Relacionados
 - [[riesgo-no-es-volatilidad]] — el riesgo real es la pérdida, no la volatilidad.
 - [[circulo-de-competencia]] — el principio 1: solo lo que sabes evaluar.
@@ -71,3 +83,4 @@ que asesora el riesgo cobra por adelantado, acierte o no.
 - 1997
 - 2001
 - 2002
+- 2010
