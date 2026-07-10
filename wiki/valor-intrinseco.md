@@ -65,6 +65,9 @@ en cincuenta céntimos; otros, en dos dólares.
 > to Sam Walton." — 2010
 
 ## Relacionados
+- [[dos-columnas-de-valoracion]] — los dos pilares medibles que Buffett sí publica.
+- [[valor-contable-pierde-relevancia]] — por qué el atajo contable dejó de servir.
+- [[look-through-earnings]] — el termómetro del crecimiento del valor intrínseco.
 - [[coste-de-oportunidad]] — el valor depende de contra qué se mide cada dólar reinvertido.
 - [[analista-de-negocios]] — valorar el negocio (lo que puede sacarse), no la cotización.
 - [[goodwill-economico]] — el exceso de valor intrínseco sobre los activos tangibles.

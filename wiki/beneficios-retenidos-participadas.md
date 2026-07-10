@@ -1,9 +1,9 @@
 ---
 concepto: Beneficios retenidos de participadas
 domain: valoracion
-years: [1978, 1979, 1980, 1991, 2019]
+years: [1978, 1979, 1980, 2019]
 estado: borrador
-actualizado: 2026-07-09
+actualizado: 2026-07-10
 ---
 
 # Beneficios retenidos de participadas
@@ -58,20 +58,8 @@ que se les dé —importa el acto, no el actor.
 > "If a tree grows in a forest partially owned by us, but we don't record the growth in our
 > financial statements, we still own part of the tree." — 1980
 
-En 1991 formaliza el cálculo, ahora llamado "look-through earnings".
-
-> "look-through earnings... consist of: (1) the operating earnings reported in the previous
-> section, plus; (2) the retained operating earnings of major investees that, under GAAP
-> accounting, are not reflected in our profits, less; (3) an allowance for the tax that would
-> be paid by Berkshire if these retained earnings of investees had instead been distributed
-> to us." — 1991
-
-Anima al inversor a aplicárselo a su cartera: para marcar carreras hay que mirar al campo, no
-al marcador.
-
-> "in the long run, the scoreboard for investment decisions is market price. But prices will
-> be determined by future earnings. In investing, just as in baseball, to put runs on the
-> scoreboard one must watch the playing field, not the scoreboard." — 1991
+El cálculo con el que Buffett cuantifica todo esto —restando el impuesto que habría pagado de
+haberse repartido— tiene página propia: [[look-through-earnings]].
 
 En 2019 recupera el origen intelectual de la idea: el libro de Edgar Lawrence Smith (1924), y la
 reseña con la que Keynes lo consagró. La empresa que retiene parte de su beneficio y lo reinvierte
@@ -85,12 +73,13 @@ introduce en la inversión un motor de interés compuesto, al margen del dividen
 > shareholders." — 2019 (Buffett citando a John Maynard Keynes sobre Edgar Lawrence Smith)
 
 ## Relacionados
+- [[look-through-earnings]] — la métrica que pone número a este principio.
 - [[analista-de-negocios]] — juzgar por el poder de generación de beneficios subyacente,
   no por lo reportado.
+- [[retener-o-repartir]] — la condición: retener solo si el capital rinde más dentro que fuera.
 
 ## Cartas fuente
 - 1978
 - 1979
 - 1980
-- 1991
 - 2019

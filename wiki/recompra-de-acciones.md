@@ -86,6 +86,7 @@ más participación.
   beneficio retenido.
 - [[ventaja-competitiva]] — GEICO recompra "un negocio que no se puede replicar".
 - [[emitir-acciones-solo-a-su-valor]] — la cara inversa: comprar barato lo propio, no venderlo barato.
+- [[valor-contable-pierde-relevancia]] — recomprar sube el valor intrínseco por acción y baja el contable.
 
 ## Cartas fuente
 - 1980

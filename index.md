@@ -77,7 +77,13 @@ _Páginas de la wiki agrupadas por `domain`. Se actualiza con cada ingesta._
 
 ## valoracion
 - [Beneficios retenidos de participadas](wiki/beneficios-retenidos-participadas.md) — la
-  parte no distribuida es valor real para el accionista si se reinvierte bien (Smith y Keynes). `[1978, 1979, 1980, 1991, 2019]`
+  parte no distribuida es valor real para el accionista si se reinvierte bien (Smith y Keynes). `[1978, 1979, 1980, 2019]`
+- [Look-through earnings](wiki/look-through-earnings.md) — la métrica que cuenta esos beneficios:
+  reportado + retenido de participadas − impuesto figurado; mirar el campo, no el marcador. `[1990, 1991, 1997, 2013]`
+- [Las dos columnas de valoración](wiki/dos-columnas-de-valoracion.md) — inversiones por acción y
+  beneficios ajenos al seguro; los dos pilares medibles del valor de Berkshire. `[2010, 2011]`
+- [El valor contable pierde relevancia](wiki/valor-contable-pierde-relevancia.md) — la carrera
+  universitaria; por qué Buffett retiró el marcador contable de la primera página. `[1994, 2011, 2018]`
 - [Recompra de acciones](wiki/recompra-de-acciones.md) — recomprar por debajo del valor
   intrínseco es de los mejores usos del capital; lo listo a un precio es tonto a otro. `[1980, 1984, 1999, 2011]`
 - [Retener o repartir](wiki/retener-o-repartir.md) — retener solo si el capital rinde más

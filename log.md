@@ -706,3 +706,23 @@ _Registro append-only. Prefijo por entrada: `## [YYYY-MM-DD] <op> | <detalle>`
   reformula `candor` (1983).
 - **Evolución:** sin disparador en ninguna carta. Cerrado el barrido 1977–2024.
 - **Estado:** borrador.
+
+## [2026-07-10] ingest | rebalanceo por proporcionalidad — dominio valoracion (1/4)
+- **Origen:** `CLAUDE.md` decía que casos y contabilidad eran "ilustración, no fin en sí". Esa
+  instrucción, ya corregida, sesgó la cobertura. Este es el primero de cuatro commits de
+  reparación, uno por dominio.
+- **Páginas creadas:** `look-through-earnings` (1990, 1991, 1997, 2013 — nombrada en la taxonomía
+  de `CLAUDE.md` y ausente hasta hoy), `dos-columnas-de-valoracion` (2010, 2011),
+  `valor-contable-pierde-relevancia` (1994, 2011, 2018).
+- **Split ejecutado (aprobado por el usuario):** `beneficios-retenidos-participadas` conserva el
+  **principio** (1978, 1979, 1980, 2019) y **cede** a `look-through-earnings` la definición de tres
+  pasos de 1991 y la cita del marcador de béisbol. Pierde el año 1991 en frontmatter, "Cartas
+  fuente" e `index.md`. No hay duplicación: cada cita vive en una sola página.
+- **Enlaces entrantes añadidos:** `valor-intrinseco`, `owner-earnings`, `goodwill-economico`,
+  `recompra-de-acciones`, `float` (cambios triviales, no alteran estado).
+- **No duplicado:** la analogía de la carrera universitaria de 1983 sigue en `valor-intrinseco`;
+  la de 1994 es un desarrollo distinto y va en la página nueva.
+- **Anotado, no investigado:** en 2011 Buffett llama al valor contable "a useful, though
+  considerably understated, proxy" y en 2018 lo retira. No es contradicción —él mismo enumera las
+  tres circunstancias que cambiaron—, así que **Evolución no se dispara**. Queda anotado.
+- **Estado:** borrador.

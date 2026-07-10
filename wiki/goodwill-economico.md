@@ -96,6 +96,7 @@ sistemáticamente el valor intrínseco.
 ## Relacionados
 - [[ventaja-competitiva]] — la franquicia con el consumidor es la fuente del goodwill.
 - [[valor-intrinseco]] — el goodwill económico es parte del valor intrínseco no contable.
+- [[valor-contable-pierde-relevancia]] — la misma brecha, medida en el marcador de Berkshire.
 - [[inflacion-enemigo-del-inversor]] — por qué el negocio ligero en activos resiste mejor.
 
 ## Cartas fuente
