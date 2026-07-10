@@ -1,9 +1,9 @@
 ---
 concepto: Vientos a favor vs. en contra
 domain: modelos-mentales
-years: [1977, 1978, 1982, 1985, 1990, 2006]
+years: [1977, 1978, 1982, 1985, 1990, 1996, 2006]
 estado: pendiente
-actualizado: 2026-07-09
+actualizado: 2026-07-10
 ---
 
 # Vientos a favor vs. en contra
@@ -70,6 +70,21 @@ torpe de tus competidores.
 > "In a business selling a commodity-type product, it's impossible to be a lot smarter than
 > your dumbest competitor." — 1990
 
+En 1996 se aplica la lección a sí mismo con USAir, donde invirtió 358 M en 1989. El error no fue de
+precio ni de gestor: fue mirar el historial en vez del barco.
+
+> "When Richard Branson, the wealthy owner of Virgin Atlantic Airways, was asked how to become a
+> millionaire, he had a quick answer: 'There's really nothing to it. Start as a billionaire and then
+> buy an airline.'" — 1996
+
+> "But my analysis of USAir's business was both superficial and wrong. I was so beguiled by the
+> company's long history of profitable operations, and by the protection that ownership of a senior
+> security seemingly offered me, that I overlooked the crucial point: USAir's revenues would
+> increasingly feel the effects of an unregulated, fiercely-competitive market whereas its cost
+> structure was a holdover from the days when regulation protected profits." — 1996
+
+> "(If history supplied all of the answers, the Forbes 400 would consist of librarians.)" — 1996
+
 En 2006, con el declive de los periódicos, lo reafirma: la economía en erosión acaba venciendo
 al mejor gestor.
 
@@ -90,4 +105,5 @@ al mejor gestor.
 - 1982
 - 1985
 - 1990
+- 1996
 - 2006

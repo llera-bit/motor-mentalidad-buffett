@@ -767,3 +767,22 @@ _Registro append-only. Prefijo por entrada: `## [YYYY-MM-DD] <op> | <detalle>`
   (no 2009); "Wise regulation and wise investment" y "social compact" son de 2010.
 - **Enlaces entrantes añadidos en 12 páginas existentes** para que ninguna de las 7 nazca huérfana.
 - **Estado:** borrador.
+
+## [2026-07-10] ingest | desproporciones detectadas: float, derivados, USAir (4/4)
+- **Origen:** el contraste de frecuencias encargado por el usuario. `float` citaba 5 años de las 39
+  cartas donde aparece; `derivados`, 2 de 14. Ambas **infracubiertas**, no infladas. Psicología y
+  riesgo salieron proporcionados; `mr-market` y `circulo-de-competencia` tienen ratio invertido por
+  el método de conteo (Buffett usa el concepto sin nombrarlo), no por defecto de la wiki: cerrado
+  por decisión del usuario, no se toca.
+- **`float` +2016, +2020:** el modelo "collect-now, pay-later"; la tabla de crecimiento (39 M en 1970
+  → 91.577 M en 2016); el coste que la competencia impone al sector; los 138.000 M de 2020 y la
+  analogía con los depósitos bancarios.
+- **`derivados` +2003, +2005, +2009:** la liquidación de Gen Re Securities (23.218 tickets, 884
+  contrapartes; dos años después seguían 7.580 y 453) y su coste; y las dos condiciones que hacen
+  aceptable la posición propia de Berkshire —cobrar por adelantado y no tener que aportar colateral.
+- **`vientos-a-favor-vs-en-contra` +1996 (USAir):** por decisión del usuario, USAir no es página de
+  caso sino enriquecimiento. "my analysis of USAir's business was both superficial and wrong".
+  Página en `pendiente`; sigue en `pendiente`.
+- **Cierre:** por instrucción del usuario, se detiene aquí toda auditoría de cobertura y
+  proporcionalidad. Lo que se observe a partir de ahora se anota, no se investiga.
+- **Estado:** borrador (salvo `vientos-a-favor-vs-en-contra`, que sigue `pendiente`).

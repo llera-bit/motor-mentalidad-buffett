@@ -41,7 +41,7 @@ _Páginas de la wiki agrupadas por `domain`. Se actualiza con cada ingesta._
   evaluar; limitar la agregación/correlación; evitar riesgo moral; exposición, no experiencia;
   la cuarta disciplina: saber retirarse. `[1997, 2001, 2002, 2010]`
 - [Derivados](wiki/derivados.md) — bombas de relojería; riesgo de contraparte, mark-to-myth,
-  linkage sistémico; "armas financieras de destrucción masiva". `[2002, 2008]`
+  linkage sistémico; lo difícil no es entrar sino salir (Gen Re Securities). `[2002, 2003, 2005, 2008, 2009]`
 
 ## modelos-mentales
 - [Analista de negocios, no de mercado](wiki/analista-de-negocios.md) — decidir sobre el
@@ -51,7 +51,7 @@ _Páginas de la wiki agrupadas por `domain`. Se actualiza con cada ingesta._
 - [Concentración](wiki/concentracion.md) — concentrar en alta convicción; nada tibio;
   comprar cantidades significativas; los hierbajos se marchitan, las flores florecen. `[1978, 1981, 1984, 1988, 1991, 1993, 1996, 2022]`
 - [Vientos a favor vs. en contra](wiki/vientos-a-favor-vs-en-contra.md) — la economía
-  del negocio domina sobre el esfuerzo del gestor. `[1977, 1978, 1982, 1985, 1990, 2006]`
+  del negocio domina sobre el esfuerzo del gestor; USAir. `[1977, 1978, 1982, 1985, 1990, 1996, 2006]`
 - [Buen negocio a precio justo](wiki/buen-negocio-a-precio-justo.md) — los turnarounds rara
   vez giran; mejor buen negocio a precio justo que malo a precio de ganga (el plano de Munger). `[1979, 1980, 1989, 2014]`
 - [Ventaja competitiva duradera](wiki/ventaja-competitiva.md) — una ventaja importante y
@@ -110,8 +110,8 @@ _Páginas de la wiki agrupadas por `domain`. Se actualiza con cada ingesta._
   mirar los beneficios operativos, no el resultado GAAP. `[2017, 2018, 2019]`
 
 ## casos
-- [Float (flotante del seguro)](wiki/float.md) — dinero que se retiene pero no se posee;
-  crea valor si su coste es menor que el de otros fondos; es un fondo rotatorio, no una deuda. `[1990, 1995, 1997, 1998, 2015]`
+- [Float (flotante del seguro)](wiki/float.md) — dinero que se retiene pero no se posee; cobrar
+  antes y pagar después; fondo rotatorio, no deuda; de 39 M (1970) a 138.000 M (2020). `[1990, 1995, 1997, 1998, 2015, 2016, 2020]`
 - [See's Candies](wiki/sees-candies.md) — el negocio soñado: 32 M reinvertidos, 1.350 M de beneficio;
   la escuela donde Buffett aprendió el valor de una marca. `[1983, 2007, 2011, 2014]`
 - [GEICO](wiki/geico.md) — la ventaja seguía intacta bajo los escombros; el productor de bajo coste

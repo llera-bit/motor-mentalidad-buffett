@@ -1,9 +1,9 @@
 ---
 concepto: Float (flotante del seguro)
 domain: casos
-years: [1990, 1995, 1997, 1998, 2015]
+years: [1990, 1995, 1997, 1998, 2015, 2016, 2020]
 estado: borrador
-actualizado: 2026-07-09
+actualizado: 2026-07-10
 ---
 
 # Float (flotante del seguro)
@@ -69,6 +69,39 @@ reemplazan; el dólar que se debe nunca sale, de hecho, de casa.
 > door tomorrow and not be replaced. The two types of liabilities, however, are treated as equals
 > under GAAP." — 2015
 
+## De dónde sale, y por qué crece
+
+En 2016 lo explica desde el modelo de negocio: el seguro cobra primero y paga después, y ese desfase
+es el float. Mientras el volumen de primas crezca, el float crece con él.
+
+> "This collect-now, pay-later model leaves P/C companies holding large sums - money we call 'float' -
+> that will eventually go to others. Meanwhile, insurers get to invest this float for their own
+> benefit... as our business grows, so does our float." — 2016
+
+La escala de ese crecimiento en 46 años: de 39 millones en 1970 a 91.577 millones en 2016.
+
+Y el caso feliz, cuando la suscripción además gana dinero:
+
+> "If our premiums exceed the total of our expenses and eventual losses, our insurance operation
+> registers an underwriting profit that adds to the investment income the float produces. When such a
+> profit is earned, we enjoy the use of free money - and, better yet, get paid for holding it." — 2016
+
+Pero advierte de que ese resultado no es el del sector: la competencia por conseguir float lo
+encarece hasta hacerlo negativo para el conjunto.
+
+> "the wish of all insurers to achieve this happy result creates intense competition, so vigorous
+> indeed that it sometimes causes the P/C industry as a whole to operate at a significant
+> underwriting loss. This loss, in effect, is what the industry pays to hold its float." — 2016
+
+En 2020, con 138.000 M de float, ofrece la analogía que mejor lo describe y repite la condición.
+
+> "Berkshire now enjoys $138 billion of insurance 'float' - funds that do not belong to us, but are
+> nevertheless ours to deploy... Float has some similarities to bank deposits: cash flows in and out
+> daily to insurers, with the total they hold changing very little." — 2020
+
+> "The massive sum held by Berkshire is likely to remain near its present level for many years and, on
+> a cumulative basis, has been costless to us. That happy result, of course, could change." — 2020
+
 ## Relacionados
 - [[geico]] — el caso extremo: coste del float por debajo de cero.
 - [[disciplina-de-no-actuar]] — la disciplina de suscripción es lo que mantiene barato el float.
@@ -82,3 +115,5 @@ reemplazan; el dólar que se debe nunca sale, de hecho, de casa.
 - 1997
 - 1998
 - 2015
+- 2016
+- 2020
