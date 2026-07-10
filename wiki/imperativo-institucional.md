@@ -56,6 +56,7 @@ inconsciente, es imparable. Se incluye a sí mismo, con el negocio textil.
 > makes dreams come true only in Disney movies; it's poison in business." — 2012
 
 ## Relacionados
+- [[negocio-textil]] — cada decisión racional, el conjunto irracional.
 - [[fallar-convencionalmente]] — el incentivo individual a imitar a la manada.
 - [[locura-de-las-adquisiciones]] — proyectos y compras que aparecen para gastar el dinero.
 - [[candor]] — la racionalidad que el imperativo erosiona.

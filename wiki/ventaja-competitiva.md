@@ -90,6 +90,9 @@ cesar— y no puede depender de una sola persona. Los fosos ilusorios son "Roman
 > the moat of the Mayo Clinic to endure, even though you can't name its CEO." — 2007
 
 ## Relacionados
+- [[sees-candies]] — la franquicia con el consumidor, construida en cincuenta años.
+- [[geico]] — el productor de bajo coste que el rival no puede imitar.
+- [[nebraska-furniture-mart]] — el bajo coste llevado al comercio minorista.
 - [[buen-negocio-a-precio-justo]] — la ventaja duradera es lo que hace "bueno" a un negocio.
 - [[vientos-a-favor-vs-en-contra]] — es el viento a favor estructural.
 - [[negocio-grande-bueno-pesimo]] — el foso es el requisito del gran negocio.

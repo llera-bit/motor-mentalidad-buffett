@@ -56,6 +56,7 @@ No es que la métrica se rompiera: es que el negocio que medía cambió de natur
 1994 nunca dejó de valer; Berkshire simplemente dejó de ser su excepción.
 
 ## Relacionados
+- [[scott-fetzer]] — los dos marcadores divergiendo durante ocho años.
 - [[valor-intrinseco]] — lo que puede sacarse, frente a lo que se metió.
 - [[goodwill-economico]] — la misma brecha, vista desde los activos tangibles.
 - [[mark-to-market]] — la otra cifra oficial que dejó de describir el negocio.

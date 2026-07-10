@@ -45,6 +45,7 @@ salarios.
 > would be laughed out of the bank if he started talking about EBDIT." — 1989
 
 ## Relacionados
+- [[scott-fetzer]] — el apéndice de 1986 se escribió sobre esta empresa.
 - [[look-through-earnings]] — la otra corrección al beneficio GAAP, por el lado de las participadas.
 - [[valor-intrinseco]] — los owner earnings alimentan la estimación del valor intrínseco.
 - [[contabilidad-enganosa]] — el EBITDA y las demás formas de esconder el capex.

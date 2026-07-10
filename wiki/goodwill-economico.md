@@ -94,6 +94,8 @@ sistemáticamente el valor intrínseco.
 > of GEICO's economic goodwill is about $14 billion." — 2010
 
 ## Relacionados
+- [[sees-candies]] — el negocio sobre el que Buffett define el concepto.
+- [[scott-fetzer]] — la prima pagada, amortizada contra un valor que crecía.
 - [[ventaja-competitiva]] — la franquicia con el consumidor es la fuente del goodwill.
 - [[valor-intrinseco]] — el goodwill económico es parte del valor intrínseco no contable.
 - [[valor-contable-pierde-relevancia]] — la misma brecha, medida en el marcador de Berkshire.

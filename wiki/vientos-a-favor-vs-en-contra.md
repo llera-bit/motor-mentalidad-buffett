@@ -80,6 +80,7 @@ al mejor gestor.
 > business." — 2006
 
 ## Relacionados
+- [[negocio-textil]] — el barco del que Buffett tardó veinte años en bajarse.
 - [[criterios-de-seleccion]] — el filtro (2), perspectivas favorables a largo plazo,
   es este viento a favor.
 

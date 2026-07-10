@@ -70,6 +70,7 @@ reemplazan; el dólar que se debe nunca sale, de hecho, de casa.
 > under GAAP." — 2015
 
 ## Relacionados
+- [[geico]] — el caso extremo: coste del float por debajo de cero.
 - [[disciplina-de-no-actuar]] — la disciplina de suscripción es lo que mantiene barato el float.
 - [[fortaleza-financiera-y-liquidez]] — bien gestionado potencia la fortaleza; mal gestionado la amenaza.
 - [[ventaja-competitiva]] — el bajo coste de suscripción (GEICO) abarata el float.

@@ -73,6 +73,7 @@ En 2010 los reformula como cuatro disciplinas, y señala cuál es la que casi to
 > than insurance." — 2010
 
 ## Relacionados
+- [[clayton-homes]] — los mismos principios, aplicados a prestar en vez de a asegurar.
 - [[riesgo-no-es-volatilidad]] — el riesgo real es la pérdida, no la volatilidad.
 - [[circulo-de-competencia]] — el principio 1: solo lo que sabes evaluar.
 - [[fortaleza-financiera-y-liquidez]] — limitar la exposición preserva la solvencia.

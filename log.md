@@ -746,3 +746,24 @@ _Registro append-only. Prefijo por entrada: `## [YYYY-MM-DD] <op> | <detalle>`
 - **Enlaces entrantes añadidos:** `candor`, `owner-earnings`, `riesgo-no-es-volatilidad`,
   `valor-contable-pierde-relevancia`, `incentivos-alineados`.
 - **Estado:** borrador.
+
+## [2026-07-10] ingest | rebalanceo por proporcionalidad — dominio casos (3/4)
+- **Contexto:** `casos` tenía **una** página (`float`) mientras GEICO aparece en 44 de las 48 cartas,
+  See's en 36 y el textil en 31. Las empresas se citaban dentro de páginas de psicología y modelos
+  mentales, nunca como sujeto.
+- **Páginas creadas (7):** `sees-candies` (1983, 2007, 2011, 2014), `geico` (1980, 1995),
+  `negocio-textil` (1985), `nebraska-furniture-mart` (1983), `scott-fetzer` (1994), `clayton-homes`
+  (2008), `negocios-regulados` (2010, 2011).
+- **Duplicación detectada y evitada:** la cita de Pascal ("unable to stay quietly in one room") ya
+  estaba en `locura-de-las-adquisiciones` atribuida a 1982; `nebraska-furniture-mart` la referencia
+  con enlace en vez de repetirla, y solo cita el remate de 1983.
+- **No duplicado (verificado antes de escribir):** el poder de fijación de precios de See's (1991) y
+  la subasta de la maquinaria textil (1985) siguen en `goodwill-economico`; el desfile de puntillas y
+  "which boat you get into" (1985) siguen en `vientos-a-favor-vs-en-contra`; el float negativo de
+  GEICO (1990) sigue en `float`; la recompra de GEICO (1980) sigue en `recompra-de-acciones`; la
+  amortización de la prima de Scott Fetzer (1994) sigue en `goodwill-economico`. Las páginas de caso
+  enlazan a esas citas en vez de repetirlas.
+- **Atribución verificada:** "Lending 101", "canary-in-the-coal-mine" y "Jimmy Stewart" son de 2008
+  (no 2009); "Wise regulation and wise investment" y "social compact" son de 2010.
+- **Enlaces entrantes añadidos en 12 páginas existentes** para que ninguna de las 7 nazca huérfana.
+- **Estado:** borrador.

@@ -112,3 +112,17 @@ _Páginas de la wiki agrupadas por `domain`. Se actualiza con cada ingesta._
 ## casos
 - [Float (flotante del seguro)](wiki/float.md) — dinero que se retiene pero no se posee;
   crea valor si su coste es menor que el de otros fondos; es un fondo rotatorio, no una deuda. `[1990, 1995, 1997, 1998, 2015]`
+- [See's Candies](wiki/sees-candies.md) — el negocio soñado: 32 M reinvertidos, 1.350 M de beneficio;
+  la escuela donde Buffett aprendió el valor de una marca. `[1983, 2007, 2011, 2014]`
+- [GEICO](wiki/geico.md) — la ventaja seguía intacta bajo los escombros; el productor de bajo coste
+  que el rival no puede imitar sin destruirse. `[1980, 1995]`
+- [El negocio textil](wiki/negocio-textil.md) — la autopsia: cada inversión racional, todas
+  ilusorias; Burlington; Adam Smith y Karl Marx. `[1985]`
+- [Nebraska Furniture Mart](wiki/nebraska-furniture-mart.md) — Mrs. Blumkin: 500 dólares, ninguna
+  escolarización, la mayor tienda de muebles del país. `[1983]`
+- [Scott Fetzer](wiki/scott-fetzer.md) — pagar el doble del valor en libros a propósito; el valor
+  contable baja mientras el negocio sube. `[1994]`
+- [Clayton Homes](wiki/clayton-homes.md) — el canario en la mina que nadie oyó; Lending 101: se
+  juzga la capacidad de pago, no el colateral. `[2008]`
+- [Negocios regulados e intensivos en capital](wiki/negocios-regulados.md) — BNSF y MidAmerican; el
+  pacto social: invertir siempre a cambio de un retorno razonable. `[2010, 2011]`

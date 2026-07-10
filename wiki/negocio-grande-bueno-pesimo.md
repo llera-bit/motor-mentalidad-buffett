@@ -48,6 +48,8 @@ muchas veces es un error hacerlo.
 > mistake to do so." — 2007
 
 ## Relacionados
+- [[sees-candies]] — el gran negocio, en cifras.
+- [[negocios-regulados]] — el buen negocio: poner más para ganar más.
 - [[ventaja-competitiva]] — el foso duradero es el requisito previo del gran negocio.
 - [[valor-y-crecimiento]] — crecer solo crea valor si el capital incremental rinde bien.
 - [[goodwill-economico]] — See's: poquísimo activo tangible, retornos enormes.

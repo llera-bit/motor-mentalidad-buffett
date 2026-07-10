@@ -67,6 +67,7 @@ Berkshire es no tener un plan estratégico que obligue a comprar.
 > Peter Drucker)
 
 ## Relacionados
+- [[nebraska-furniture-mart]] — la única excepción a la cita de Pascal.
 - [[disciplina-de-no-actuar]] — la disciplina de no pagar de más ni actuar por actuar.
 - [[buen-negocio-a-precio-justo]] — comprar un príncipe que ya lo era, no un sapo a besar.
 

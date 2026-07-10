@@ -85,6 +85,7 @@ Y denuncia el sesgo de los asesores: valoran lo que se compra, nunca lo que se e
 > being given... 'Don't ask the barber whether you need a haircut.'" — 2009
 
 ## Relacionados
+- [[negocios-regulados]] — BNSF y el precio pagado en acciones.
 - [[locura-de-las-adquisiciones]] — la sed de tamaño que empuja a estas emisiones.
 - [[recompra-de-acciones]] — la cara inversa: recomprar cuando se cotiza bajo el valor.
 - [[retener-o-repartir]] — misma disciplina de asignación de capital orientada al dueño.

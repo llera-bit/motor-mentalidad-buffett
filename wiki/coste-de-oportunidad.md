@@ -41,6 +41,7 @@ Y confiesa haber caído él mismo en la trampa durante años, con la fábrica te
 > existing textile operation - so for years that's exactly what I did." — 2010
 
 ## Relacionados
+- [[negocio-textil]] — reinvertir donde se ganó, por costumbre.
 - [[negocio-grande-bueno-pesimo]] — el gran negocio no puede reinvertir dentro todo lo que gana.
 - [[retener-o-repartir]] — retener solo si el capital rinde más dentro que fuera.
 - [[disciplina-de-no-actuar]] — si nada supera a la alternativa, la respuesta es no actuar.
