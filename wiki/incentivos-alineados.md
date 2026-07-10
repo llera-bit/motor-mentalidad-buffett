@@ -1,9 +1,9 @@
 ---
 concepto: Incentivos alineados
 domain: modelos-mentales
-years: [1985, 1991, 1994, 2002, 2003, 2010, 2019]
+years: [1985, 1991, 1994, 1998, 2002, 2003, 2010, 2019]
 estado: borrador
-actualizado: 2026-07-09
+actualizado: 2026-07-10
 ---
 
 # Incentivos alineados
@@ -52,6 +52,18 @@ pierdes tú".
 > "In our book, alignment means being a partner in both directions, not just on the upside. Many
 > 'alignment' plans flunk this basic test, being artful forms of 'heads I win, tails you
 > lose.'" — 1994
+
+En 1998 lo lleva a la práctica: al comprar General Re sustituye su plan de opciones por uno en
+efectivo de economía equivalente, para que lo que cuente sea el negocio que entregan y no la
+cotización, que no controlan.
+
+> "we are replacing General Re's longstanding stock option plan with a cash plan that ties the
+> incentive compensation of General Re managers to their operating achievements. Formerly what
+> counted for these managers was General Re's stock price; now their payoff will come from the
+> business performance they deliver." — 1998
+
+Los dos planes son idénticos en economía y opuestos en contabilidad —esa asimetría es el asunto de
+[[opciones-como-gasto]]—, pero aquí lo que importa es a qué queda atado el gestor.
 
 En 2002 muestra la cara perversa con los derivados: los errores de valoración no fueron
 simétricos, sino que favorecieron al trader que buscaba su bonus y al CEO que quería
@@ -103,6 +115,7 @@ independiente al que tiene su fortuna atada a la empresa.
 > shares with their savings, rather than simply having been the recipients of grants." — 2019
 
 ## Relacionados
+- [[opciones-como-gasto]] — el argumento contable; esta página trata el del incentivo.
 - [[retener-o-repartir]] — las opciones premian retener, aunque el capital rinda poco.
 - [[fallar-convencionalmente]] — actuar como dueño, no como gestor a sueldo.
 
@@ -110,6 +123,7 @@ independiente al que tiene su fortuna atada a la empresa.
 - 1985
 - 1991
 - 1994
+- 1998
 - 2002
 - 2003
 - 2010

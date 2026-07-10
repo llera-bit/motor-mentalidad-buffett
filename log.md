@@ -726,3 +726,23 @@ _Registro append-only. Prefijo por entrada: `## [YYYY-MM-DD] <op> | <detalle>`
   considerably understated, proxy" y en 2018 lo retira. No es contradicción —él mismo enumera las
   tres circunstancias que cambiaron—, así que **Evolución no se dispara**. Queda anotado.
 - **Estado:** borrador.
+
+## [2026-07-10] ingest | rebalanceo por proporcionalidad — dominio contabilidad (2/4)
+- **Páginas creadas:** `contabilidad-enganosa` (1998, 2000, 2002), `opciones-como-gasto`
+  (1992, 1998, 2002), `mark-to-market` (2017, 2018, 2019).
+- **Split ejecutado (aprobado):** `incentivos-alineados` no cede nada —sus diez citas sobre opciones
+  son de diseño de incentivo, no de contabilidad— y **gana** 1998 (el plan de opciones de General Re
+  sustituido por uno en efectivo). El argumento contable de esa misma operación va a la página nueva.
+- **Frontera de 2002 (aprobada):** "If a company still does not expense options... watch out" →
+  `opciones-como-gasto`; las pensiones fantasiosas, la cucaracha, el EBITDA, las notas al pie y las
+  proyecciones → `contabilidad-enganosa`. Sin solape de texto citado.
+- **Duplicación detectada y corregida:** `candor` (psicologia) contenía ya el silogismo de 1992 y el
+  ejemplo de la publicidad de GEICO pagada en opciones (1998). Ambas citas **salen de `candor`** y
+  pasan a `opciones-como-gasto`; `candor` conserva el marco ético (el coste existe aunque no salga
+  caja; el perro de Lincoln; "rather it be with our earnings than with our accounting") y sus años no
+  cambian. Sin esta limpieza habrían quedado dos páginas citando el mismo texto.
+- **No duplicado:** el "EBDIT" de 1989 sigue en `owner-earnings` como parte de la fórmula de
+  valoración; el EBITDA de 2000 y 2002 va a `contabilidad-enganosa` como práctica engañosa.
+- **Enlaces entrantes añadidos:** `candor`, `owner-earnings`, `riesgo-no-es-volatilidad`,
+  `valor-contable-pierde-relevancia`, `incentivos-alineados`.
+- **Estado:** borrador.

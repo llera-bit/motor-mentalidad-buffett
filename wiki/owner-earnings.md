@@ -47,6 +47,7 @@ salarios.
 ## Relacionados
 - [[look-through-earnings]] — la otra corrección al beneficio GAAP, por el lado de las participadas.
 - [[valor-intrinseco]] — los owner earnings alimentan la estimación del valor intrínseco.
+- [[contabilidad-enganosa]] — el EBITDA y las demás formas de esconder el capex.
 - [[roe-vs-beneficio-por-accion]] — otra crítica a las métricas contables engañosas.
 - [[goodwill-economico]] — misma idea: la contabilidad no es la realidad económica.
 

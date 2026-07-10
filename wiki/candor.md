@@ -26,12 +26,13 @@ dinero de caja. En 1992, sobre las opciones sobre acciones, se niega a que una c
 contable convierta un coste en un no-coste.
 
 > "Shareholders should understand that companies incur costs when they deliver something of
-> value to another party and not just when cash changes hands... If options aren't a form of
-> compensation, what are they? If compensation isn't an expense, what is it? And, if expenses
-> shouldn't go into the calculation of earnings, where in the world should they go?" — 1992
+> value to another party and not just when cash changes hands." — 1992
 
 > "How many legs does a dog have if you call his tail a leg? ... Four, because calling a tail a
 > leg does not make it a leg." — 1992 (Buffett citando a Abraham Lincoln)
+
+El desarrollo contable del argumento —el silogismo de 1992 y el ejemplo de la publicidad de
+GEICO pagada en opciones— está en [[opciones-como-gasto]].
 
 La misma honestidad se aplica a las metas: se niega a la práctica de disparar primero y pintar
 la diana después, y se compromete a fijar el objetivo por adelantado.
@@ -49,15 +50,10 @@ contabilidad. Y a sus gestores les pide pensar en lo que importa, no en cómo se
 
 > "We want our managers to think about what counts, not how it will be counted." — 1998
 
-Vuelve sobre las opciones como coste real con un ejemplo demoledor: pagar la publicidad con
-opciones no la volvería gratis.
-
-> "Suppose that instead of paying cash for our ads, we paid the media in ten-year, at-the-market
-> Berkshire options. Would anyone then care to argue that Berkshire had not borne a cost for
-> advertising, or should not be charged this cost on its books?" — 1998
-
 ## Relacionados
 - [[analista-de-negocios]] — la honestidad en el reporte permite valorar el negocio de verdad.
+- [[contabilidad-enganosa]] — la epidemia de 1998 contra la que se define este principio.
+- [[opciones-como-gasto]] — el argumento contable completo sobre el coste de las opciones.
 - [[incentivos-alineados]] — negar que las opciones sean un coste es el ejemplo de 1992.
 
 ## Cartas fuente

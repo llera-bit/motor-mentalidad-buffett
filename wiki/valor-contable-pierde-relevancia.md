@@ -58,6 +58,7 @@ No es que la métrica se rompiera: es que el negocio que medía cambió de natur
 ## Relacionados
 - [[valor-intrinseco]] — lo que puede sacarse, frente a lo que se metió.
 - [[goodwill-economico]] — la misma brecha, vista desde los activos tangibles.
+- [[mark-to-market]] — la otra cifra oficial que dejó de describir el negocio.
 - [[recompra-de-acciones]] — la tercera causa del divorcio entre ambos marcadores.
 - [[dos-columnas-de-valoracion]] — con qué sustituye Buffett el atajo contable.
 - [[look-through-earnings]] — la corrección paralela del lado del beneficio.

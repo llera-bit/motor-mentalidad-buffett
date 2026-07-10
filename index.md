@@ -59,7 +59,7 @@ _Páginas de la wiki agrupadas por `domain`. Se actualiza con cada ingesta._
 - [Contra el mercado eficiente](wiki/contra-el-mercado-eficiente.md) — precio y valor
   divergen; la ventaja es la actitud, no el pronóstico (Washington Post). `[1985, 1988, 1992]`
 - [Incentivos alineados](wiki/incentivos-alineados.md) — las opciones premian retener, no
-  la habilidad; atar el premio a lo controlable; el cocker spaniel, no el pit bull. `[1985, 1991, 1994, 2002, 2003, 2010, 2019]`
+  la habilidad; atar el premio a lo controlable; el cocker spaniel, no el pit bull. `[1985, 1991, 1994, 1998, 2002, 2003, 2010, 2019]`
 - [Arbitraje](wiki/arbitraje.md) — cuatro preguntas para evaluar una operación anunciada;
   pocas, grandes y públicas. `[1988]`
 - [Círculo de competencia](wiki/circulo-de-competencia.md) — obstáculos de un palmo, no de
@@ -102,6 +102,12 @@ _Páginas de la wiki agrupadas por `domain`. Se actualiza con cada ingesta._
   tasa sobre el capital, no por el crecimiento del beneficio por acción. `[1979]`
 - [Goodwill económico](wiki/goodwill-economico.md) — valor capitalizado del exceso de
   retorno sobre los activos tangibles; franquicia con el consumidor. `[1983, 1985, 1991, 1994, 1999, 2010]`
+- [Contabilidad engañosa](wiki/contabilidad-enganosa.md) — la mala contabilidad expulsa a la buena:
+  el cargo de reestructuración, el golfista, el EBITDA y las tres señales de alarma. `[1998, 2000, 2002]`
+- [Las opciones son un gasto](wiki/opciones-como-gasto.md) — si no son retribución, ¿qué son?;
+  la norma que ofrece pagar sin contar el coste. `[1992, 1998, 2002]`
+- [Mark-to-market](wiki/mark-to-market.md) — la regla correcta que produce una cifra inútil;
+  mirar los beneficios operativos, no el resultado GAAP. `[2017, 2018, 2019]`
 
 ## casos
 - [Float (flotante del seguro)](wiki/float.md) — dinero que se retiene pero no se posee;

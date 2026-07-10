@@ -95,6 +95,7 @@ proporción de bonos es un error grave.
 ## Relacionados
 - [[tres-categorias-de-activos]] — el marco donde este riesgo se hace visible: el bono "seguro".
 - [[volatilidad-y-venta-forzada]] — la volatilidad solo daña si te obliga a vender.
+- [[mark-to-market]] — la misma oscilación, cuando la contabilidad la llama beneficio o pérdida.
 - [[mr-market]] — el verdadero inversor da la bienvenida a la volatilidad.
 - [[margen-de-seguridad]] — el precio (factor 4) y su colchón.
 - [[circulo-de-competencia]] — los factores 1-3 exigen entender el negocio.
