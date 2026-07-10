@@ -2,7 +2,7 @@
 concepto: El valor contable pierde relevancia
 domain: valoracion
 years: [1994, 2011, 2018]
-estado: borrador
+estado: estable
 actualizado: 2026-07-10
 ---
 

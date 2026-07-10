@@ -2,7 +2,7 @@
 concepto: Errores de omisión
 domain: psicologia
 years: [1991, 2007, 2024]
-estado: borrador
+estado: estable
 actualizado: 2026-07-10
 ---
 

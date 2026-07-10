@@ -2,7 +2,7 @@
 concepto: El gran negocio, el bueno y el pésimo
 domain: modelos-mentales
 years: [2007]
-estado: borrador
+estado: estable
 actualizado: 2026-07-09
 ---
 

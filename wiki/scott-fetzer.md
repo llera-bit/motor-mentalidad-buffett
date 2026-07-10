@@ -2,7 +2,7 @@
 concepto: Scott Fetzer
 domain: casos
 years: [1994]
-estado: borrador
+estado: estable
 actualizado: 2026-07-10
 ---
 

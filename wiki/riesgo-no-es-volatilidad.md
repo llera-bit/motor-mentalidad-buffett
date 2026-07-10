@@ -2,7 +2,7 @@
 concepto: El riesgo no es la volatilidad
 domain: riesgo
 years: [1990, 1993, 2008, 2011, 2014, 2017]
-estado: borrador
+estado: estable
 actualizado: 2026-07-09
 ---
 

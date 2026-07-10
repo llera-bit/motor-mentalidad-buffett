@@ -2,7 +2,7 @@
 concepto: El negocio textil
 domain: casos
 years: [1985]
-estado: borrador
+estado: estable
 actualizado: 2026-07-10
 ---
 

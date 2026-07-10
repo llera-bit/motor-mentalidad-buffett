@@ -2,7 +2,7 @@
 concepto: Recompra de acciones
 domain: valoracion
 years: [1980, 1984, 1999, 2011]
-estado: borrador
+estado: estable
 actualizado: 2026-07-09
 ---
 

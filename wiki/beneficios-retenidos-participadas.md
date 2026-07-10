@@ -2,7 +2,7 @@
 concepto: Beneficios retenidos de participadas
 domain: valoracion
 years: [1978, 1979, 1980, 2019]
-estado: borrador
+estado: estable
 actualizado: 2026-07-10
 ---
 

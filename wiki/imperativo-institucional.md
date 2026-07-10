@@ -2,7 +2,7 @@
 concepto: El imperativo institucional
 domain: psicologia
 years: [1989, 1990, 2003, 2012]
-estado: borrador
+estado: estable
 actualizado: 2026-07-09
 ---
 

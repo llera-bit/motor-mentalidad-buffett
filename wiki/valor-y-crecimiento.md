@@ -2,7 +2,7 @@
 concepto: Valor y crecimiento
 domain: valoracion
 years: [1991, 1992, 2000, 2013]
-estado: borrador
+estado: estable
 actualizado: 2026-07-09
 ---
 

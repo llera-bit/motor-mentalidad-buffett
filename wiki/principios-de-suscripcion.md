@@ -2,7 +2,7 @@
 concepto: Principios de suscripción (riesgo)
 domain: riesgo
 years: [1997, 2001, 2002, 2010]
-estado: borrador
+estado: estable
 actualizado: 2026-07-09
 ---
 

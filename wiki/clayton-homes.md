@@ -2,7 +2,7 @@
 concepto: Clayton Homes y la originación hipotecaria
 domain: casos
 years: [2008]
-estado: borrador
+estado: estable
 actualizado: 2026-07-10
 ---
 

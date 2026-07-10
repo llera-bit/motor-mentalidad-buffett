@@ -786,3 +786,16 @@ _Registro append-only. Prefijo por entrada: `## [YYYY-MM-DD] <op> | <detalle>`
 - **Cierre:** por instrucción del usuario, se detiene aquí toda auditoría de cobertura y
   proporcionalidad. Lo que se observe a partir de ahora se anota, no se investiga.
 - **Estado:** borrador (salvo `vientos-a-favor-vs-en-contra`, que sigue `pendiente`).
+
+## [2026-07-10] lint | promoción a estable de las 56 páginas
+- **Aprobación del usuario.** Revisó **a mano 10 páginas** de la muestra propuesta:
+  `look-through-earnings`, `beneficios-retenidos-participadas`, `opciones-como-gasto`, `candor`,
+  `contabilidad-enganosa`, `negocio-textil`, `sees-candies`, `geico`, `scott-fetzer`, `derivados`.
+  Veredicto: "todo correcto". Las **46 restantes se promueven por extensión**, no por revisión
+  individual. Queda constancia aquí para que el campo `estado` no se lea como algo que no es.
+- **Transición:** 50 `borrador` + 6 `pendiente` → 56 `estable`.
+- **`actualizado` no se toca:** la aprobación no es un cambio de contenido, y así cada página
+  conserva la fecha real de su última edición.
+- **Verificaciones antes del commit:** `check_years.py` → 0 problemas.
+  `graph_audit.py` → 56 páginas, 0 rotos, 0 huérfanas, idx-diff vacío, estado={'estable': 56}.
+- **Contenido congelado.** A partir de aquí no se toca contenido salvo instrucción explícita.

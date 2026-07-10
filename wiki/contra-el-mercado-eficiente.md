@@ -2,7 +2,7 @@
 concepto: Contra el mercado eficiente
 domain: modelos-mentales
 years: [1985, 1988, 1992]
-estado: borrador
+estado: estable
 actualizado: 2026-07-09
 ---
 

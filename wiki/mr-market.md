@@ -2,7 +2,7 @@
 concepto: Mr. Market
 domain: psicologia
 years: [1987, 1993, 1997, 2013]
-estado: pendiente
+estado: estable
 actualizado: 2026-07-09
 ---
 

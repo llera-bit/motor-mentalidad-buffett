@@ -2,7 +2,7 @@
 concepto: Buen negocio a precio justo
 domain: modelos-mentales
 years: [1979, 1980, 1989, 2014]
-estado: borrador
+estado: estable
 actualizado: 2026-07-09
 ---
 

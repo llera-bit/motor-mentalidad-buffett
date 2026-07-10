@@ -2,7 +2,7 @@
 concepto: Holding para siempre
 domain: psicologia
 years: [1988, 1996, 1998]
-estado: borrador
+estado: estable
 actualizado: 2026-07-08
 ---
 

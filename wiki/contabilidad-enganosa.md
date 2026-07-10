@@ -2,7 +2,7 @@
 concepto: Contabilidad engañosa
 domain: contabilidad
 years: [1998, 2000, 2002]
-estado: borrador
+estado: estable
 actualizado: 2026-07-10
 ---
 

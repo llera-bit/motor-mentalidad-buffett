@@ -2,7 +2,7 @@
 concepto: Emitir acciones solo a su valor
 domain: valoracion
 years: [1982, 1994, 1997, 2007, 2009]
-estado: borrador
+estado: estable
 actualizado: 2026-07-09
 ---
 

@@ -2,7 +2,7 @@
 concepto: Las dos columnas de valoración
 domain: valoracion
 years: [2010, 2011]
-estado: borrador
+estado: estable
 actualizado: 2026-07-10
 ---
 

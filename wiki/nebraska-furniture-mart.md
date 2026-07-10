@@ -2,7 +2,7 @@
 concepto: Nebraska Furniture Mart
 domain: casos
 years: [1983]
-estado: borrador
+estado: estable
 actualizado: 2026-07-10
 ---
 

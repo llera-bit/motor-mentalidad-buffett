@@ -2,7 +2,7 @@
 concepto: Franquicia vs. negocio
 domain: modelos-mentales
 years: [1991, 1995, 2006, 2012]
-estado: borrador
+estado: estable
 actualizado: 2026-07-09
 ---
 

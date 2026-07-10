@@ -2,7 +2,7 @@
 concepto: Fortaleza financiera y liquidez
 domain: riesgo
 years: [1980, 1983, 1989, 1990, 1996, 2008, 2014]
-estado: borrador
+estado: estable
 actualizado: 2026-07-09
 ---
 

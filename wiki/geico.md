@@ -2,7 +2,7 @@
 concepto: GEICO
 domain: casos
 years: [1980, 1995]
-estado: borrador
+estado: estable
 actualizado: 2026-07-10
 ---
 

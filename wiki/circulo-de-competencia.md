@@ -2,7 +2,7 @@
 concepto: Círculo de competencia
 domain: modelos-mentales
 years: [1989, 1990, 1992, 1993, 1994, 1996, 1999, 2013]
-estado: borrador
+estado: estable
 actualizado: 2026-07-09
 ---
 

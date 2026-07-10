@@ -2,7 +2,7 @@
 concepto: Look-through earnings
 domain: valoracion
 years: [1990, 1991, 1997, 2013]
-estado: borrador
+estado: estable
 actualizado: 2026-07-10
 ---
 

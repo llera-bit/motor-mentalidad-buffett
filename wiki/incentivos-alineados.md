@@ -2,7 +2,7 @@
 concepto: Incentivos alineados
 domain: modelos-mentales
 years: [1985, 1991, 1994, 1998, 2002, 2003, 2010, 2019]
-estado: borrador
+estado: estable
 actualizado: 2026-07-10
 ---
 

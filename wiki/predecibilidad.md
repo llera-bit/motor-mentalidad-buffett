@@ -2,7 +2,7 @@
 concepto: Predecibilidad (los Inevitables)
 domain: modelos-mentales
 years: [1996, 2009]
-estado: borrador
+estado: estable
 actualizado: 2026-07-09
 ---
 

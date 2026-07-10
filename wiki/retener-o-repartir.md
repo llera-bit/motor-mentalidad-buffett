@@ -2,7 +2,7 @@
 concepto: Retener o repartir
 domain: valoracion
 years: [1981, 1983, 1984, 2012]
-estado: borrador
+estado: estable
 actualizado: 2026-07-09
 ---
 

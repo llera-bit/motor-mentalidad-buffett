@@ -2,7 +2,7 @@
 concepto: Mark-to-market, cuando el GAAP contamina el resultado
 domain: contabilidad
 years: [2017, 2018, 2019]
-estado: borrador
+estado: estable
 actualizado: 2026-07-10
 ---
 

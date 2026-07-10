@@ -2,7 +2,7 @@
 concepto: Volatilidad y venta forzada
 domain: riesgo
 years: [1987, 2014, 2017]
-estado: pendiente
+estado: estable
 actualizado: 2026-07-09
 ---
 

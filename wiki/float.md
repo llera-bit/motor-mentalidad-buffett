@@ -2,7 +2,7 @@
 concepto: Float (flotante del seguro)
 domain: casos
 years: [1990, 1995, 1997, 1998, 2015, 2016, 2020]
-estado: borrador
+estado: estable
 actualizado: 2026-07-10
 ---
 

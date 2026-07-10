@@ -2,7 +2,7 @@
 concepto: Arbitraje
 domain: modelos-mentales
 years: [1988]
-estado: borrador
+estado: estable
 actualizado: 2026-07-08
 ---
 

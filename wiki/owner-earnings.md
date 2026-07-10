@@ -2,7 +2,7 @@
 concepto: Owner earnings
 domain: valoracion
 years: [1986, 1989]
-estado: borrador
+estado: estable
 actualizado: 2026-07-08
 ---
 

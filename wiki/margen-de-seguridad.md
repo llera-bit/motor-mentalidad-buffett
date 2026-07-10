@@ -2,7 +2,7 @@
 concepto: Margen de seguridad
 domain: riesgo
 years: [1990, 1992, 2020]
-estado: borrador
+estado: estable
 actualizado: 2026-07-09
 ---
 

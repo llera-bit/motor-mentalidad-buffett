@@ -2,7 +2,7 @@
 concepto: Fallar convencionalmente
 domain: psicologia
 years: [1984, 2008]
-estado: borrador
+estado: estable
 actualizado: 2026-07-09
 ---
 

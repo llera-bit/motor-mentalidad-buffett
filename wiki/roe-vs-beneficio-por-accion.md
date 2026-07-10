@@ -2,7 +2,7 @@
 concepto: Retorno sobre el capital, no BPA
 domain: contabilidad
 years: [1979]
-estado: borrador
+estado: estable
 actualizado: 2026-07-08
 ---
 

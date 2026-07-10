@@ -2,7 +2,7 @@
 concepto: La locura de las adquisiciones
 domain: psicologia
 years: [1981, 1982, 1992, 1995]
-estado: borrador
+estado: estable
 actualizado: 2026-07-09
 ---
 

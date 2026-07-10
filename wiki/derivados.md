@@ -2,7 +2,7 @@
 concepto: Derivados
 domain: riesgo
 years: [2002, 2003, 2005, 2008, 2009]
-estado: borrador
+estado: estable
 actualizado: 2026-07-10
 ---
 

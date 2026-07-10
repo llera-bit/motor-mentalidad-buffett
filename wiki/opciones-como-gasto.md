@@ -2,7 +2,7 @@
 concepto: Las opciones son un gasto
 domain: contabilidad
 years: [1992, 1998, 2002]
-estado: borrador
+estado: estable
 actualizado: 2026-07-10
 ---
 

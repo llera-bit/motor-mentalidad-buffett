@@ -2,7 +2,7 @@
 concepto: Ventaja competitiva duradera
 domain: modelos-mentales
 years: [1980, 1982, 1986, 1993, 1995, 2005, 2007]
-estado: borrador
+estado: estable
 actualizado: 2026-07-09
 ---
 

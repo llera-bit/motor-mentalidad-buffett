@@ -2,7 +2,7 @@
 concepto: Goodwill económico
 domain: contabilidad
 years: [1983, 1985, 1991, 1994, 1999, 2010]
-estado: borrador
+estado: estable
 actualizado: 2026-07-09
 ---
 

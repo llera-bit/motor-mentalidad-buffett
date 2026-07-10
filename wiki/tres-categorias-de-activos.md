@@ -2,7 +2,7 @@
 concepto: Las tres categorías de activos
 domain: modelos-mentales
 years: [2011, 2018, 2020, 2024]
-estado: borrador
+estado: estable
 actualizado: 2026-07-10
 ---
 

@@ -2,7 +2,7 @@
 concepto: Concentración
 domain: modelos-mentales
 years: [1978, 1981, 1984, 1988, 1991, 1993, 1996, 2022]
-estado: borrador
+estado: estable
 actualizado: 2026-07-10
 ---
 

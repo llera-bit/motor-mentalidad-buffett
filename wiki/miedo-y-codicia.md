@@ -2,7 +2,7 @@
 concepto: Miedo y codicia
 domain: psicologia
 years: [1986, 1990, 1994, 2000, 2009]
-estado: borrador
+estado: estable
 actualizado: 2026-07-09
 ---
 

@@ -2,7 +2,7 @@
 concepto: Vientos a favor vs. en contra
 domain: modelos-mentales
 years: [1977, 1978, 1982, 1985, 1990, 1996, 2006]
-estado: pendiente
+estado: estable
 actualizado: 2026-07-10
 ---
 

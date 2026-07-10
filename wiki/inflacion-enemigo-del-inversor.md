@@ -2,7 +2,7 @@
 concepto: Inflación, enemigo del inversor
 domain: riesgo
 years: [1979, 1980, 1981]
-estado: borrador
+estado: estable
 actualizado: 2026-07-08
 ---
 

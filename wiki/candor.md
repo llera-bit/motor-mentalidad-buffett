@@ -2,7 +2,7 @@
 concepto: Candor
 domain: psicologia
 years: [1983, 1992, 1993, 1998]
-estado: borrador
+estado: estable
 actualizado: 2026-07-09
 ---
 

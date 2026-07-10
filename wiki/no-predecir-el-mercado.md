@@ -2,7 +2,7 @@
 concepto: No predecir el mercado
 domain: psicologia
 years: [1978, 1980, 1992, 1994]
-estado: borrador
+estado: estable
 actualizado: 2026-07-09
 ---
 

@@ -2,7 +2,7 @@
 concepto: Coste de oportunidad
 domain: modelos-mentales
 years: [1995, 2007, 2010]
-estado: borrador
+estado: estable
 actualizado: 2026-07-09
 ---
 

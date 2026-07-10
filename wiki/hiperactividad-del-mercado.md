@@ -2,7 +2,7 @@
 concepto: Hiperactividad del mercado
 domain: psicologia
 years: [1983, 1986, 2004, 2005, 2016, 2018, 2023]
-estado: borrador
+estado: estable
 actualizado: 2026-07-10
 ---
 

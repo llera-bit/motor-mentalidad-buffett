@@ -2,7 +2,7 @@
 concepto: Valor intrínseco
 domain: valoracion
 years: [1983, 1992, 2000, 2010]
-estado: borrador
+estado: estable
 actualizado: 2026-07-09
 ---
 
